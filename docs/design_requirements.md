@@ -8,7 +8,7 @@
 |**Deelaspect**|
 |2.1|De pods ... |[2.1 User test](url)|✅|
 |1|De centrale hub|
-|1.1|De centrale hub laat de gebruikers toe hun energieverbruik af te lezen.|Gebruiker interviews||❌|
+|1.1|De centrale hub laat de gebruikers toe hun energieverbruik af te lezen.|Gebruiker interviews|❌|
 |1.2|De centrale hub kan toestellen (de)activeren||❌|
 |1.3|De centrale hub kan de optimale tijd beslissen om toestellen te besturen	Gebruiker interviews||❌|
 |1.4|De centrale hub kan de correcte, actuele prijs berekenen van het energieverbruik||❌|
