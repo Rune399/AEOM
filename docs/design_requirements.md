@@ -36,4 +36,4 @@
 |4.5|De knoppencontroller kan communiceren met de centrale hub||❌|
 |4.6|De knoppencontroller mag de functionaliteit van het apparaat niet tegenwerken||❌|
 |4.7|De knoppencontroller moet esthetisch zijn||❌|
-|4.8|De knoppencontroller moet robuust zijn|x|x|
+|4.8|De knoppencontroller moet robuust zijn||❌|
