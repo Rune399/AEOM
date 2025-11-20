@@ -22,22 +22,19 @@
 |1.9.1|De centrale hub moet monteerbaar zijn aan een muur||❌|
 |1.9.2|De centrale hub moet op een tafel rechtgezet kunnen worden||❌|
 |1.10|De centrale hub moet esthetisch zijn||❌|
-
-|ID|Design Requirement|Source|Status|
-|:---|:---|:---|:---:|
-|**2**|Slimme stekkers|
+|**2**|Slimme stekkers-Shelly Plug (als laatste aanpakken)|
 |2.1|De slimme stekkers kunnen communiceren met de centrale hub||❌|
-|2.2|De slimme stekkers kunnen manueel ge(de)activeert worden met een fysische knop||❌|
+|2.2|De slimme stekkers kunnen ge(de)activeert worden||❌|
 |2.3|De slimme stekkers kunnen de stroom naar een toestel doorbreken||❌|
 |2.4|De slimme stekker kan het energieverbruik van een toestel aflezen||❌|
-
-|ID|Design Requirement|Source|Status|
-|:---|:---|:---|:---:|
+|2.5|De slimme stekker is energie efficiënt||❌|
 |**3**|De knoppencontroller|
 |3.1|De knoppencontroller kan knoppen induwen||❌|
 |3.2|De knoppencontroller kan knoppen draaien||❌|
-|3.3|De knoppencontroller kan op verschillende oppervlaktes bevestigd worden||❌|
-|3.4|De knoppencontroller kan op verschillende vormen bevestigd worden||❌|
+|3.3|De knoppencontroller kan touchscreens besturen||❌|
+|3.4|De knoppencontroller is universeel monteerbaar||❌|
+|3.4.1|De knoppencontroller kan op verschillende oppervlaktes bevestigd worden||❌|
+|3.4.2|De knoppencontroller kan op verschillende vormen bevestigd worden||❌|
 |3.5|De knoppencontroller kan communiceren met de centrale hub||❌|
 |3.6|De knoppencontroller mag de functionaliteit van het apparaat niet tegenwerken||❌|
 |3.7|De knoppencontroller moet esthetisch zijn||❌|
