@@ -10,9 +10,9 @@
 |1|De centrale hub|
 |1.1|De centrale hub laat de gebruikers toe hun energieverbruik af te lezen in termen van euro's.|Gebruiker interviews|❌|
 |1.2|De centrale hub kan toestellen (de)activeren|Gebruiker intervieuws|❌|
-|1.2.1|De centrale hub kan knoppen besturen|❌|
-|1.2.2|De centrale hub kan touchscreens besturen|❌|
-|1.2.3|De centrale hub kan de stroom naar toestellen (de)activeren|❌|
+|1.2.1|De centrale hub kan knoppen besturen||❌|
+|1.2.2|De centrale hub kan touchscreens besturen||❌|
+|1.2.3|De centrale hub kan de stroom naar toestellen (de)activeren||❌|
 |1.3|De centrale hub kan de optimale tijd beslissen om toestellen te besturen|Gebruiker interviews|❌|
 |1.4|De centrale hub kan de correcte, actuele prijs berekenen van het energieverbruik|Gebruiker interviews|❌|
 |1.5|De centrale hub kan prioriteiten zetten voor bepaalde toestellen in zijn beslissingen|Gebruiker interviews|❌|
