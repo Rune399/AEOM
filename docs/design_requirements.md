@@ -22,12 +22,16 @@
 |1.9.1|De centrale hub moet monteerbaar zijn aan een muur||❌|
 |1.9.2|De centrale hub moet op een tafel rechtgezet kunnen worden||❌|
 |1.10|De centrale hub moet esthetisch zijn||❌|
+
+|ID|Design Requirement|Source|Status|
 |:---|:---|:---|:---:|
 |**2**|Slimme stekkers|
 |2.1|De slimme stekkers kunnen communiceren met de centrale hub||❌|
 |2.2|De slimme stekkers kunnen manueel ge(de)activeert worden met een fysische knop||❌|
 |2.3|De slimme stekkers kunnen de stroom naar een toestel doorbreken||❌|
 |2.4|De slimme stekker kan het energieverbruik van een toestel aflezen||❌|
+
+|ID|Design Requirement|Source|Status|
 |:---|:---|:---|:---:|
 |**3**|De knoppencontroller|
 |3.1|De knoppencontroller kan knoppen induwen||❌|
