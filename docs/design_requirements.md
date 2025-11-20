@@ -4,14 +4,16 @@
 |:---|:---|:---|:---:|
 |1|**De centrale hub**|
 |1.1|De centrale hub laat de gebruikers toe hun energieverbruik af te lezen in termen van euro's.|Gebruiker interviews|❌|
-|1.2|De centrale hub kan toestellen (de)activeren|Gebruiker intervieuws|❌|
+|1.2|De centrale hub kan toestellen (de)activeren|Gebruiker interviews|❌|
 |1.2.1|De centrale hub kan knoppen besturen||❌|
 |1.2.2|De centrale hub kan touchscreens besturen||❌|
 |1.2.3|De centrale hub kan de stroom naar toestellen (de)activeren||❌|
-|1.3|De centrale hub kan de optimale tijd beslissen om toestellen te besturen|Gebruiker interviews|❌|
+|1.3|De centrale hub kan de optimale tijd bepalen om toestellen te besturen|Gebruiker interviews|❌|
+|1.3.1|De centrale hub kan de output van de zonnepanelen lezen||❌|
+|1.3.2|De centrale hub weet hoelang en hoeveel een apparaat zal verbruiken||❌|
 |1.4|De centrale hub kan de correcte, actuele prijs berekenen van het energieverbruik|Gebruiker interviews|❌|
-|1.5|De centrale hub kan prioriteiten zetten voor bepaalde toestellen in zijn beslissingen|Gebruiker interviews|❌|
-|1.6|De centrale hub kan limieten zetten voor toestellen|Gebruiker interviews|❌|
+|1.5|De centrale hub kan gebruikt worden om prioriteiten te zetten voor het regelen van toestellen|Gebruiker interviews|❌|
+|1.6|De centrale hub kan gebruikt worden om tijdslimieten te zetten doorheen de dag voor toestellen|Gebruiker interviews|❌|
 |1.7|De centrale hub is gebruiksvriendelijk||❌|
 |1.8|De centrale hub is gemakkelijk om te navigeren||❌|
 |1.9|De centrale hub heeft een functioneel scherm|Gebruiker interface|❌|
