@@ -15,7 +15,8 @@
 |1.5|De centrale hub kan gebruikt worden om prioriteiten te zetten voor het regelen van toestellen|Gebruiker interviews|❌|
 |1.6|De centrale hub kan gebruikt worden om tijdslimieten te zetten doorheen de dag voor toestellen|Gebruiker interviews|❌|
 |1.7|De centrale hub is gebruiksvriendelijk||❌|
-|1.8|De centrale hub is gemakkelijk om te navigeren||❌|
+|1.7.1|De centrale hub is intuïtief om te navigeren||❌|
+|1.7.2|De centrale hub is voldoende leesbaar||❌|
 |1.9|De centrale hub heeft een functioneel scherm|Gebruiker interface|❌|
 |1.9.1|Het scherm kan reageren op aanrakingen||❌|
 |1.9.2|Het scherm is voldoende leesbaar	Gebruiker interviews||❌|
