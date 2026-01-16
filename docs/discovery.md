@@ -6,6 +6,8 @@
 **Wat wilde je bereiken?   
 Welke deelvragen moesten hiervoor beantwoord worden?**
 
+Het doel van deze fase in het ontwerpproces is om een eerste oriëntatie van de probleemruimte te voltooien en te onderzoeken voor welke onderverdelingen van duurzaamheid, in de thuiscontext, er al oplossingen bestaan. Het doel is om daarna een probleem te kiezen en uit te zoeken, of dit een reeël probleem is. Het is ook de bedoeling om een eerste onderzoek te doen, naar de wensen en noden van gebruikers.
+
 ### Materiaal & methoden
 **Hoe onderzocht je dit? Wees volledig.    
 Leg uit welke onderzoeksmethoden werden uitgevoerd en hoe dit werd aangepakt (link door naar het protocol).**
@@ -15,9 +17,9 @@ Het is een uitdaging om vanuit een brede term, zoals "duurzaamheid in huis", ter
   <img src="../img/Ontrafeling_duurzaamheid.jpg" width="100%">
 </p>
 
-Om te helpen bij het opstellen van deze probleem-lijst, werd parallel een Benchmark opgesteld, die ook van hulp was bij het kiezen van een finaal probleem.
+Om te helpen bij het opstellen van deze probleem-lijst, werd parallel een benchmark opgesteld, die ook van grote hulp was bij het kiezen van een finaal probleem. Deze benchmark werd afgelegd aan de hand van online beschikbare informatie. Voor meer informatie over de benchmark zie ***Benchmark protocol***
 
-**Benchmark report!!!!!!!!!!!!!!!!!**
+**Benchmark protocol!!!!!!!!!!!!!!!!!**
 
 
 
