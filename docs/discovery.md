@@ -5,7 +5,7 @@
 
 Het is een uitdaging om vanuit een brede term, zoals "duurzaamheid in huis", terecht te komen bij een specifiek probleem. Om deze stap makkelijker en meer gestructureerd te laten verlopen, werd eerst de term "duurzaamheid" ontleed in de drie domeinen van duuzaamheid (3P) namelijk: "People", "Planet", "Profit". Vervolgens werden deze domeinen onleed in categoriën, die op hun beurt werden opgesplits in specifieke onderwerpen. Voor elk van deze onderwerpen werden problemen bedacht, om tot een hele lijst problemen, binnen het thema te komen.
 <p align="center">
-  <img src="img/Ontrafeling duurzaamheid.jpg" width="100%">
+  <img src="img/Ontrafeling_duurzaamheid.jpg" width="100%">
 </p>
 
 ### Doelstellingen
