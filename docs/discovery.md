@@ -19,18 +19,16 @@ Het is een uitdaging om vanuit een brede term, zoals "duurzaamheid in huis", ter
 
 Om te helpen bij het opstellen van deze probleem-lijst, werd parallel een benchmark opgesteld, die ook van grote hulp was bij het kiezen van een finaal probleem. Deze benchmark werd afgelegd aan de hand van online beschikbare informatie. Voor meer informatie omtrent de benchmark zie <a href="../docs/S@H_Benchmark protocol.pdf">Benchmark protocol</a>.
 
-**Benchmark protocol!!!!!!!!!!!!!!!!!**
+**Resultaten Benchmark bij resultaten i gues????**
 
 
-
-
-
-Uit deze lijst met problemen werden de meest aantrekkelijke exemplaren geselecteerd. Op de problemen in deze selectiete, werd wat dieper nagedacht, waarna deze tegenover elkaar werden vergeleken. Vervolgens werd op wijze van eliminatie, een finale uitdaging gekozen.
+Uit deze lijst met problemen werden de meest aantrekkelijke exemplaren geselecteerd. Op de problemen in deze selectie, werd wat dieper nagedacht, waarna deze tegenover elkaar werden vergeleken. Ook werd rekening gehouden met de benchmark. Vervolgens werd op wijze van eliminatie, een finale uitdaging gekozen.
 
 <p align="center">
   <img src="../img/Probleem_selectie.jpg" width="100%">
 </p>
 
+Het geselcteerde probleem was: Door varierende energieprijzen, betalen gebruikers meer voor hun energie, dan nodig is. **.........????**
 
 
 ### Resultaten
