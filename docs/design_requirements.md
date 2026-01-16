@@ -3,7 +3,13 @@
 |ID|Design Requirement|Source|Status|
 |:---|:---|:---|:---:|
 |**1**|**De centrale hub**|
-|1.1|De centrale hub laat de gebruikers toe hun energieverbruik af te lezen in termen van euro's.|Gebruiker interviews|❌|
+|1.1|*Interface*||
+|1.1.1|De centrale hub laat de gebruikers toe hun energieverbruik af te lezen in euro's.|Gebruiker interviews|❌|
+|1.1.2|De centrale hub laat de gebruikers toe hun energieverbruik af te lezen in watt.|Interface research|❌|
+|1.1.3|Het verbruik kan worden weergegeven per dag, week, maand en jaar|Interface research|❌|
+|1.1.4|Het verbruik moet tesamen met een gemiddelde weergegeven worden|Interface research|❌|
+|1.1.5|Het totaal verbruik moet ook weergegeven worden|Interface research|❌|
+|1.1.6|Weekdagen en Weekenddagen moeten apart kunnen ingesteld worden|Interface research|❌|
 |1.2|De centrale hub kan toestellen (de)activeren|Gebruiker interviews|❌|
 |1.2.1|De centrale hub kan knoppen besturen||❌|
 |1.2.2|De centrale hub kan touchscreens besturen||❌|
