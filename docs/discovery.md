@@ -41,6 +41,7 @@ Hieronder staat de benchmark afgebeeld:
 <p align="center">
   <img src="../img/Benchmark.jpg" width="100%">
 </p>
+</br>
 
 #### Habit analysis (N=3)
 
@@ -54,10 +55,96 @@ Dit zijn de resultaten van de habit analysis:
 <p align="center">
   <img src="../img/Habit analysis_3.jpeg" width="100%">
 </p>
+</br>
 
 #### User interview (N=3)
 
-tekst
+Alle drie de respondenten hadden "toevallig" zonnepanelen. Ze hadden daarbij maar een kleine of zelfs geen batterij, daardoor bleek het moeilijk om energieverbruik af te stellen op de productie van de zonnepanelen.
+
+De meeste gebruikers werken overdag, waardoor ze er niet mee bezig kunnen zijn. Bovendien hebben ze daar ook geen tijd of zin voor.
+
+>“Je moet er zo hard mee bezig zijn, da je der op den duur geen zin meer in hebt.”
+
+Eén van de gebruikers houd zelf zijn batterij een beetje in het oog met een app, om zo te beslissen om iets aanzetten, of om eerder te wachten. Dat is echter heel moeilijk aangezien hij overdag weg is.
+
+>“Ge probeert u daarnaar te regelen, maar ja ge zit ook dikwijls in situaties, waardat ge dat ook niet helemaal kunt…” “Als iedereen overdag weg is, dan is dat heel moeilijk.”
+
+Wat ook terugkwam bij alle interviews, is dat de respondten niet echt kijken naar hun energiefactuur. Ze geven aan dat ze geen stress ondervinden, maar het eerder zien als kansen waar ze geen gebruik van kunnen maken.
+
+Ook vonden de gebruikers energieverbruik zeer moeilijk vatbaar… Ze gaven aan dat het maar wat getalletjes zijn, en dat het moeilijk is om te weten wat dat dan betekend, omdat ze geen referentiepunt hebben en niet gekend zijn met wattage. Terwijl verbuik of opbrengst van de zonnepanelen, in euro uitgedrukt, veel duidelijker zou zijn.
+
+>“Als ge ziet ik heb 10 MW bespaart of ik heb 10euro bespaart, het een zegt meer, als het andere.”
+
+>---------------“Ik vind dat energieverbruik iets heel abstract” “Als iemand da mij niet uitlegd, heb ik daar echt geen flauw idee van”
+
+##### Product voorkeuren:
+**Automatisch:**
+De gebruikers hadden het systeem iefst zo automatisch mogelijk, zodat ze er niet over moeten nadenken of mee bezig zijn.
+<!-->Vanaf hier verder verwerken... Komaan! goe bezig :)<!-->
+Voorang instellen, automatisch aan en uitschakelen van apparaten op basis van zonneenergie
+
+>“Als er echt veel zon is, dan mag eerst pomp 1 laten draaien, als er nog over is, pomp 2, dan warm
+water…”
+
+---Hebben zwembad met pompen
+---Interesse in dynamisch tarief, maar niet de mogelijkheid om daar gebruik van te maken aangezien hij werkt.
+
+**Interface:**
+Geen app, op den duur 100 apps op uwen gsm. Waarvoor isda nodig.
+Een schermpje of app zouden allebei kunnen, allebei voordelen en nadelen
+Een scherm is makkelijk, maar ik zie niet hoe dat in de praktijk goed komt:
+- Extra kost => minder rendabel??
+- Waar hangen (lelijk) als je in berging hangt, zie je het toch niet
+- Connectiviteitsproblemen
+- Installatiekosten
+App is ook makkelijk en goedkoop (buiten initieele development
+Denken aan luihied mens
+Weten wat je totaalverbruik is, maar ook het verbruik per toestel
+Intuitieve interface
+Apparaten schakelen:
+Voorang instellen
+
+**Info:**
+Vooral het u bespaarde kosten kunnen opvolgen in een grafiekje (bv gemiddelde, vs de prijs dat jij
+bepaalt hebt)
+Belangrijk te zien dat het werkt en een impact heeft.
+Welk toestel heeft gezorgd dat je goed of slecht bezig zijt (soms kan je der nie aan doen, bv
+kookplaat)
+Eurotjes zien, mensen zijn dan meer gemotiveerd en dat begrijpen mensen ten minste
+Zou veel handiger zijn om te zien staan: zoveel euro verbruikt.
+Duidelijke informatie
+
+>“Als ge ziet ik heb 10 MW bespaart of ik heb 10euro bespaart, het een zegt meer, als het andere.”
+
+>“Ik vind dat energieverbruik iets heel abstract” “Als iemand da mij niet uitlegd, heb ik daar echt geen
+flauw idee van”
+
+**Rendabel:**
+Het mag rendabel zijn op een paar jaar (tot 3 jaar, zoals industrie) => hangt af van energieverbruik.
+
 
 ### Conclusies & implicaties
 **Definieer de belangrijkste designbeslissingen**
+
+**Ontwerpcriteria**
+Automatisch
+Meten van verbruik (per apparaat)
+Schakelen van apparaten, op basis van:
+- Energieprijs
+- Geproduceerde zonne-energie
+- Voorrangsregels
+- Limieten
+Bespaarde kosten en verbruik uitgedrukt in euro’s
+Interface: lichte voorkeur voor een fysiek schermpje, over een app
+Rendabel op ~3 jaar tijd.
+
+**Key insights**
+Alhoewel veel apparaten constant energie verbruiken (diepvries en frigo), gebruiken mensen
+inderdaad het meeste energie op de duurste momenten (rond de avond en de ochtend).
+Mensen met zonnepanelen hebben hetzelfde probleem als mensen met dynamische
+energiecontracten: Goedkope energie niet op het juiste moment kunnen benutten.
+Uiteindelijk blijkt dat energie niet enkel ongrijpbaar is voor kinderen, maar ook voor de doorsnee
+volwassen gebruiker....
+Dit betekend dat het nuttig zal zijn om zeker ook voor mensen met zonnepanelen te ontwerpen (deze
+doelgroep is ook groter)
+Er zal moeten gelet worden op het begrijpbaar maken van informatie omtrent energie (verbruik etc).
