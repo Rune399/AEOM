@@ -2,7 +2,7 @@
 || **Status** || ❌ niet voldaan || ⚠️ gedeeltelijk voldaan || ✅ voldaan ||
 |ID|Design Requirement|Source|Status|
 |:---|:---|:---|:---:|
-|1|**De centrale hub**|
+|**1**|**De centrale hub**|
 |1.1|De centrale hub laat de gebruikers toe hun energieverbruik af te lezen in termen van euro's.|Gebruiker interviews|❌|
 |1.2|De centrale hub kan toestellen (de)activeren|Gebruiker interviews|❌|
 |1.2.1|De centrale hub kan knoppen besturen||❌|
@@ -22,13 +22,13 @@
 |1.9.1|De centrale hub moet monteerbaar zijn aan een muur||❌|
 |1.9.2|De centrale hub moet op een tafel rechtgezet kunnen worden||❌|
 |1.10|De centrale hub moet esthetisch zijn||❌|
-|**2**|Slimme stekkers-Shelly Plug (als laatste aanpakken)|
+|**2**|**Slimme stekkers-Shelly Plug (als laatste aanpakken)**|
 |2.1|De slimme stekkers kunnen communiceren met de centrale hub||❌|
 |2.2|De slimme stekkers kunnen ge(de)activeert worden||❌|
 |2.3|De slimme stekkers kunnen de stroom naar een toestel doorbreken||❌|
 |2.4|De slimme stekker kan het energieverbruik van een toestel aflezen||❌|
 |2.5|De slimme stekker is energie efficiënt||❌|
-|**3**|De knoppencontroller|
+|**3**|**De knoppencontroller**|
 |3.1|De knoppencontroller kan knoppen induwen||❌|
 |3.2|De knoppencontroller kan knoppen draaien||❌|
 |3.3|De knoppencontroller kan touchscreens besturen||❌|
