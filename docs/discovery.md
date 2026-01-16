@@ -35,9 +35,29 @@ Het geselecteerde probleem is: Door varierende energieprijzen, betalen gebruiker
 
 ### Resultaten
 **Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)**
+
+#### Benchmark (N=10)
+Hieronder staat de benchmark afgebeeld:
 <p align="center">
   <img src="../img/Benchmark.jpg" width="100%">
 </p>
+
+#### Habit analysis (N=3)
+
+Dit zijn de resultaten van de habit analysis:
+<p align="center">
+  <img src="../img/Habit analysis_2.jpeg" width="100%">
+</p>
+<p align="left">
+  <img src="../img/Habit analysis_1ma.jpeg" width="50%"><img src="../img/Habit analysis_1za.jpeg" width="50%">
+</p>
+<p align="center">
+  <img src="../img/Habit analysis_3.jpeg" width="100%">
+</p>
+
+#### User interview (N=3)
+
+tekst
 
 ### Conclusies & implicaties
 **Definieer de belangrijkste designbeslissingen**
