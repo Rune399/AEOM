@@ -28,7 +28,9 @@ Uit deze lijst met problemen werden de meest aantrekkelijke exemplaren geselecte
   <img src="../img/Probleem_selectie.jpg" width="100%">
 </p>
 
-Het geselcteerde probleem was: Door varierende energieprijzen, betalen gebruikers meer voor hun energie, dan nodig is. **.........????**
+Het geselecteerde probleem is: Door varierende energieprijzen, betalen gebruikers meer voor hun energie, dan nodig is. **.........????** Als doelgroep werden gezinnen, met drie of meer gezinsleden, gekozen.
+
+
 
 
 ### Resultaten
