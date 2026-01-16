@@ -17,7 +17,7 @@ Het is een uitdaging om vanuit een brede term, zoals "duurzaamheid in huis", ter
   <img src="../img/Ontrafeling_duurzaamheid.jpg" width="100%">
 </p>
 
-Om te helpen bij het opstellen van deze probleem-lijst, werd parallel een benchmark opgesteld, die ook van grote hulp was bij het kiezen van een finaal probleem. Deze benchmark werd afgelegd aan de hand van online beschikbare informatie. Voor meer informatie over de benchmark zie ***Benchmark protocol***
+Om te helpen bij het opstellen van deze probleem-lijst, werd parallel een benchmark opgesteld, die ook van grote hulp was bij het kiezen van een finaal probleem. Deze benchmark werd afgelegd aan de hand van online beschikbare informatie. Voor meer informatie omtrent de benchmark zie <a src="../docs/S@H_Benchmark protocol">Benchmark protocol</a>.
 
 **Benchmark protocol!!!!!!!!!!!!!!!!!**
 
