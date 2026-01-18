@@ -11,7 +11,7 @@ Het is een uitdaging om vanuit een brede term, zoals "duurzaamheid in huis", ter
   <img src="../img/Ontrafeling_duurzaamheid.jpg" width="100%">
 </p>
 
-Om te helpen bij het opstellen van deze probleem-lijst, werd parallel een benchmark opgesteld, die ook van grote hulp was bij het kiezen van een finaal probleem. Deze benchmark werd afgelegd aan de hand van online beschikbare informatie. Voor meer informatie omtrent de benchmark zie <a href="../reports and protocols/S@H_Benchmark protocol.pdf">Benchmark protocol</a>. Het resultaat van deze benchmark staat onder [Resultaten - Benchmark](####benchmark-(N=10)), verder op deze pagina of in het [Benchmark report](../reports%20and%20protocols/S@H_Benchmark%20report.pdf).
+Om te helpen bij het opstellen van deze probleem-lijst, werd parallel een benchmark opgesteld, die ook van grote hulp was bij het kiezen van een finaal probleem. Deze benchmark werd afgelegd aan de hand van online beschikbare informatie. Voor meer informatie omtrent de benchmark zie <a href="../reports and protocols/S@H_Benchmark protocol.pdf">Benchmark protocol</a>. Het resultaat van deze benchmark staat onder [Resultaten - Benchmark](#benchmark-N10), verder op deze pagina of in het [Benchmark report](../reports%20and%20protocols/S@H_Benchmark%20report.pdf).
 
 Uit deze lijst met problemen werden de meest aantrekkelijke exemplaren geselecteerd. Op de problemen in deze selectie, werd wat dieper nagedacht, waarna deze tegenover elkaar werden vergeleken. Ook werd rekening gehouden met de benchmark. Vervolgens werd op wijze van eliminatie, een finale uitdaging gekozen.
 
