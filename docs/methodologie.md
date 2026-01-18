@@ -15,6 +15,8 @@ Deze fase speelt zich af in de probleemruimte. De bedoeling is vollop opzoek te 
 
 In deze fase werd eerst onderzoek gedaan naar een probleem, vervolgens werd onderzocht of dit een goede opportuniteit was.
 
+Deze fase wordt ook in detail besproken in [Discovery](discovery.md)
+
 
 ### Define
 De define fase speelt zich af in de oplossingenruimte. Hier is de bedoeling om oplossingen te zoeken voor het probleem dat uit de discover fase is gekomen.
@@ -24,6 +26,8 @@ Bij deze fase bleek het een uitdaging te zijn, om ons op het juiste pad te houde
 Er werdt eerst onderzoek gedaan naar de meest intuitieve layout van een scherm-interface. Dit onderzoek had bij nader inzien beter gepast bij de develop fase.
 
 Na dit onderzoek werd beseft dat we niet eens wisten aan welke functies dat "intuitiëve interface" moest voldoen. Het volgende onderzoek was dus in verband met de functies van het apparaat.
+
+Deze fase wordt in meer detail besproken in [Define](defenition.md)
 
 ### Develop
 *#Coming soon* ;)
