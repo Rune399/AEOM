@@ -2,11 +2,11 @@
 
 ### Doelstellingen
 
-Het doel van deze fase in het ontwerpproces is om een eerste oriëntatie van de probleemruimte te voltooien en te onderzoeken voor welke onderverdelingen van duurzaamheid, in de thuiscontext, er al oplossingen bestaan. Het doel is om daarna een probleem te kiezen en uit te zoeken, of dit een reeël probleem is. Het is ook de bedoeling om een eerste onderzoek te doen, naar de wensen en noden van gebruikers.
+Het doel van deze fase in het ontwerpproces is om een eerste oriëntatie van de probleemruimte te voltooien en te onderzoeken voor welke onderverdelingen van duurzaamheid, in de thuiscontext, er al oplossingen bestaan. Het doel is om daarna een probleem te kiezen en uit te zoeken, of dit een reëel probleem is. Het is ook de bedoeling om een eerste onderzoek te doen, naar de wensen en noden van gebruikers.
 
 ### Methoden
 
-Het is een uitdaging om vanuit een brede term, zoals "duurzaamheid in huis", terecht te komen bij een specifiek probleem. Om deze stap makkelijker en meer gestructureerd te laten verlopen, werd eerst de term "duurzaamheid" ontleed in de drie domeinen van duuzaamheid (3P) namelijk: "People", "Planet", "Profit". Vervolgens werden deze domeinen onleed in categoriën, die op hun beurt werden opgesplits in specifieke onderwerpen. Voor elk van deze onderwerpen werden problemen bedacht, om tot een hele lijst problemen, binnen het thema te komen.
+Het is een uitdaging om vanuit een brede term, zoals "duurzaamheid in huis", terecht te komen bij een specifiek probleem. Om deze stap makkelijker en meer gestructureerd te laten verlopen, werd eerst de term "duurzaamheid" ontleed in de drie domeinen van duurzaamheid (3P) namelijk: "People", "Planet", "Profit". Vervolgens werden deze domeinen ontleed in categorieën, die op hun beurt werden opgesplitst in specifieke onderwerpen. Voor elk van deze onderwerpen werden problemen bedacht, om tot een hele lijst problemen, binnen het thema te komen.
 <p align="center">
   <img src="../img/Ontrafeling_duurzaamheid.jpg" width="100%">
 </p>
@@ -19,9 +19,9 @@ Uit deze lijst met problemen werden de meest aantrekkelijke exemplaren geselecte
   <img src="../img/Probleem_selectie.jpg" width="100%">
 </p>
 
-Het geselecteerde probleem is: Door varierende energieprijzen, betalen gebruikers meer voor hun energie, dan nodig is. Als doelgroep werden gezinnen, met drie of meer gezinsleden, gekozen.
+Het geselecteerde probleem is: Door variërende energieprijzen, betalen gebruikers meer voor hun energie, dan nodig is. Als doelgroep werden gezinnen, met drie of meer gezinsleden, gekozen.
 
-Vervolgens werd een User interview uitgevoerd, met deze doelgroep, om uit te zoeken of het geselecteerde probleem een realistich probleem is en wat de wensen en noden zijn van de gebruikers. In dit user interview werd ook een habit analysis uitgevoerd. Diepgaande uitleg over dit onderzoek vind u in het [User interview protocol](../reports%20and%20protocols/S@H_User%20Interview%20Protocol.pdf). De resultaten van de de interviews en de habit analysis worden kort besproken bij [Resultaten - User interview](#user-interview-N3) en [Resultaten - Habit analysis](#habit-analysis-N3). Voor een gedetaileerde analyse hiervan zie [User interview report](../reports%20and%20protocols/S@H_User%20interview%20report.pdf)
+Vervolgens werd een User interview uitgevoerd, met deze doelgroep, om uit te zoeken of het geselecteerde probleem een realistisch probleem is en wat de wensen en noden zijn van de gebruikers. In dit user interview werd ook een habit analysis uitgevoerd. Diepgaande uitleg over dit onderzoek vindt u in het [User interview protocol](../reports%20and%20protocols/S@H_User%20Interview%20Protocol.pdf). De resultaten van de interviews en de habit analysis worden kort besproken bij [Resultaten - User interview](#user-interview-N3) en [Resultaten - Habit analysis](#habit-analysis-N3). Voor een gedetailleerde analyse hiervan zie [User interview report](../reports%20and%20protocols/S@H_User%20interview%20report.pdf)
 
 </br>
 
@@ -51,36 +51,36 @@ Dit zijn de resultaten van de habit analysis:
 #### User interview (N=3)
 
 Alle drie de respondenten hadden "toevallig" zonnepanelen. Ze hadden daarbij maar een kleine of zelfs geen batterij, daardoor bleek het moeilijk om energieverbruik af te stellen op de productie van de zonnepanelen.
-Langst de andere kant, had geen enkele respondent een dynamisch energie tarief.
+Langst de andere kant, had geen enkele respondent een dynamisch energietarief.
 
 De meeste gebruikers werken overdag, waardoor ze er niet mee bezig kunnen zijn. Bovendien hebben ze daar ook geen tijd of zin voor.
 
 >“Je moet er zo hard mee bezig zijn, da je der op den duur geen zin meer in hebt.”
 
-Wat ook terugkwam bij alle interviews, is dat de respondten niet echt kijken naar hun energiefactuur. Ze geven aan dat ze geen stress ondervinden, maar het eerder zien als kansen waar ze geen gebruik van kunnen maken.
+Wat ook terugkwam bij alle interviews, is dat de respondenten niet echt kijken naar hun energiefactuur. Ze geven aan dat ze geen stress ondervinden, maar het eerder zien als kansen waar ze geen gebruik van kunnen maken.
 
 Ook vonden de gebruikers energieverbruik zeer moeilijk vatbaar, omdat ze geen referentiepunt hebben en niet gekend zijn met wattage. Ze hadden dus een voorkeur voor het verbruik in euro weer te geven, omdat ze dat beter begrijpen.
 
 >“Als ge ziet ik heb 10 MW bespaart of ik heb 10euro bespaart, het een zegt meer, als het andere.”
 
->“Ik vind dat energieverbruik iets heel abstract” “Als iemand da mij niet uitlegd, heb ik daar echt geen flauw idee van”
+>“Ik vind dat energieverbruik iets heel abstract” “Als iemand da mij niet uitlegt, heb ik daar echt geen flauw idee van”
 
 ##### Product voorkeuren:
 **Automatisch:**
-De gebruikers hadden het systeem iefst zo automatisch mogelijk, zodat ze er niet over moeten nadenken of mee bezig zijn.
+De gebruikers hadden het systeem liefst zo automatisch mogelijk, zodat ze er niet over moeten nadenken of mee bezig zijn.
 
-Bij het automatisch schakelen van apparaten werd voorgesteld om dat op basis van de energie van de zonnepanelen te doen en om de voorang van apparaten in te kunnen stellen.
+Bij het automatisch schakelen van apparaten werd voorgesteld om dat op basis van de energie van de zonnepanelen te doen en om de voorrang van apparaten in te kunnen stellen.
 
 >“Als er echt veel zon is, dan mag eerst pomp 1 laten draaien, als er nog over is, pomp 2, dan warm
 water…”
 
 **Interface:**
 De respondenten hadden de voorkeur voor een fysiek scherm, over een app, alhoewel een app ook handig zou zijn. 
-Eén respondent zei dat hij een fysiek scherm makkelijk zou vinden, maar dat dat in de praktijk problemen met zich meebrengt, zoals installatiekosten, een "lelijk apparaat" dat ophangt in je huis en dat een fysiek scherm meer zou kosten dan een app... 
+Eén respondent zei dat hij een fysiek scherm makkelijk zou vinden, maar dat dat in de praktijk, problemen met zich meebrengt, zoals installatiekosten, een "lelijk apparaat" dat ophangt in je huis en dat een fysiek scherm meer zou kosten dan een app... 
 
 Wat de gebruikers zelf ook aangaven, is dat ze graag hun totaalverbruik, maar ook hun verbruik per toestel, zouden willen weten.
 
-uiteraard vond men de intuitieviteit van het interface en duidelijke informatie belangrijk.
+Uiteraard vond men de intuïtiviteit van het interface en duidelijke informatie belangrijk.
 
 Men vond het belangrijk om te kunnen zien dat het apparaat werkt en een impact heeft op hun kosten.
 
@@ -104,7 +104,7 @@ Men vond het belangrijk om te kunnen zien dat het apparaat werkt en een impact h
 - Rendabel op ~3 jaar tijd.
 
 **Key insights**
-- Mensen gebruiken inderdaad het meeste energie rond de avond en de ochtend (= duurste momenten).
+- Mensen gebruiken inderdaad de meeste energie rond de avond en de ochtend (= duurste momenten).
 - Mensen met zonnepanelen hebben hetzelfde probleem als mensen met dynamische energiecontracten: Zij kunnen goedkope energie niet op het juiste moment benutten. De doelgroep zal dus aangepast worden, om ook mensen met zonnepanelen te bevatten.
 - Het lijkt dat energie niet enkel ongrijpbaar is voor kinderen, maar ook voor de doorsnee volwassen gebruiker... 
 - Er zal moeten gelet worden op het begrijpbaar maken van informatie omtrent energie (verbruik etc).
