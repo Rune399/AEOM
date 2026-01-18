@@ -1,12 +1,12 @@
-## Definition
-Max. 1000 woorden.    
-[!] Algmeen: Maak voldoende gebruik van schematische/grafische weergaves en tabellen.
-### Doestellingen
+# Definition
+
+## Doestellingen
 De doelstelling van de tweede fase, definition is om het concept te valideren, "designing the right thing".
+
 Dit houd dus in dat we de belangrijkste onzekerheden moeten identificeren om het concept verder te ontwikkelen, zodat we hieruit conclusies kunnen nemen om onze design requirements aan te passen en zo de nodige bouwstenen hebben voor de uitwerking van het concept.
 
-### Materiaal & methoden
-1. Knoppendrukker onderzoek
+## Materiaal & methoden
+### 1. Knoppendrukker onderzoek
 
 Hier wouden we de vorm en grootte van het model in ons hoofd valideren.
 
@@ -16,11 +16,11 @@ We hebben hier ook een simpele solenoid gemonteerd om de functionaliteit te immi
 
 Hieruit hebben we kunnen afleiden dat dit element veel kleiner moet zijn in zijn effectieve uitwerking, en dat de bevestigingsmethode van dit toestel sterk genoeg zal moeten zijn om de krachten van de solenoid op te vangen.
 
-2. Interface onderzoek
+### 2. Interface onderzoek
 
 In dit eerste onderzoek hebben we ons verdiept in hoe onze interface eruit kan zien en onze eigen ideëen voor wat we precies gaan weergeven, samen met het onderzoeken van waar de knelpunten zitten bij het navigeren rond de interface.
 
-Hiermee hebben we de volgende onderzoeksvragen onderzocht:
+#### Onderzoeksvragen
 
 •	Kunnen de respondenten zich gemakkelijk navigeren om een doelstelling te bereiken?
 
@@ -30,7 +30,7 @@ Hiermee hebben we de volgende onderzoeksvragen onderzocht:
 
 •	Waar moeten de respondenten lang of kort nadenken vooraleer ze de volgende stappen kunnen uitvoeren en waarom?
 
-Onze werkwijze is als volgt:
+#### Werkwijze
 
 • De respondenten worden gevraagd om luidop te zeggen wat ze zien en denken tijdens het uitvoeren van de test.
 
@@ -46,7 +46,7 @@ Hiervoor hebben we een simpel kartonnen prototype gemaakt, waarin we meerdere bl
 
 Voor de papieren interfaces hebben we een reeds gemaakte interface van tijdens de discovery fase samengesteld met drie andere interfaces, door elk van ons gemaakt, om zo een totaal van vier interfaces te onderzoeken.
 
-De taakgerichte contexten zijn als volgt:
+#### De taakgerichte contexten
 
 •	U komt thuis van uw werk en wil graag zien hoeveel geld er bespaard werd vandaag.
 
@@ -60,14 +60,34 @@ De taakgerichte contexten zijn als volgt:
 
 •	U beseft dat u één van de apparaten een verkeerde naam hebt gegeven, u wilt dit nu aan passen.
 
+#### Vragen achteraf
 
+•	Vond u een bepaalde taak moeilijk om uit te voeren in een interface? Waarom?
 
-3. Functie onderzoek
+•	Heeft u op een bepaald moment een assumptie gemaakt? Wanneer waren deze correct / incorrect, en waarom?
+
+•	Zijn er volgens u nog een aantal onduidelijkheden in deze interface?
+
+•	Waar twijfelde u, welke actie nodig was, om iets te bereiken?
+
+•	Waar twijfelde u, of u juist bezig was?
+
+•	Waar was u zelfzeker in uw acties en hoe komt dat?
+
+•	Waar was het voor u duidelijk dat u juist bezig was?
+
+•	Had u ooit het gevoel dat u verloren geraakte? Waar?
+
+#### Meting
+
+Dit onderzoek zal gemeten worden door middel van een observatie tijdens de usability test, door een video opname van het onderzoek met geluid en door een analyse te maken van de achteraf gestelde vragen.
+
+### 3. Functie onderzoek
 
 Hoe onderzocht je dit? Wees volledig.  
 Leg uit en toon welke prototypes gemaakt werden en hoe deze helpen om de onderzoeksvragen te beantwoorden (benoemen wat je aftoetst & link naar design requirements).   
 Leg uit welke testen werden uitgevoerd.
-### Resultaten
+## Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
-### Conclusies & implicaties
+## Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen.
