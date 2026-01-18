@@ -57,10 +57,6 @@ De meeste gebruikers werken overdag, waardoor ze er niet mee bezig kunnen zijn. 
 
 >“Je moet er zo hard mee bezig zijn, da je der op den duur geen zin meer in hebt.”
 
-Eén van de gebruikers houd zelf zijn batterij een beetje in het oog met een app, om zo te beslissen om iets aanzetten, of om eerder te wachten. Dat is echter heel moeilijk aangezien hij overdag weg is.
-
->“Ge probeert u daarnaar te regelen, maar ja ge zit ook dikwijls in situaties, waardat ge dat ook niet helemaal kunt…” “Als iedereen overdag weg is, dan is dat heel moeilijk.”
-
 Wat ook terugkwam bij alle interviews, is dat de respondten niet echt kijken naar hun energiefactuur. Ze geven aan dat ze geen stress ondervinden, maar het eerder zien als kansen waar ze geen gebruik van kunnen maken.
 
 Ook vonden de gebruikers energieverbruik zeer moeilijk vatbaar, omdat ze geen referentiepunt hebben en niet gekend zijn met wattage. Ze hadden dus een voorkeur voor het verbruik in euro weer te geven, omdat ze dat beter begrijpen.
@@ -73,30 +69,20 @@ Ook vonden de gebruikers energieverbruik zeer moeilijk vatbaar, omdat ze geen re
 **Automatisch:**
 De gebruikers hadden het systeem iefst zo automatisch mogelijk, zodat ze er niet over moeten nadenken of mee bezig zijn.
 
-Bij het automatisch schakelen van apparaten werd voorgesteld om dat op basis van de energie van de zonnepanelen te doen. Ook werd voorgesteld om de voorang van apparaten dan in te kunnen stellen.
+Bij het automatisch schakelen van apparaten werd voorgesteld om dat op basis van de energie van de zonnepanelen te doen en om de voorang van apparaten in te kunnen stellen.
 
 >“Als er echt veel zon is, dan mag eerst pomp 1 laten draaien, als er nog over is, pomp 2, dan warm
 water…”
 
 **Interface:**
-De respondenten hadden de voorkeur voor een fysiek scherm, over een app, alhoewel een app ook zou zijn. 
+De respondenten hadden de voorkeur voor een fysiek scherm, over een app, alhoewel een app ook handig zou zijn. 
 Eén respondent zei dat hij een fysiek scherm makkelijk zou vinden, maar dat dat in de praktijk problemen met zich meebrengt, zoals installatiekosten, een "lelijk apparaat" dat ophangt in je huis en dat een fysiek scherm meer zou kosten dan een app... 
 
 Wat de gebruikers zelf ook aangaven, is dat ze graag hun totaalverbruik, maar ook hun verbruik per toestel, zouden willen weten.
 
 uiteraard vond men de intuitieviteit van het interface en duidelijke informatie belangrijk.
 
-**Info:**
 Men vond het belangrijk om te kunnen zien dat het apparaat werkt en een impact heeft op hun kosten.
-
-Vooral het u bespaarde kosten kunnen opvolgen in een grafiekje (bv gemiddelde, vs de prijs dat jij
-bepaalt hebt)
-
-Welk toestel heeft gezorgd dat je goed of slecht bezig zijt (soms kan je der nie aan doen, bv
-kookplaat)
-
-**Rendabel:**
-Voor rendabiliteit werd er gezegt dat het rendabel mag zijn op enkele jaren tijd. Iemand gaf aan dat ongeveer 3 jaar een goede tijd zou zijn.
 
 </br>
 
@@ -104,9 +90,7 @@ Voor rendabiliteit werd er gezegt dat het rendabel mag zijn op enkele jaren tijd
 
 **Ontwerpcriteria**
 - Zo automatisch mogelijk
-
 - Moet het totaalverbruik en verbruik per apparaat kunnen meten en weergeven.
-
 - Het schakelen van apparaten, op basis van:
   - Energieprijs
   - Geproduceerde zonne-energie
@@ -115,11 +99,12 @@ Voor rendabiliteit werd er gezegt dat het rendabel mag zijn op enkele jaren tijd
 
 - Bespaarde kosten en verbruik worden uitgedrukt in euro.
 - Het apparaat moet een fysiek scherm hebben, maar een app wordt niet uitgesloten.
-
+- Moet te installeren zijn, door de gebruiker zelf
+- Het apparaat moet een esthetische mooi zijn
 - Rendabel op ~3 jaar tijd.
 
 **Key insights**
-- Alhoewel veel apparaten constant energie verbruiken (diepvries en frigo), gebruiken mensen inderdaad het meeste energie op de duurste momenten (rond de avond en de ochtend).
-- Mensen met zonnepanelen hebben hetzelfde probleem als mensen met dynamische energiecontracten: Zij kunnen goedkope energie niet op het juiste moment benutten. Dit betekend dat het nuttig zal zijn om zeker ook voor mensen met zonnepanelen te ontwerpen. (deze doelgroep is ook minder niche)
-- Uiteindelijk blijkt dat energie niet enkel ongrijpbaar is voor kinderen, maar ook voor de doorsnee volwassen gebruiker... 
+- Mensen gebruiken inderdaad het meeste energie rond de avond en de ochtend (= duurste momenten).
+- Mensen met zonnepanelen hebben hetzelfde probleem als mensen met dynamische energiecontracten: Zij kunnen goedkope energie niet op het juiste moment benutten. De doelgroep zal dus aangepast worden, om ook mensen met zonnepanelen te bevatten.
+- Het lijkt dat energie niet enkel ongrijpbaar is voor kinderen, maar ook voor de doorsnee volwassen gebruiker... 
 - Er zal moeten gelet worden op het begrijpbaar maken van informatie omtrent energie (verbruik etc).
