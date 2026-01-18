@@ -93,3 +93,4 @@ In het nagesprek zullen we de gemaakte keuzes overleggen en ondervragen om meer 
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ## Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen.
+TOTAAL: maximaal 1000 woorden
