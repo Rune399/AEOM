@@ -21,7 +21,7 @@ Uit deze lijst met problemen werden de meest aantrekkelijke exemplaren geselecte
 
 Het geselecteerde probleem is: Door varierende energieprijzen, betalen gebruikers meer voor hun energie, dan nodig is. Als doelgroep werden gezinnen, met drie of meer gezinsleden, gekozen.
 
-Vervolgens werd een User interview uitgevoerd, met deze doelgroep, om uit te zoeken of het geselecteerde probleem een realistich probleem is en wat de wensen en noden zijn van de gebruikers. In dit user interview werd ook een habit analysis uitgevoerd. Diepgaande uitleg over dit onderzoek vind u in het [User interview protocol](../reports%20and%20protocols/S@H_User%20Interview%20Protocol.pdf). De resultaten van de de interviews en de habit analysis worden kort besproken bij [Resultaten - User interview](####user-interview-(N=3)) en [Resultaten - Habit analysis](####habit-analysis-(N=3)). Voor een gedetaileerde analyse hiervan zie [User interview report](../reports%20and%20protocols/S@H_User%20interview%20report.pdf)
+Vervolgens werd een User interview uitgevoerd, met deze doelgroep, om uit te zoeken of het geselecteerde probleem een realistich probleem is en wat de wensen en noden zijn van de gebruikers. In dit user interview werd ook een habit analysis uitgevoerd. Diepgaande uitleg over dit onderzoek vind u in het [User interview protocol](../reports%20and%20protocols/S@H_User%20Interview%20Protocol.pdf). De resultaten van de de interviews en de habit analysis worden kort besproken bij [Resultaten - User interview](#user-interview-N3) en [Resultaten - Habit analysis](#habit-analysis-N3). Voor een gedetaileerde analyse hiervan zie [User interview report](../reports%20and%20protocols/S@H_User%20interview%20report.pdf)
 
 </br>
 
