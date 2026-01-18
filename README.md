@@ -37,24 +37,32 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 
 ## Kritische reflectie
 Max. 500 woorden
+<!-->Bij de define fase bleek het een uitdaging te zijn, om ons op het juiste pad te houden en niet de mist in te wandelen. We vergaten soms dat de in de define fase zaten, waar het de bedoeling is om oplossingen voor het probleem te zoeken. 
+We hebben eerst onderzoek gedaan naar de meest intuitieve layout van een scherm-interface. Dit onderzoek had bij nader inzien beter gepast bij de develop fase.
+In het komende semester zal het dus belangrijk zijn voor ons om elke les eens stil te staan en de vraag te stellen, of wat we mee bezig zijn nog past binnen deze fase?
+
+Bovendien hebben we veel tijd verloren, door in de les te bespreken wat de volgende stappen zijn, waardoor we meerdere hele lessen weinig hebben gedaan, buiten overlegd. Het zou veel efficienter om ieder voor zich al eens na te denken wat de volgende stappen zijn en de anderen daarvan al op de hoogte te brengen. Zo kan dit nog even besproken worden in het begin van de les, waarna nog tijd zou zijn om aan het project te werken.
+Hierdoor hadden we het gevoel dat we heel de tijd achter zaten en hebben we ook geen tijd meer gehad om een een tweede onderzoek te doen dat wel goed in de define fase hoort...
+<!-->
 
 ## Noot inzake het gebruik van AI
-Licht toe op welke manier je AI gebruikte in dit project.
+Om de renders te maken werd "Vizcom" gebruikt.
+
 
 ## Bijlagen
 ### Discovery
-* Literatuuronderzoek (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
-* Interviews (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
+* Literatuuronderzoek (N=10)
+  * [Protocol](/AEOM/reports%20and%20protocols/S@H_Benchmark%20protocol.pdf)
+  * [Rapport](/AEOM/reports%20and%20protocols/S@H_Benchmark%20report.pdf)
+* Interviews (N=3)
+  * [Protocol](/AEOM/reports%20and%20protocols/S@H_User%20Interview%20Protocol.pdf)
+  * [Rapport](/AEOM/reports%20and%20protocols/S@H_User%20interview%20report.pdf)
     
 ### Definition
-* User testing wave 1 (N=x)
+* User testing wave 1 (N=3)
   * [Protocol](url)
   * [Rapport](url)
-* User testing wave 2 (N=x)
+* User testing wave 2 (N=3)
   * [Protocol](url)
   * [Rapport](url)
 
