@@ -19,7 +19,7 @@ Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker 
 - Hoe lost jouw oplossing het probleem op?
 - Hero sketch/render/image, vb.
 <p align="center">
-  <img src="img/hero_example.png" width="100%">
+  <img src="img/Hero1.png" width="100%">
 </p>
 
 ## Introductie
@@ -67,7 +67,6 @@ Om de renders te maken werd "Vizcom" gebruikt.
   * [Rapport](url)
 
 ## Licentie
-> :warning: voeg jullie namen toe in de documenten hieronder en delete dan dit lijntje   
 
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
 
@@ -78,3 +77,4 @@ You are free to reuse and build upon this work, both commercially and non-commer
 
 ## Bronnen
  [^1]: Thomas, T., & Ritter, A. (2022). Wandering & sundowning in dementia. _Practical Neurology, 21_(3), 36–44.
+<!-->Nog wegdoen!!!<!-->
