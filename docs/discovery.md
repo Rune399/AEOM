@@ -71,11 +71,11 @@ Eén van de gebruikers houd zelf zijn batterij een beetje in het oog met een app
 
 Wat ook terugkwam bij alle interviews, is dat de respondten niet echt kijken naar hun energiefactuur. Ze geven aan dat ze geen stress ondervinden, maar het eerder zien als kansen waar ze geen gebruik van kunnen maken.
 
-Ook vonden de gebruikers energieverbruik zeer moeilijk vatbaar… Ze gaven aan dat het maar wat getalletjes zijn, en dat het moeilijk is om te weten wat dat dan betekend, omdat ze geen referentiepunt hebben en niet gekend zijn met wattage. Terwijl verbuik of opbrengst van de zonnepanelen, in euro uitgedrukt, veel duidelijker zou zijn.
+Ook vonden de gebruikers energieverbruik zeer moeilijk vatbaar, omdat ze geen referentiepunt hebben en niet gekend zijn met wattage. Ze hadden dus een voorkeur voor het verbruik in euro weer te geven, omdat ze dat beter begrijpen.
 
 >“Als ge ziet ik heb 10 MW bespaart of ik heb 10euro bespaart, het een zegt meer, als het andere.”
 
->---------------“Ik vind dat energieverbruik iets heel abstract” “Als iemand da mij niet uitlegd, heb ik daar echt geen flauw idee van”
+>“Ik vind dat energieverbruik iets heel abstract” “Als iemand da mij niet uitlegd, heb ik daar echt geen flauw idee van”
 
 ##### Product voorkeuren:
 **Automatisch:**
@@ -90,38 +90,28 @@ water…”
 ---Interesse in dynamisch tarief, maar niet de mogelijkheid om daar gebruik van te maken aangezien hij werkt.
 
 **Interface:**
-Geen app, op den duur 100 apps op uwen gsm. Waarvoor isda nodig.
-Een schermpje of app zouden allebei kunnen, allebei voordelen en nadelen
-Een scherm is makkelijk, maar ik zie niet hoe dat in de praktijk goed komt:
-- Extra kost => minder rendabel??
-- Waar hangen (lelijk) als je in berging hangt, zie je het toch niet
-- Connectiviteitsproblemen
-- Installatiekosten
-App is ook makkelijk en goedkoop (buiten initieele development
-Denken aan luihied mens
-Weten wat je totaalverbruik is, maar ook het verbruik per toestel
-Intuitieve interface
-Apparaten schakelen:
-Voorang instellen
+De respondenten hadden de voorkeur voor een fysiek scherm, over een app, alhoewel een app ook zou zijn. 
+Eén respondent zei dat hij een fysiek scherm makkelijk zou vinden, maar dat dat in de praktijk problemen met zich meebrengt, zoals installatiekosten, een "lelijk apparaat" dat ophangt in je huis en dat een fysiek scherm meer zou kosten dan een app... 
+
+Wat de gebruikers zelf ook aangaven, is dat ze graag hun totaalverbruik, maar ook hun verbruik per toestel, zouden willen weten.
+
+uiteraard vond men de intuitieviteit van het interface en duidelijke informatie belangrijk.
+
+Bij het schakelen van apparaten werd voorgesteld om ook de voorang te kunnen instellen.
 
 **Info:**
+Men vond het belangrijk om te kunnen zien dat het apparaat werkt en een impact heeft op hun kosten.
+
 Vooral het u bespaarde kosten kunnen opvolgen in een grafiekje (bv gemiddelde, vs de prijs dat jij
 bepaalt hebt)
-Belangrijk te zien dat het werkt en een impact heeft.
+
 Welk toestel heeft gezorgd dat je goed of slecht bezig zijt (soms kan je der nie aan doen, bv
 kookplaat)
-Eurotjes zien, mensen zijn dan meer gemotiveerd en dat begrijpen mensen ten minste
-Zou veel handiger zijn om te zien staan: zoveel euro verbruikt.
-Duidelijke informatie
-
->“Als ge ziet ik heb 10 MW bespaart of ik heb 10euro bespaart, het een zegt meer, als het andere.”
-
->“Ik vind dat energieverbruik iets heel abstract” “Als iemand da mij niet uitlegd, heb ik daar echt geen
-flauw idee van”
 
 **Rendabel:**
-Het mag rendabel zijn op een paar jaar (tot 3 jaar, zoals industrie) => hangt af van energieverbruik.
+Voor rendabiliteit werd er gezegt dat het rendabel mag zijn op enkele jaren tijd. Iemand gaf aan dat ongeveer 3 jaar een goede tijd zou zijn.
 
+</br>
 
 ### Conclusies & implicaties
 **Definieer de belangrijkste designbeslissingen**
