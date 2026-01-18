@@ -27,7 +27,7 @@ Er werdt eerst onderzoek gedaan naar de meest intuitieve layout van een scherm-i
 
 Na dit onderzoek werd beseft dat we niet eens wisten aan welke functies dat "intuitiëve interface" moest voldoen. Het volgende onderzoek was dus in verband met de functies van het apparaat.
 
-Deze fase wordt in meer detail besproken in [Define](defenition.md)
+Deze fase wordt in meer detail besproken in [Definition](definition.md)
 
 ### Develop
 *#Coming soon* ;)
