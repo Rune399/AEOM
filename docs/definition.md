@@ -8,13 +8,11 @@ Dit houd dus in dat we de belangrijkste onzekerheden moeten identificeren om het
 ## Materiaal & methoden
 ### 1. Knoppendrukker onderzoek
 
-Hier wouden we de vorm en grootte van het model in ons hoofd valideren.
+Hier wouden we de vorm en grootte van de knoppendrukker, het toestel die gemonteerd moet worden op apparatuur thuis om de startknoppen te besturen, in ons hoofd valideren.
 
-We hebben hiervoor een kartonnen versie gemaakt van de knoppendrukker, die bedoeld is om de startknoppen van de toestellen te besturen.
+We hebben hiervoor een kartonnen versie gemaakt, waarin we ook een simpele solenoide gemonteerd hebben om de functionaliteit te immiteren.
 
-We hebben hier ook een simpele solenoid gemonteerd om de functionaliteit te immiteren.
-
-Hieruit hebben we kunnen afleiden dat dit element veel kleiner moet zijn in zijn effectieve uitwerking, en dat de bevestigingsmethode van dit toestel sterk genoeg zal moeten zijn om de krachten van de solenoid op te vangen.
+Hieruit hebben we kunnen afleiden dat dit element veel kleiner gemaakt moet worden en dat de bevestigingsmethode van dit toestel sterk genoeg zal moeten zijn om de krachten van de solenoide op te vangen.
 
 ### 2. Interface onderzoek
 
@@ -46,47 +44,51 @@ Hiervoor hebben we een simpel kartonnen prototype gemaakt, waarin we meerdere bl
 
 Voor de papieren interfaces hebben we een reeds gemaakte interface van tijdens de discovery fase samengesteld met drie andere interfaces, door elk van ons gemaakt, om zo een totaal van vier interfaces te onderzoeken.
 
-#### De taakgerichte contexten
-
-•	U komt thuis van uw werk en wil graag zien hoeveel geld er bespaard werd vandaag.
-
-•	Uw vrouw is niet blij omdat een belangrijk toestel niet is opgeladen doorheen de dag, omdat de energie in een ander apparaat verbruikt werd door het systeem. Zet prioriteit op dit toestel zodat dit nooit meer zal gebeuren.
-
-•	Over de middag komt u thuis eten en na de maaltijd wilt u het vuile service in de vaatwasmachine plaatsen, maar dit is niet mogelijk aangezien deze door het systeem geactiveerd werd omdat de zonnepanelen op dat moment veel energie binnenhalen. Zet een tijdslimiet op dit toestel zodat deze over de middag niet meer geactiveerd kan worden.
-
-•	Binnen een aantal dagen is het nieuwjaar en u wil graag zien hoeveel er dit jaar bespaard werd op elektriciteit.
-
-•	U besluit om ook uw wasmachine op het optimale moment te laten draaien. U wilt de wasmachine dus ook toevoegen aan de lijst van apparaten. De wasmachine mag pas starten na 10u en moet klaar zijn voor 19u.
-
-•	U beseft dat u één van de apparaten een verkeerde naam hebt gegeven, u wilt dit nu aan passen.
-
-#### Vragen achteraf
-
-•	Vond u een bepaalde taak moeilijk om uit te voeren in een interface? Waarom?
-
-•	Heeft u op een bepaald moment een assumptie gemaakt? Wanneer waren deze correct / incorrect, en waarom?
-
-•	Zijn er volgens u nog een aantal onduidelijkheden in deze interface?
-
-•	Waar twijfelde u, welke actie nodig was, om iets te bereiken?
-
-•	Waar twijfelde u, of u juist bezig was?
-
-•	Waar was u zelfzeker in uw acties en hoe komt dat?
-
-•	Waar was het voor u duidelijk dat u juist bezig was?
-
-•	Had u ooit het gevoel dat u verloren geraakte? Waar?
-
 #### Meting
 
 Dit onderzoek zal gemeten worden door middel van een observatie tijdens de usability test, door een video opname van het onderzoek met geluid en door een analyse te maken van de achteraf gestelde vragen.
 
 ### 3. Functie onderzoek
 
-Hoe onderzocht je dit? Wees volledig.  
-Leg uit en toon welke prototypes gemaakt werden en hoe deze helpen om de onderzoeksvragen te beantwoorden (benoemen wat je aftoetst & link naar design requirements).   
-Leg uit welke testen werden uitgevoerd.
+In dit onderzoek wouden we het belang van een groot aantal functionaliteiten onderzoeken, zodat we de primaire, secundaire en onnodige functies kunnen vastleggen.
+
+#### Onderzoeksvragen
+
+•	Welke functies zijn van belang om aan de volgende concept doelen te voldoen?
+
+=>	Verloren energie zonnepanelen laten verbruiken
+
+=>	Gebruiker bewust maken van hun verbruik
+  
+=>	Gebruiker helpen / nudgen om te besparen thuis
+  
+•	Willen gebruikers hun energieverbruik weten of diepgaand begrijpen?
+
+=>	Hoeveelheid data die beschikbaar is
+  
+•	Hoe aanwezig mag het systeem zijn in huis?
+
+=>	Zeer actief sturen
+  
+=>	Lichtjes nudgen / tips geven
+  
+=>	Uitsluitend informeren
+
+#### Plan van aanpak
+##### 1.	Deel I – Nodige functies per scenario bepalen
+
+Hier zullen we zoeken naar de belangrijkste functies van het apparaat, zodat we de gebruiker in specifieke scenario’s waar we ons op richten in te helpen.
+
+##### 2.	Deel II – Algemene nood van functies bepalen
+
+Hier wordt er nog gepolst naar het algemene belang van de functies.
+
+Op deze manier kan er vergeleken worden welke functies altijd toegankelijk moeten zijn en welke functies eerder nuttig zijn voor specifieke scenario’s, en bijvoorbeeld in een verder submenu kunnen zitten.
+
+##### 3.	Nagesprek – Overleggen met de deelnemer over hun keuzes
+
+In het nagesprek zullen we de gemaakte keuzes overleggen en ondervragen om meer inzicht te krijgen in de redenering en achterliggende noden van de gebruikers.
+
 ## Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ## Conclusies & implicaties
