@@ -1,13 +1,14 @@
 <p align="left">
   <img src="img/AEOM-logo.png" width="30%">
-</p>
-*Omschrijving van je concept in 1 zin, e.g. Zablurb, een slimme stofzuiger die eenzaamheid tegengaat bij alleenstaande senioren.* 
+</p> 
+
+AEOM, de slimme interface die je helpt zonne-energie optimaal te gebruiken.
 
 🛠️ Built by ``Miro Mangelschots`` & ``Kylian Maelstaf`` & ``Rune Coppieters``  
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design)) 
 
-*Dag/Maand/Jaar van de laatste update*   
+19/01/2026   
 
 
 ## Samenvatting
@@ -17,7 +18,6 @@ Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker 
 - Hoe heb je dit onderzocht?
 - Wat is jouw oplossing?
 - Hoe lost jouw oplossing het probleem op?
-- Hero sketch/render/image, vb.
 <p align="center">
   <img src="img/Hero1.png" width="100%">
 </p>
@@ -46,7 +46,9 @@ Hierdoor hadden we het gevoel dat we heel de tijd achter zaten en hebben we ook 
 <!-->
 
 ## Noot inzake het gebruik van AI
-Om de renders te maken werd "Vizcom" gebruikt.
+Om schetsen om te zetten in renders werd "[Vizcom](https://vizcom.com)" gebruikt (o.a. [Hero-shot](img/Hero1.png)).
+AI werd ook gebruikt om sommige onderzoeken te verwerken. Hierbij werd opgelet dat **alle info geanonimiseerd** werd **alvorens** AI in te zetten.
+
 
 
 ## Bijlagen

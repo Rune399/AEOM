@@ -2,7 +2,7 @@
 
 Als methodologie wordt een aangepaste versie van het "dubble diamont" model gebruikt, namelijk het "tripple diamont model":
 
-<p align="center"><img src="../img/Methodologie sem1.jpg"></p>
+<p align="center"><img src="../img/Methodologie_sem1.jpg"></p>
 
 Beide ontwerpmodellen zijn gebasseert op twee werkerende principes: divergentie en convergentie. 
 Bij divergentie worden opties gecreërd
