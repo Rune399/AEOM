@@ -2,7 +2,7 @@
   <img src="img/AEOM-logo.png" width="30%">
 </p> 
 
-AEOM, de slimme interface die je helpt zonne-energie optimaal te gebruiken.
+AEOM, de slimme interface die gezinnen helpt zonne-energie optimaal te gebruiken en hun enrgieverbruik beter te begrijpen.
 
 🛠️ Built by ``Miro Mangelschots`` & ``Kylian Maelstaf`` & ``Rune Coppieters``  
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
@@ -21,9 +21,9 @@ De oplossing is een slim systeem dat apparaten aan en uit schakelt, op basis van
 
 Het systeem regelt meerdere apparaten automatisch, waardoor de opgewekte zonne-energie optimaal kan verbruikt worden. En dat zonder de gebuiker, die zich er mee bezig moet houden.
 
->Voor simpele apparaten, worden slimme pluggen geintegreerd. Hiervoor worden bv. de bestaande pluggen van [Shelly](https://www.shelly.com/products/shelly-plug-s-gen3?srsltid=AfmBOoo-lc1h_WlMoQxsQ6e4mYHvGy64R30-YDIbfpTCyi_n0wwjkiSI) gebruikt.
+>:bulb:Voor simpele apparaten, worden slimme pluggen geintegreerd. Hiervoor worden bv. de bestaande pluggen van [Shelly](https://www.shelly.com/products/shelly-plug-s-gen3?srsltid=AfmBOoo-lc1h_WlMoQxsQ6e4mYHvGy64R30-YDIbfpTCyi_n0wwjkiSI) gebruikt.
 
->Voor complexere apparaten, zoals wasmachines, wordt een nieuw onderdeel ontwikkelt. De bedoeling van dat onderdeel is om draaiknoppen en touchscreens te kunnen bedienen.
+>:zap:Voor complexere apparaten, zoals wasmachines, wordt een nieuw onderdeel ontwikkelt. De bedoeling van dat onderdeel is om draaiknoppen en touchscreens te kunnen bedienen.
 
 <p align="center">
   <img src="img/Hero1.png" width="100%">
@@ -33,8 +33,6 @@ Het systeem regelt meerdere apparaten automatisch, waardoor de opgewekte zonne-e
 </p>
 
 ## Introductie
-**Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).**
 
 Mensen met zonnepanelen hebben overdag, als de zon schijnt, goedkope energie. Ze kunnen daar echter vaak geen gebruik van maken, doordat ze overdag naar hun werk zijn. Ook hebben de meeste mensen geen batterij of een te kleine batterij. Deze systemen zijn trouwens een hele investering, waardoor men  dus niet zomaar beslist om even een batterij te kopen. Bovendien hebben zonnepaneel-eigenaars helemaal geen zin, om zich bezig te houden met het beste moment om hun energie te gebruiken.
 Bovendien zijn de digitale energiemeters minder voordelig voor mensen met zonnepanelen, in vergelijking met de terugkerende teller.[^1]
