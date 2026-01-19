@@ -1,10 +1,10 @@
-## Bills of materials
+# Bills of materials
 
 
 Deze repository bevat de materialenlijst voor het project.  
 Alle onderdelen zijn hieronder opgesomd met werkende links naar voorbeeldproducten of officiële documentatie.
 
-# Benodigde materialen
+## Benodigde materialen
 
 - **Raspberry Pi 4 (met microSD-kaart en voeding)**  
   https://www.amazon.de/-/nl/dp/B0DFMQ67QY/ref=sr_1_11?crid=3L95CU8TDKPZT&dib=eyJ2IjoiMSJ9.X5GiAktPHj5rqjvsyjk_EWNsj1UbhF3O26tbr9L0bHiRy12V0g7wEFrjtBAJSIvUq65K9AIH0sEG8kIDFgwSwgSlLASqaAA7okSc2L3IQqS24ysdNHjLThp2Grt6n9TD6ASB9fLaQ_eUajJmdnosdelweN8XK9FF5ZY7SOWy2Z-u3jXBI9kC96svFQNO_BLtO72fizma4KaLoVK28zupStzant4C35JPfXBWkmDHvng.qZou8MhWVFsSbAW49mDLMalziGjRzjOC44oOJZEJ-AA&dib_tag=se&keywords=raspberry+pi+4&qid=1768850546&sprefix=rasp%2Caps%2C134&sr=8-11
@@ -27,7 +27,7 @@ Jumper wires: https://www.amazon.de/dp/B07KKJSFM1/ref=sr_1_4_sspa?crid=311VAFREA
 
 - **Zuignappen**  
 https://www.amazon.de/-/nl/dp/B0F48YLHRZ/ref=sr_1_8?crid=1FWOP5OEH1GLB&dib=eyJ2IjoiMSJ9.UC8lpHo7ULx26M4Br78RtLEIDaNr9uv9lx8Efx6i42iAQgC6boX8CqtaX2r6NKOVOk2-Ro1vwdFy5rz8vH6G5Hz3pUTazNxI9AP6AomNrNeRcE1c5B4ygjeHJ2KTjTsHL-VE7QWvYV3z2LNLFmEiA-1hz6uaBqH5ouvuNL6agIPnfFY2gteQfEIdPE5jijhM5Cj4-P-O38HFxjR-1At3YXGnhr0MYMpoYa2vZGA-NTUf4zaMgoZI1oeZLok_-Gne8tT9-yDlwmQo0Hi2FAUC_ZpWRUd5lEdyFXy63GsdCJc.Q3xNoq5J2rm3prpykTML5NjlABxoCFbjanBkLbV9aZc&dib_tag=se&keywords=zuignap&qid=1768850478&sprefix=zuigna%2Caps%2C138&sr=8-8 
-# Opmerking
+## Opmerking
 De links dienen als referentie.  
 Gelijkwaardige onderdelen van andere leveranciers zijn ook geschikt.
 
