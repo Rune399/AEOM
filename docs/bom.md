@@ -4,6 +4,10 @@
 Deze repository bevat de materialenlijst voor het project.  
 Alle onderdelen zijn hieronder opgesomd met werkende links naar voorbeeldproducten of officiële documentatie.
 
+> [!WARNING]
+>De links dienen als referentie.  
+Gelijkwaardige onderdelen van andere leveranciers zijn ook geschikt.
+
 ## Benodigde materialen
 
 - **Raspberry Pi 4 (met microSD-kaart en voeding)**  
