@@ -21,18 +21,25 @@ De oplossing is een slim systeem dat apparaten aan en uit schakelt, op basis van
 
 Het systeem regelt meerdere apparaten automatisch, waardoor de opgewekte zonne-energie optimaal kan verbruikt worden. En dat zonder de gebuiker, die zich er mee bezig moet houden.
 
+>Voor simpele apparaten, worden slimme pluggen geintegreerd. Hiervoor worden bv. de bestaande pluggen van [Shelly](https://www.shelly.com/products/shelly-plug-s-gen3?srsltid=AfmBOoo-lc1h_WlMoQxsQ6e4mYHvGy64R30-YDIbfpTCyi_n0wwjkiSI) gebruikt.
+
+>Voor complexere apparaten, zoals wasmachines, wordt een nieuw onderdeel ontwikkelt. De bedoeling van dat onderdeel is om draaiknoppen en touchscreens te kunnen bedienen.
+
 <p align="center">
   <img src="img/Hero1.png" width="100%">
+</p>
+<p align="center">
+  <img src="img/Hero2.png" width="100%">
 </p>
 
 ## Introductie
 **Max 300 woorden.
 Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).**
 
-Mensen met zonnepanelen hebben overdag, als de zon schijnt, goedkope energie. Ze kunnen daar echter vaak geen gebruik van maken, doordat ze overdag naar hun werk zijn.[^1] Ook hebben de meeste mensen geen batterij of een te kleine batterij.[^1] Deze systemen zijn trouwens een hele investering, waardoor men  dus niet zomaar beslist om even een batterij te kopen.[^2] Bovendien hebben zonnepaneel-eigenaars helemaal geen zin, om zich bezig te houden met het beste moment om hun energie te gebruiken.[^1]
-Bovendien zijn de digitale energiemeters minder voordelig voor mensen met zonnepanelen, in vergelijking met de terugkerende teller.[^3]
+Mensen met zonnepanelen hebben overdag, als de zon schijnt, goedkope energie. Ze kunnen daar echter vaak geen gebruik van maken, doordat ze overdag naar hun werk zijn. Ook hebben de meeste mensen geen batterij of een te kleine batterij. Deze systemen zijn trouwens een hele investering, waardoor men  dus niet zomaar beslist om even een batterij te kopen. Bovendien hebben zonnepaneel-eigenaars helemaal geen zin, om zich bezig te houden met het beste moment om hun energie te gebruiken.
+Bovendien zijn de digitale energiemeters minder voordelig voor mensen met zonnepanelen, in vergelijking met de terugkerende teller.[^1]
 
-Het doel van dit project is om een product te ontwikkelen dat mensen met zonnepanelen helpt om te besparen. Daarbij is het ook belangrijk om de gebruiker zo duidelijk mogelijke inzichten te bezorgen, over hun enrgieverbruik. De focus ligt bij het moeiteloos integreren van dit product, in het dagelijkse leven van de gebruikers.
+Het doel van dit project is om een product te ontwikkelen dat mensen met zonnepanelen helpt om te besparen. Daarbij is het ook belangrijk om de gebruiker zo duidelijk mogelijke inzichten te bezorgen, over hun energieverbruik. De focus ligt bij het moeiteloos integreren van dit product, in het dagelijkse leven van de gebruikers.
 
 ## Inhoudstafel
 
@@ -88,6 +95,5 @@ This repository contains both software and design materials created as part of a
 You are free to reuse and build upon this work, both commercially and non-commercially, as long as proper attribution is given to the original authors.
 
 ## Bronnen
-[^1]:
-[^2]:
-[^3]: Retroactieve investeringspremie voor eigenaars van zonnepanelen na afschaffing van terugdraaiende teller. (z.d.). Vlaanderen.be. https://www.vlaanderen.be/retroactieve-investeringspremie-voor-eigenaars-van-zonnepanelen-na-afschaffing-van-terugdraaiende-teller
+
+[^1]: Retroactieve investeringspremie voor eigenaars van zonnepanelen na afschaffing van terugdraaiende teller. (z.d.). Vlaanderen.be. https://www.vlaanderen.be/retroactieve-investeringspremie-voor-eigenaars-van-zonnepanelen-na-afschaffing-van-terugdraaiende-teller
