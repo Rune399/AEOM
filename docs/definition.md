@@ -90,7 +90,36 @@ Op deze manier kan er vergeleken worden welke functies altijd toegankelijk moete
 In het nagesprek zullen we de gemaakte keuzes overleggen en ondervragen om meer inzicht te krijgen in de redenering en achterliggende noden van de gebruikers.
 
 ## Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+
+Beide onderzoeken tonen dat gebruikers vaak moeite hebben met navigatie, iconen en terminologie in energie-interfaces.
+
+Respondenten verwachten een centraal homescreen en directe toegang tot belangrijke functies. Grafieken worden regelmatig als onduidelijk ervaren door het ontbreken van cijfers, assen en totalen.
+
+Veel gebruikers verkiezen visuele informatie boven auditieve signalen.
+
+De waardering van functies verschilt sterk per context en situatie. Sommige gebruikers focussen op algemeen energieverbruik, anderen op kosten of vermogen. 
+
+Automatische sturing wordt verschillend geïnterpreteerd, afhankelijk van vertrouwen en ervaring. Gebruikers geven aan dat systemen moeten aansluiten bij hun persoonlijke voorkeuren en thuissituatie.
+
+Energieverbruik moet in beide euro's en wattage gegeven worden, omdat mentale modellen verschillen in verband met energieverbruik.
+
 ## Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen.
-TOTAAL: maximaal 1000 woorden
+De belangrijkste conclusies die we uit dit onderzoek kunnen halen zijn als volgt:
+
+• De interface moet verbruik van vandaag kunnen tonen
+
+• Verbruik moet cijfers en totalen bevatten
+
+• Belangrijke functies moeten direct bereikbaar zijn, niet diep in menu’s
+
+• Het systeem moet functies contextafhankelijk aanbieden
+
+• Het systeem moet primair visueel communiceren, niet via audio
+
+• Automatisering moet controleerbaar en begrensd zijn
+
+• Het systeem moet zowel wattage als euro’s kunnen tonen
+
+• Het systeem moet modulair uitbreidbaar zijn volgends de noden van de gebruiker (basis + extra’s)
+
+• Het systeem moet meldingen doseren om informatie-overload te vermijden
