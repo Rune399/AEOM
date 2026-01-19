@@ -69,11 +69,11 @@ AI werd ook gebruikt om sommige onderzoeken te verwerken. Hierbij werd opgelet d
 ## Bijlagen
 ### Discovery
 * Literatuuronderzoek (N=10)
-  * [Benchmark protocol](/AEOM/reports%20and%20protocols/S@H_Benchmark%20protocol.pdf)
-  * [Benchmark repport](/AEOM/reports%20and%20protocols/S@H_Benchmark%20report.pdf)
+  * [Benchmark protocol](reports%20and%20protocols/S@H_Benchmark%20protocol.pdf)
+  * [Benchmark repport](reports%20and%20protocols/S@H_Benchmark%20report.pdf)
 * Interviews (N=3)
-  * [User interview protocol](/AEOM/reports%20and%20protocols/S@H_User%20Interview%20Protocol.pdf)
-  * [User interview repport](/AEOM/reports%20and%20protocols/S@H_User%20interview%20report.pdf)
+  * [User interview protocol](reports%20and%20protocols/S@H_User%20Interview%20Protocol.pdf)
+  * [User interview repport](reports%20and%20protocols/S@H_User%20interview%20report.pdf)
     
 ### Definition
 * User testing wave 1 (N=3)
