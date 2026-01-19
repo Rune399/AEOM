@@ -1,7 +1,7 @@
 | ID | Design Requirement | Source | Date |
 |----|--------------------|--------|------|
 
-### Groep 1 – De centrale hub
+|**1**|**De centrale hub**|
 | 1.1 | De centrale hub laat gebruikers hun energieverbruik bekijken in euro’s. | User interview | 26/10/2025 |
 | 1.2 | De centrale hub laat gebruikers hun energieverbruik bekijken in watt. | Usability research interface hub | 23/11/2025 |
 | 1.3 | De centrale hub kan energieverbruik weergeven per dag, week, maand en jaar. | Usability research interface hub | 23/11/2025 |
@@ -26,14 +26,14 @@
 | 1.22 | De centrale hub heeft een esthetisch en modern ontwerp. | User interview | 26/10/2025 |
 | 1.23 | De centrale hub kan door de gebruiker zelf gemonteerd worden. | User interview | 26/10/2025 |
 
-### Groep 2 – Slimme stekkers (plug & play)
+|**2**|**Slimme stekkers-Shelly Plug**|
 | 2.1 | Slimme stekkers kunnen communiceren met de centrale hub. | Functie-analyse | 04/01/2026 |
 | 2.2 | Slimme stekkers kunnen de stroomtoevoer naar een toestel onderbreken of toelaten. | Functie-analyse | 04/01/2026 |
 | 2.3 | Slimme stekkers kunnen het energieverbruik van een aangesloten toestel meten. | Functie-analyse | 04/01/2026 |
 | 2.4 | Slimme stekkers zijn energie-efficiënt tijdens gebruik. | User interview | 26/10/2025 |
 | 2.5 | Slimme stekkers kunnen door de gebruiker zelf geïnstalleerd worden. | User interview | 26/10/2025 |
 
-### Groep 3 – Knoppencontroller
+|**3**|**De knoppencontroller**|
 | 3.1 | De knoppencontroller laat toe om knoppen in te drukken. | User interview | 26/10/2025 |
 | 3.2 | De knoppencontroller laat toe om knoppen te draaien. | User interview | 26/10/2025 |
 | 3.3 | De knoppencontroller kan gebruikt worden om interfaces te bedienen. | Usability research interface hub | 23/11/2025 |
