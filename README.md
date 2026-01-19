@@ -77,11 +77,11 @@ AI werd ook gebruikt om sommige onderzoeken te verwerken. Hierbij werd opgelet d
     
 ### Definition
 * User testing wave 1 (N=3)
-  * [Interface protocol](/AEOM/reports%20and%20protocols/Interface%20protocol.pdf)
-  * [Interface repport](/AEOM/reports%20and%20protocols/Inteface%20report.pdf)
+  * [Interface protocol](reports%20and%20protocols/Interface%20protocol.pdf)
+  * [Interface repport](reports%20and%20protocols/Inteface%20report.pdf)
 * User testing wave 2 (N=3)
-  * [Functies protocol](/AEOM/reports%20and%20protocols/Functies%20protocol.pdf)
-  * [Functies repport](/AEOM/reports%20and%20protocols/Functies%20report.pdf)
+  * [Functies protocol](reports%20and%20protocols/Functies%20protocol.pdf)
+  * [Functies repport](reports%20and%20protocols/Functies%20report.pdf)
 
 ## Licentie
 
