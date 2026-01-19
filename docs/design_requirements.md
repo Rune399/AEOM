@@ -1,48 +1,47 @@
-## Overzicht van Design Requirements
-|| **Status** || ❌ niet voldaan || ⚠️ gedeeltelijk voldaan || ✅ voldaan ||
-|ID|Design Requirement|Source|Status|
-|:---|:---|:---|:---:|
-|**1**|**De centrale hub**|
-|1.1|*Interface*||
-|1.1.1|De centrale hub laat de gebruikers toe hun energieverbruik af te lezen in euro's.|[User interview report](../reports%20and%20protocols/S@H_User%20interview%20report.pdf)|❌|
-|1.1.2|De centrale hub laat de gebruikers toe hun energieverbruik af te lezen in watt.|Interface research|❌|
-|1.1.3|Het verbruik kan worden weergegeven per dag, week, maand en jaar|Interface research|❌|
-|1.1.4|Het verbruik moet tesamen met een gemiddelde weergegeven worden|Interface research|❌|
-|1.1.5|Het totaal verbruik moet ook weergegeven worden|Interface research|❌|
-|1.1.6|Weekdagen en Weekenddagen moeten apart kunnen ingesteld worden|Interface research|❌|
-|1.2|De centrale hub kan toestellen (de)activeren|[User interview report](../reports%20and%20protocols/S@H_User%20interview%20report.pdf)|❌|
-|1.2.3|De centrale hub kan communiceren met de knoppencontroller|❌|
-|1.2.3|De centrale hub kan communiceren met de slimme stekkers|❌|
-|1.3|De centrale hub kan de optimale tijd bepalen om toestellen te besturen|[User interview report](../reports%20and%20protocols/S@H_User%20interview%20report.pdf)|❌|
-|1.3.1|De centrale hub kan de output van de zonnepanelen lezen||❌|
-|1.3.2|De centrale hub weet hoelang en hoeveel energie, een apparaat zal verbruiken||❌|
-|1.4|De centrale hub kan de correcte, actuele prijs berekenen van het energieverbruik|[User interview report](../reports%20and%20protocols/S@H_User%20interview%20report.pdf)|❌|
-|1.5|De centrale hub kan gebruikt worden om prioriteiten te zetten voor het regelen van toestellen|[User interview report](../reports%20and%20protocols/S@H_User%20interview%20report.pdf)|❌|
-|1.6|De centrale hub kan gebruikt worden om tijdslimieten te zetten doorheen de dag voor toestellen|[User interview report](../reports%20and%20protocols/S@H_User%20interview%20report.pdf)|❌|
-|1.7|De centrale hub is gebruiksvriendelijk||❌|
-|1.7.1|De centrale hub is intuïtief om te navigeren||❌|
-|1.7.2|De centrale hub is voldoende leesbaar||❌|
-|1.8|De centrale hub moet energie-efficiënt zijn||❌|
-|1.9|De centrale hub kan op meerdere manieren in een ruimte geplaatst worden||❌|
-|1.9.1|De centrale hub moet monteerbaar zijn aan een muur||❌|
-|1.9.2|De centrale hub moet op een tafel rechtgezet kunnen worden||❌|
-|1.10|De centrale hub moet esthetisch zijn|[User interview report](../reports%20and%20protocols/S@H_User%20interview%20report.pdf)|❌|
-|1.11|De centrale hub moet te monteren zijn, door de gebruiker zelf.|[User interview report](../reports%20and%20protocols/S@H_User%20interview%20report.pdf)|❌|
-|**2**|**Slimme stekkers-Shelly Plug (als laatste aanpakken)**|
-|2.1|De slimme stekkers kunnen communiceren met de centrale hub||❌|
-|2.2|De slimme stekkers kunnen de stroom naar een toestel doorbreken of weer doorlaten||✅|
-|2.3|De slimme stekker kan het energieverbruik van een toestel aflezen||✅|
-|2.4|De slimme stekker is energie efficiënt||✅|
-|2.5|De slimme stekkers moeten te monteren zijn, door de gebruiker zelf.|[User interview report](../reports%20and%20protocols/S@H_User%20interview%20report.pdf)|✅|
-|**3**|**De knoppencontroller**|
-|3.1|De knoppencontroller kan knoppen induwen||❌|
-|3.2|De knoppencontroller kan knoppen draaien||❌|
-|3.3|De knoppencontroller kan touchscreens besturen||❌|
-|3.4|De knoppencontroller is universeel monteerbaar||❌|
-|3.4.1|De knoppencontroller kan op verschillende oppervlaktes bevestigd worden||❌|
-|3.4.2|De knoppencontroller kan op verschillende vormen bevestigd worden||❌|
-|3.5|De knoppencontroller kan communiceren met de centrale hub||❌|
-|3.6|De knoppencontroller mag de functionaliteit van het apparaat niet tegenwerken||❌|
-|3.7|De knoppencontroller moet esthetisch zijn||❌|
-|3.8|De knoppencontroller moet robuust zijn||❌|
-|3.9|De knoppencontroller moet te monteren zijn, door de gebruiker zelf.|[User interview report](../reports%20and%20protocols/S@H_User%20interview%20report.pdf)|❌|
+| ID | Design Requirement | Source | Date |
+|----|--------------------|--------|------|
+
+### Groep 1 – De centrale hub
+| 1.1 | De centrale hub laat gebruikers hun energieverbruik bekijken in euro’s. | User interview | 26/10/2025 |
+| 1.2 | De centrale hub laat gebruikers hun energieverbruik bekijken in watt. | Usability research interface hub | 23/11/2025 |
+| 1.3 | De centrale hub kan energieverbruik weergeven per dag, week, maand en jaar. | Usability research interface hub | 23/11/2025 |
+| 1.4 | De centrale hub toont gemiddelde energieverbruiken. | Usability research interface hub | 23/11/2025 |
+| 1.5 | De centrale hub toont totaal energieverbruik. | Usability research interface hub | 23/11/2025 |
+| 1.6 | De centrale hub laat toe weekdagen en weekenddagen apart in te stellen. | Usability research interface hub | 23/11/2025 |
+| 1.7 | De centrale hub laat toestellen activeren en deactiveren. | User interview | 26/10/2025 |
+| 1.8 | De centrale hub kan communiceren met de knoppencontroller. | Functie-analyse | 04/01/2026 |
+| 1.9 | De centrale hub kan communiceren met slimme stekkers. | Functie-analyse | 04/01/2026 |
+| 1.10 | De centrale hub kan de optimale timing bepalen om toestellen aan te sturen. | Functie-analyse | 04/01/2026 |
+| 1.11 | De centrale hub kan de output van zonnepanelen uitlezen. | Functie-analyse | 04/01/2026 |
+| 1.12 | De centrale hub kan berekenen hoeveel energie elk apparaat verbruikt. | Functie-analyse | 04/01/2026 |
+| 1.13 | De centrale hub kan de actuele energieprijs koppelen aan verbruik. | User interview | 26/10/2025 |
+| 1.14 | De centrale hub ondersteunt prioriteiten voor het aansturen van toestellen. | Functie-analyse | 04/01/2026 |
+| 1.15 | De centrale hub ondersteunt daglimieten voor energieverbruik per toestel. | User interview | 26/10/2025 |
+| 1.16 | De centrale hub is gebruiksvriendelijk en intuïtief te navigeren. | Usability research interface hub | 23/11/2025 |
+| 1.17 | De centrale hub is voldoende leesbaar in verschillende omgevingen. | Usability research interface hub | 23/11/2025 |
+| 1.18 | De centrale hub is energie-efficiënt in gebruik. | User interview | 26/10/2025 |
+| 1.19 | De centrale hub kan op meerdere manieren geplaatst worden in een ruimte. | User interview | 26/10/2025 |
+| 1.20 | De centrale hub is monteerbaar aan een muur. | User interview | 26/10/2025 |
+| 1.21 | De centrale hub kan rechtopstaand op een tafel geplaatst worden. | User interview | 26/10/2025 |
+| 1.22 | De centrale hub heeft een esthetisch en modern ontwerp. | User interview | 26/10/2025 |
+| 1.23 | De centrale hub kan door de gebruiker zelf gemonteerd worden. | User interview | 26/10/2025 |
+
+### Groep 2 – Slimme stekkers (plug & play)
+| 2.1 | Slimme stekkers kunnen communiceren met de centrale hub. | Functie-analyse | 04/01/2026 |
+| 2.2 | Slimme stekkers kunnen de stroomtoevoer naar een toestel onderbreken of toelaten. | Functie-analyse | 04/01/2026 |
+| 2.3 | Slimme stekkers kunnen het energieverbruik van een aangesloten toestel meten. | Functie-analyse | 04/01/2026 |
+| 2.4 | Slimme stekkers zijn energie-efficiënt tijdens gebruik. | User interview | 26/10/2025 |
+| 2.5 | Slimme stekkers kunnen door de gebruiker zelf geïnstalleerd worden. | User interview | 26/10/2025 |
+
+### Groep 3 – Knoppencontroller
+| 3.1 | De knoppencontroller laat toe om knoppen in te drukken. | User interview | 26/10/2025 |
+| 3.2 | De knoppencontroller laat toe om knoppen te draaien. | User interview | 26/10/2025 |
+| 3.3 | De knoppencontroller kan gebruikt worden om interfaces te bedienen. | Usability research interface hub | 23/11/2025 |
+| 3.4 | De knoppencontroller is universeel monteerbaar. | User interview | 26/10/2025 |
+| 3.5 | De knoppencontroller kan op verschillende oppervlakken bevestigd worden. | User interview | 26/10/2025 |
+| 3.6 | De knoppencontroller kan op verschillende manieren bevestigd worden. | User interview | 26/10/2025 |
+| 3.7 | De knoppencontroller kan communiceren met de centrale hub. | Functie-analyse | 04/01/2026 |
+| 3.8 | De knoppencontroller blijft functioneel wanneer het gekoppelde apparaat niet actief is. | User interview | 26/10/2025 |
+| 3.9 | De knoppencontroller heeft een esthetisch ontwerp. | User interview | 26/10/2025 |
+| 3.10 | De knoppencontroller is robuust en geschikt voor dagelijks gebruik. | User interview | 26/10/2025 |
+| 3.11 | De knoppencontroller kan door de gebruiker zelf gemonteerd worden. | User interview | 26/10/2025 |
