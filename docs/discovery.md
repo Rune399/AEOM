@@ -32,6 +32,21 @@ Hieronder staat de resulterende benchmark afgebeeld:
 <p align="center">
   <img src="../img/Benchmark.jpg" width="100%">
 </p>
+De resultaten van de benchmark worden kort besproken.
+Volgende oplossingen bestaan al in overvloed:
+
+- warmte regelende toestellen (slimme thermostaten)
+- slimme energiemeters
+- apparaat om watergebruik te regelen
+
+Om energieverbruik tastbaar te maken voor kinderen, bestaan bijna geen oplossingen.
+Om gebruik te maken van daluur-energieprijzen, bestaan er thuisbatterijen, deze zijn echter gigantisch duur.
+Theoretisch gezien, is het aan/uit schakelen van apparaten met slimme stekkers, ook een optie. Het probleem daarbij is dat er nog geen ready-made oplossing bestaat voor “het brein” van een zo een systeem. Bovendien is dit maar compatibel met enkele apparaten: Apparaten als wasmachines, vaatwassers en droogkasten hebben meer input nodig dan enkel de stekker insteken.
+
+De probleemstellingen, waar verder kan op ingegaan worden, zijn dus:
+-	Energieverbruik ongrijpbaar voor kinderen
+-	Piekverbruik / varierende energieprijs
+
 </br>
 
 #### Habit analysis (N=3)
