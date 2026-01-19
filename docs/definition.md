@@ -8,7 +8,7 @@ Dit houd dus in dat we de belangrijkste onzekerheden moeten identificeren om het
 ## Materiaal & methoden
 ### 1. Knoppendrukker onderzoek
 
-Hier wouden we de vorm en grootte van de knoppendrukker, het toestel die gemonteerd moet worden op apparatuur thuis om de startknoppen te besturen, in ons hoofd valideren.
+Hier wouden we de vorm en grootte van de knoppendrukker, het toestel dat de startknoppen van complexere apparaten hoort te besturen, in ons hoofd valideren.
 
 We hebben hiervoor een kartonnen versie gemaakt, waarin we ook een simpele solenoide gemonteerd hebben om de functionaliteit te immiteren.
 
@@ -30,15 +30,15 @@ In dit eerste onderzoek hebben we ons verdiept in hoe onze interface eruit kan z
 
 #### Werkwijze
 
-• De respondenten worden gevraagd om luidop te zeggen wat ze zien en denken tijdens het uitvoeren van de test.
+1. De respondenten worden gevraagd om luidop te zeggen wat ze zien en denken tijdens het uitvoeren van de test.
 
-• Er wordt een context met een doelstelling voorgelezen waarna de respondent deze probeert te voltooien.
+2. Er wordt een context met een doelstelling voorgelezen waarna de respondent deze probeert te voltooien.
 
-• Als de respondent op een knop duwt of een beweging maakt die de interface normaal zou doen veranderen van menu, dan zal de onderzoeker het correcte menu boven op het vorige leggen. Dit wordt herhaald tot de doelstelling bereikt is.
+3. Als de respondent op een knop duwt of een beweging maakt die de interface normaal zou doen veranderen van menu, dan zal de onderzoeker het correcte menu boven op het vorige leggen. Dit wordt herhaald tot de doelstelling bereikt is.
 
-• Stap een en twee worden herhaald tot elke doelstelling voldaan is voor elke interface.
+4. Stap een en twee worden herhaald tot elke doelstelling voldaan is voor elke interface.
 
-• Na het onderzoek worden er nog een aantal aanvullende vragen gesteld.
+5. Na het onderzoek worden er nog een aantal aanvullende vragen gesteld.
 
 Hiervoor hebben we een simpel kartonnen prototype gemaakt, waarin we meerdere bladeren A5 papier konden plaatsen, om zo de interface in een semi-realistisch omhulsel weer te geven.
 
@@ -54,25 +54,19 @@ In dit onderzoek wouden we het belang van een groot aantal functionaliteiten ond
 
 #### Onderzoeksvragen
 
-•	Welke functies zijn van belang om aan de volgende concept doelen te voldoen?
+- Welke functies zijn van belang om aan de volgende concept doelen te voldoen?
+    -  Verloren energie zonnepanelen laten verbruiken
+    - Gebruiker bewust maken van hun verbruik
+    - Gebruiker helpen / nudgen om te besparen thuis
+  </br>
+- Willen gebruikers hun energieverbruik weten of diepgaand begrijpen?
+    - Hoeveelheid data die beschikbaar is
+  </br>
+- Hoe aanwezig mag het systeem zijn in huis?
 
-=>	Verloren energie zonnepanelen laten verbruiken
-
-=>	Gebruiker bewust maken van hun verbruik
-  
-=>	Gebruiker helpen / nudgen om te besparen thuis
-  
-•	Willen gebruikers hun energieverbruik weten of diepgaand begrijpen?
-
-=>	Hoeveelheid data die beschikbaar is
-  
-•	Hoe aanwezig mag het systeem zijn in huis?
-
-=>	Zeer actief sturen
-  
-=>	Lichtjes nudgen / tips geven
-  
-=>	Uitsluitend informeren
+    - Zeer actief sturen
+    - Lichtjes nudgen / tips geven
+    - Uitsluitend informeren
 
 #### Plan van aanpak
 ##### 1.	Deel I – Nodige functies per scenario bepalen
@@ -91,9 +85,9 @@ In het nagesprek zullen we de gemaakte keuzes overleggen en ondervragen om meer 
 
 ## Resultaten
 
-Beide onderzoeken tonen dat gebruikers vaak moeite hebben met navigatie, iconen en terminologie in energie-interfaces.
+Beide onderzoeken tonen dat gebruikers vaak moeite hebben met navigatie, iconen en terminologie in onze opgestelde interfaces.
 
-Respondenten verwachten een centraal homescreen en directe toegang tot belangrijke functies. Grafieken worden regelmatig als onduidelijk ervaren door het ontbreken van cijfers, assen en totalen.
+Respondenten verwachten een centraal homescreen en directe toegang tot belangrijke functies. Grafieken worden regelmatig als onduidelijk ervaren door het ontbreken van cijfers, assen, gemiddeldes en totalen.
 
 Veel gebruikers verkiezen visuele informatie boven auditieve signalen.
 
@@ -106,20 +100,20 @@ Energieverbruik moet in beide euro's en wattage gegeven worden, omdat mentale mo
 ## Conclusies & implicaties
 De belangrijkste conclusies die we uit dit onderzoek kunnen halen zijn als volgt:
 
-• De interface moet verbruik van vandaag kunnen tonen
+- De interface moet verbruik van vandaag kunnen tonen
 
-• Verbruik moet cijfers en totalen bevatten
+- Verbruik moet cijfers en totalen bevatten
 
-• Belangrijke functies moeten direct bereikbaar zijn, niet diep in menu’s
+- Belangrijke functies moeten direct bereikbaar zijn, niet diep in menu’s
 
-• Het systeem moet functies contextafhankelijk aanbieden
+- Het systeem moet functies contextafhankelijk aanbieden
 
-• Het systeem moet primair visueel communiceren, niet via audio
+- Het systeem moet primair visueel communiceren, niet via audio
 
-• Automatisering moet controleerbaar en begrensd zijn
+- Automatisering moet controleerbaar en begrensd zijn
 
-• Het systeem moet zowel wattage als euro’s kunnen tonen
+- Het systeem moet zowel wattage als euro’s kunnen tonen
 
-• Het systeem moet modulair uitbreidbaar zijn volgends de noden van de gebruiker (basis + extra’s)
+- Het systeem moet modulair uitbreidbaar zijn volgends de noden van de gebruiker (basis + extra’s)
 
-• Het systeem moet meldingen doseren om informatie-overload te vermijden
+- Het systeem moet meldingen doseren om informatie-overload te vermijden

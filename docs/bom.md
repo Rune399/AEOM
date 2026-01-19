@@ -31,7 +31,5 @@ Jumper wires: https://www.amazon.de/dp/B07KKJSFM1/ref=sr_1_4_sspa?crid=311VAFREA
 
 - **Zuignappen**  
 https://www.amazon.de/-/nl/dp/B0F48YLHRZ/ref=sr_1_8?crid=1FWOP5OEH1GLB&dib=eyJ2IjoiMSJ9.UC8lpHo7ULx26M4Br78RtLEIDaNr9uv9lx8Efx6i42iAQgC6boX8CqtaX2r6NKOVOk2-Ro1vwdFy5rz8vH6G5Hz3pUTazNxI9AP6AomNrNeRcE1c5B4ygjeHJ2KTjTsHL-VE7QWvYV3z2LNLFmEiA-1hz6uaBqH5ouvuNL6agIPnfFY2gteQfEIdPE5jijhM5Cj4-P-O38HFxjR-1At3YXGnhr0MYMpoYa2vZGA-NTUf4zaMgoZI1oeZLok_-Gne8tT9-yDlwmQo0Hi2FAUC_ZpWRUd5lEdyFXy63GsdCJc.Q3xNoq5J2rm3prpykTML5NjlABxoCFbjanBkLbV9aZc&dib_tag=se&keywords=zuignap&qid=1768850478&sprefix=zuigna%2Caps%2C138&sr=8-8 
-## Opmerking
-De links dienen als referentie.  
-Gelijkwaardige onderdelen van andere leveranciers zijn ook geschikt.
+
 
