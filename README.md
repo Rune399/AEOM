@@ -69,19 +69,19 @@ AI werd ook gebruikt om sommige onderzoeken te verwerken. Hierbij werd opgelet d
 ## Bijlagen
 ### Discovery
 * Literatuuronderzoek (N=10)
-  * [Protocol](/AEOM/reports%20and%20protocols/S@H_Benchmark%20protocol.pdf)
-  * [Rapport](/AEOM/reports%20and%20protocols/S@H_Benchmark%20report.pdf)
+  * [Benchmark protocol](/AEOM/reports%20and%20protocols/S@H_Benchmark%20protocol.pdf)
+  * [Benchmark repport](/AEOM/reports%20and%20protocols/S@H_Benchmark%20report.pdf)
 * Interviews (N=3)
-  * [Protocol](/AEOM/reports%20and%20protocols/S@H_User%20Interview%20Protocol.pdf)
-  * [Rapport](/AEOM/reports%20and%20protocols/S@H_User%20interview%20report.pdf)
+  * [User interview protocol](/AEOM/reports%20and%20protocols/S@H_User%20Interview%20Protocol.pdf)
+  * [User interview repport](/AEOM/reports%20and%20protocols/S@H_User%20interview%20report.pdf)
     
 ### Definition
 * User testing wave 1 (N=3)
-  * [Protocol](url)
-  * [Rapport](url)
+  * [Interface protocol](/AEOM/reports%20and%20protocols/Interface%20protocol.pdf)
+  * [Interface repport](/AEOM/reports%20and%20protocols/Inteface%20report.pdf)
 * User testing wave 2 (N=3)
-  * [Protocol](url)
-  * [Rapport](url)
+  * [Functies protocol](/AEOM/reports%20and%20protocols/Functies%20protocol.pdf)
+  * [Functies repport](/AEOM/reports%20and%20protocols/Functies%20report.pdf)
 
 ## Licentie
 
