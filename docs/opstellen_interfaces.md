@@ -5,7 +5,7 @@ Bij het opstellen van de interfaces werd gebruik gemaakt van de "Gestalt wetten"
 
 > [!WARNING]
 >Van de besproken interfaces, worden enkel de pagina's besproken die hier relevant zijn.
-> Voor een overzicht van de volledige interfaces zie <a href="../reports and protocols/Intefaces merged.pdf">Interfaces merged</a>
+> Voor een overzicht van de volledige interfaces zie <a href="../reports and protocols/Interfaces merged.pdf">Interfaces merged</a>
 
 
 ### Interface 1
