@@ -3,6 +3,9 @@ De theorie achter het opstellen van de interfaces, voor het interface onderzoek,
 
 Bij het opstellen van de interfaces werd gebruik gemaakt van de "Gestalt wetten". Hieronder wordt per interface toegelicht, hoe de "Gestalt wetten" gebruikt werden.
 
+> [!WARNING]
+>test
+
 
 ### Interface 1
 
@@ -10,10 +13,10 @@ De grote knoppen, aan de onderkant van het scherm maken gebruik van **Similarity
 
 **law of common region** werdt gebruikt om de knoppen "year", "month" en "Week" af te zonderen van de rest van het scherm.
 
-<p align="left"><img src="../img/interface1 pg1.jpg" width="50%"></p>
+<p align="left"><img src="../img/Interface1 pg1.jpg" width="50%"></p>
 
 Op pagina 2 & 3 van dit interface werd **law of common region** gebruikt, om informatie te groeperen per apparaat (zoals naam en limieten).
-<p align="left"><img src="../img/interface1 pg2.jpg" width="50%"></p>
+<p align="left"><img src="../img/Interface1 pg2.jpg" width="50%"></p>
 
 ### Interface 2
 
@@ -39,7 +42,7 @@ Het principe van **similarity** werd toegepast op de "1 year", "1 month" en "1 W
 -  De kader rond de instellingen wordtr afgesneden door de onderkant van het scherm
 - het onderste apparaat wordt doormidden gesneden door de onderkant van het scherm.
 
-<p align="left"><img src="../img/interface2.jpg" width="50%"></p>
+<p align="left"><img src="../img/Interface2.jpg" width="50%"></p>
 
 ### Interface 3
 
@@ -47,7 +50,7 @@ Opnieuw werdt het principe van **similarity** toegepast op de "day"", "week", "m
 Om deze knoppen af te zonderen en duidelijk te maken welke knop geselecteerd is, werdt **law of common region** gebruikt.
 
 
-<p align="left"><img src="../img/interface3 pg2.jpg" width="50%"></p>
+<p align="left"><img src="../img/Interface3 pg2.jpg" width="50%"></p>
 
 
 ### Interface 4
@@ -56,4 +59,4 @@ Knoppen die niet ingedrukt of "actief" zijn worden weergegeven met een 3D-effect
 
 **Proximity** werd gebruikt om knoppen te groeperen. De "D", "W, "M" en "J" -knoppen liggen bijvoorbeeld dicht bijeen, waardoor ze intuitief gegroepeerd worden.
 
-<p align="left"><img src="../img/interface4 pg1.jpg" width="50%"></p>
+<p align="left"><img src="../img/Interface4 pg1.jpg" width="50%"></p>
