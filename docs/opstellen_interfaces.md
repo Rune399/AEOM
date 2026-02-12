@@ -4,7 +4,8 @@ De theorie achter het opstellen van de interfaces, voor het interface onderzoek,
 Bij het opstellen van de interfaces werd gebruik gemaakt van de "Gestalt wetten". Hieronder wordt per interface toegelicht, hoe de "Gestalt wetten" gebruikt werden.
 
 > [!WARNING]
->test
+>Van de besproken interfaces, worden enkel de pagina's besproken die hier relevant zijn.
+> Voor een overzicht van de volledige interfaces zie <a href="../reports and protocols/Intefaces merged.pdf">Interfaces merged</a>
 
 
 ### Interface 1
