@@ -10,13 +10,13 @@ Bij het opstellen van de interfaces werd gebruik gemaakt van de "Gestalt wetten"
 
 ### Interface 1
 
-De grote knoppen, aan de onderkant van het scherm maken gebruik van **Similarity**, waardoor de onderkant van het scherm als een aparte zone gezien zou kunnen worden. Ook "year", "month" en "Week" -knoppen maken gebruik van similarity.
+De grote knoppen, aan de onderkant van het scherm maken gebruik van **Similarity**(1), waardoor de onderkant van het scherm als een aparte zone gezien zou kunnen worden. Ook "year", "month" en "Week" -knoppen maken gebruik van similarity.
 
-**law of common region** werdt gebruikt om de knoppen "year", "month" en "Week" af te zonderen van de rest van het scherm.
+**law of common region**(2) werdt gebruikt om de knoppen "year", "month" en "Week" af te zonderen van de rest van het scherm.
 
 <p align="left"><img src="../img/Interface1 pg1.jpg" width="50%"></p>
 
-Op pagina 2 & 3 van dit interface werd **law of common region** gebruikt, om informatie te groeperen per apparaat (zoals naam en limieten).
+Op pagina 2 & 3 van dit interface werd **law of common region**(2) gebruikt, om informatie te groeperen per apparaat (zoals naam en limieten).
 <p align="left"><img src="../img/Interface1 pg2.jpg" width="50%"></p>
 
 ### Interface 2
@@ -34,12 +34,12 @@ choices."
 
 => Een klein aantal knoppen en mogelijke interacties, zorgt voor een snellere en intuïtievere navigatie.
 
-Verder werdt **law of common region** gebruikt om alle instellingen te groeperen en af te zonderen van het verbruik.
+Verder werdt **law of common region**(2) gebruikt om alle instellingen te groeperen en af te zonderen van het verbruik.
 Ook om deze instellingen te groeperen per apparaat werd law of common region gebruikt.
 
-Het principe van **similarity** werd toegepast op de "1 year", "1 month" en "1 Week" -knoppen.
+Het principe van **similarity**(1) werd toegepast op de "1 year", "1 month" en "1 Week" -knoppen.
 
-**Continuation** werd gebruikt om duidelijk te maken dat het interface verder loopt dan de gebruiker kan zien. Er kan dus nog naar beneden genavigeerd worden... Dit werdt al volgt toegepast:
+**Continuation**(3) werd gebruikt om duidelijk te maken dat het interface verder loopt dan de gebruiker kan zien. Er kan dus nog naar beneden genavigeerd worden... Dit werdt al volgt toegepast:
 -  De kader rond de instellingen wordtr afgesneden door de onderkant van het scherm
 - het onderste apparaat wordt doormidden gesneden door de onderkant van het scherm.
 
