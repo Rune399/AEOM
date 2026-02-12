@@ -1,5 +1,5 @@
 ## Opstellen interfaces
-De theorie achter het opstellen van de interfaces, voor het interface onderzoek, wordt hier kort besproken. <a href="../reports and protocols/Interface protocol.pdf">Interface protocol</a> gaat dieper in op dit onderzoek. De resultaten worden besproken in <a href="../reports and protocols/Interface report.pdf">Interface report</a>.
+De theorie achter het opstellen van de interfaces, voor het interface onderzoek, wordt hier kort besproken. <a href="../reports and protocols/Interface protocol.pdf">Interface protocol</a> gaat dieper in op dit onderzoek. De resultaten worden besproken in <a href="../reports and protocols/Inteface report.pdf">Interface report</a>.
 
 Bij het opstellen van de interfaces werd gebruik gemaakt van de "Gestalt wetten". Hieronder wordt per interface toegelicht, hoe de "Gestalt wetten" gebruikt werden.
 
