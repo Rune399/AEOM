@@ -14,10 +14,10 @@ De grote knoppen, aan de onderkant van het scherm maken gebruik van **Similarity
 
 **law of common region**(2) werdt gebruikt om de knoppen "year", "month" en "Week" af te zonderen van de rest van het scherm.
 
-<p align="left"><img src="../img/Interface1 pg1.jpg" width="50%"></p>
+<p align="left"><img src="../img/Interface1 pg1.jpg" width="100%"></p>
 
 Op pagina 2 & 3 van dit interface werd **law of common region**(2) gebruikt, om informatie te groeperen per apparaat (zoals naam en limieten).
-<p align="left"><img src="../img/Interface1 pg2.jpg" width="50%"></p>
+<p align="left"><img src="../img/Interface1 pg2.jpg" width="100%"></p>
 
 ### Interface 2
 
@@ -43,7 +43,7 @@ Het principe van **similarity**(1) werd toegepast op de "1 year", "1 month" en "
 -  De kader rond de instellingen wordtr afgesneden door de onderkant van het scherm
 - het onderste apparaat wordt doormidden gesneden door de onderkant van het scherm.
 
-<p align="left"><img src="../img/Interface2.jpg" width="50%"></p>
+<p align="left"><img src="../img/Interface2.jpg" width="100%"></p>
 
 ### Interface 3
 
@@ -51,13 +51,13 @@ Opnieuw werdt het principe van **similarity** toegepast op de "day"", "week", "m
 Om deze knoppen af te zonderen en duidelijk te maken welke knop geselecteerd is, werdt **law of common region** gebruikt.
 
 
-<p align="left"><img src="../img/Interface3 pg2.jpg" width="50%"></p>
+<p align="center"><img src="../img/Interface3 pg2.jpg" width="100%"></p>
 
 
 ### Interface 4
 
-Knoppen die niet ingedrukt of "actief" zijn worden weergegeven met een 3D-effect, waardoor ze lijken uit te steken. Als een knop ingedrukt is, dan lijkt deze lager te liggen dan de andere knoppen. Dit is het gebruik van **common fate**.
+Knoppen die niet ingedrukt of "actief" zijn worden weergegeven met een 3D-effect, waardoor ze lijken uit te steken. Als een knop ingedrukt is, dan lijkt deze lager te liggen dan de andere knoppen. Dit is het gebruik van **common fate**(4).
 
-**Proximity** werd gebruikt om knoppen te groeperen. De "D", "W, "M" en "J" -knoppen liggen bijvoorbeeld dicht bijeen, waardoor ze intuitief gegroepeerd worden.
+**Proximity**(5) werd gebruikt om knoppen te groeperen. De "D", "W, "M" en "J" -knoppen liggen bijvoorbeeld dicht bijeen, waardoor ze intuitief gegroepeerd worden.
 
-<p align="left"><img src="../img/Interface4 pg1.jpg" width="50%"></p>
+<p align="center"><img src="../img/Interface4 pg1.jpg" width="100%"></p>
