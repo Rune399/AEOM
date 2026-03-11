@@ -40,8 +40,15 @@ De HTA en gegenereerde ideeën werden samengegeoten in één gedetailleerd schem
   <img src="../img/Human product interaction + component map.jpg" width="100%">
 </p>
 
+> [!TIP]
+> Om bovenstaande afbeelding in detail te bekijken:
+> 1. Linksklik op de afbeelding
+> 2. Rechtsklik op de afbeelding
+> 3. Klik op "Open image in new tab"
 
-#### 2. User interview
+<br>
+
+#### 2. User interview (N=3)
 
 Om meer inzichten te verkrijgen in de wensen en/of eisen van de gebruikers, werden opniew user interviews afgelegd. Daarbij worden vragen gesteld aan de gebruike, die gericht zijn op het beantwoorden van onzekerheden in deze fase:
 - Zien de gebruikers een meerwaarde in het product, dewelke?
@@ -54,19 +61,64 @@ Om meer inzichten te verkrijgen in de wensen en/of eisen van de gebruikers, werd
 - Verkopen als bouwpakket?
 - Pains identificeren waarop ingespeeld kan worden?
 
-Voor meer detail over dit onderzoek zie [?????????????? protocol]().
+Voor meer detail over dit onderzoek zie <a href="../reports and protocols/Protocol interview after pivot.pdf">Protocol interview after pivot</a>.
+
+<br>
 
 #### 3. Fysieke tests aan de hand van prototypes
 
-<p align="center">
-  <img src="../img/HTA-drukken.png" width="40%">
+<p>
+  <img align="left" src="../img/HTA-Drukken.png" width="40%"><br>Om te onderzoeken welke electronische componenten het best zouden werken voor deze toepassing, werd eerste een eerste eliminatie uitgevoerd, op basis van voorkennis. Vervolgens werden voor de overblijvende actuatoren, prototypes gebouwd. Deze prototypes werden op een wasmachine aangebracht en geactiveerd. Op die mannier werd getest of de prototypes in staat waren om de knoppen van de wasmachine in te drukken. Voor meer detail of een blik op de gebruikte prototypes, zie <a href="../reports and protocols/1. Drukken van knoppen protocol.pdf">Drukken van knoppen protocol</a>.
 </p>
-
- Om te onderzoeken welke electronische componenten het best zouden werken voor deze toepassing, werd eerste een eerste eliminatie uitgevoerd, op basis van voorkennis. Vervolgens werden voor de overblijvende actuatoren, prototypes gebouwd. Deze prototypes werden op een wasmachine aangebracht en geactiveerd. Op die mannier werd getest of de prototypes in staat waren om de knoppen van de wasmachine in te drukken. Voor meer detail zie <a href="../reports and protocols/1. Drukken van knoppen protocol.pdf">Drukken van knoppen protocol</a>
+ 
 <br>
 
 ### Resultaten
 
-#### 1. User interview
+#### 1. User interview (N=3)
+
+
 
 #### 2. Fysieke tests
+
+Dit is de resulterende tabel, waarin de subjectieve beoordeling van de verschillende componenten in staat:
+
+|  | Kan knop indrukken? | Kracht |	Feedbackloop | Gewicht | Gemak aansturen (extra componenten + code) |
+|----|----|----|----|----|----|
+|**Servo**	|Ja	|Matig	|Ja => hoge precisie + herhaalbaarheid	|Matig	|Matig|
+|**Stepper (niet op knop getest)**	|? (Waarschijnlijk)	|Matig	|Nee (Maar hoge precisie + herhaalbaarheid, bij geen slip)	|Zwaar	|Moeilijk|
+|**Solenoide**	|Nee	|Laag	|Nee (niet per se nodig) |Zwaar	|Makkelijk|
+|**Lineaire actuator**	|Ja	|Zeer Hoog	|Nee	|Matig	|Makkelijk|
+|**Brushed + geared**	|Ja	|Zeer Hoog	|Nee	Zwaar	|Makkelijk|
+
+<br>
+
+
+
+
+### Conclusies & implicaties
+
+Voor een meer gedetailleerde bespreking van de resultaten zie <a href="../reports and protocols/1. Drukken van knoppen report.pdf">Drukken van knoppen report</a>.
+
+
+
+
+
+
+
+
+**Ontwerpcriteria??????????**
+**prd:**
+De knoppendrukker moet specifieke programma’s kunnen uitvoeren
+De knoppendrukker moet bedrijfszeker zijn
+De knoppendrukker moet herbruikbaar zijn
+De knoppendrukker moet makkelijk te integreren zijn zonder demontage
+De knoppendrukker moet onder de vijf minuten ingesteld kunnen worden
+De knoppendrukker moet zijn waarde terugverdienen binnen het jaar
+De knoppendrukker moet zelfstandig kunnen werken
+De app moet alarmmeldingen geven
+De app moet de mogelijkheid geven om meldingen in/uit te schakelen
+
+
+**Key insights**
+- De brushed DC motor gecombineerd met een schroefmechganisme (= lineaire actuator), is de best passende oplossing voor het indrukken van knoppen op een wasmachine.
