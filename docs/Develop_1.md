@@ -62,11 +62,26 @@ Voor meer detail over dit onderzoek zie <a href="../reports and protocols/Protoc
 <br clear="left" />
 
 ### Resultaten
-De reultaten van beide onderzoeken worden kort besproken.
+De resultaten van beide onderzoeken worden kort besproken.
+
 #### 1. User interview (N=3)
-...
+Uit deze user interviews is gebleken dat de grootste redenen voor automatisatie, energiebesparing en comfort zijn. Energiebesparing gaat onderliggend echter om geldbesparing.
 
+De meeste gebruikers zouden dit product gebruiken, voor het slim maken van domme apparaten. 
+De meerwaarde zit daarbij wel in het selecteren van specifieke programma’s.
+Ook is gebleken dat men het een nadeel zou vinden, als er geen verbruik uitgelezen kan worden...
 
+De volgende zaken zijn bij alle gebruikers naar boven gekomen:
+- De koopprijs mag wel een redelijke investering zijn, zolang er voldoende meerwaarde in zit, het geld moet terugverdient kunnen worden.
+- De keuze voor meldingen te krijgen of niet is ook gevraagd, aangezien dat zeer subjectief is per persoon.
+- Herbruikbaarheid, gebruiksvriendelijkheid en eventueel ook compatibiliteit met andere systemen
+- Alarmmeldingen
+- Betrouwbaarheid, bedrijfszekerheid
+- Lage setuptijd, eenmalig uit te voeren waarna het toestel grotendeels zelfstandig dient te werken.
+- Makkelijk te integreren bij apparaten
+- Geen bouwpakket
+
+<br>
 
 #### 2. Fysieke tests
 
@@ -81,8 +96,6 @@ Dit is de resulterende tabel, waarin de subjectieve beoordeling van de verschill
 |**Brushed + geared**	|Ja	|Zeer Hoog	|Nee	Zwaar	|Makkelijk|
 
 <br>
-
-
 
 
 ### Conclusies & implicaties
@@ -104,5 +117,7 @@ Voor een meer gedetailleerde bespreking van de resultaten zie <a href="../report
 #### Key insights
 - Er is interesse in het product:
 De gebruikers zijn geïntresseerd in een product dat apparaten slim maakt, zodat er op die manier meer comfort is en geld bespaard word.
+<br>
+- De slimme stekkers (al bestaand) zijn nog steeds een nuttige toevoeging aan ons product. Aangezien gebruikers nog steeds wensen het energieverbruik af te lezen.
 <br>
 - De brushed DC motor gecombineerd met een schroefmechanisme (= lineaire actuator), is de best passende oplossing voor het indrukken van knoppen op een wasmachine.
