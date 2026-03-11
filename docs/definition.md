@@ -1,12 +1,12 @@
-# Definition
+## Definition
 
-## Doestellingen
+### Doestellingen
 De doelstelling van de tweede fase, definition is om het concept te valideren, "designing the right thing".
 
 Dit houd dus in dat we de belangrijkste onzekerheden moeten identificeren om het concept verder te ontwikkelen, zodat we hieruit conclusies kunnen nemen om onze design requirements aan te passen en zo de nodige bouwstenen hebben voor de uitwerking van het concept.
 
-## Materiaal & methoden
-### 1. Knoppendrukker onderzoek
+### Materiaal & methoden
+#### 1. Knoppendrukker onderzoek
 
 Hier wouden we de vorm en grootte van de knoppendrukker, het toestel dat de startknoppen van complexere apparaten hoort te besturen, in ons hoofd valideren.
 
@@ -14,11 +14,11 @@ We hebben hiervoor een kartonnen versie gemaakt, waarin we ook een simpele solen
 
 Hieruit hebben we kunnen afleiden dat dit element veel kleiner gemaakt moet worden en dat de bevestigingsmethode van dit toestel sterk genoeg zal moeten zijn om de krachten van de solenoide op te vangen.
 
-### 2. Interface onderzoek
+#### 2. Interface onderzoek
 
 In dit eerste onderzoek hebben we ons verdiept in hoe onze interface eruit kan zien en onze eigen ideëen voor wat we precies gaan weergeven, samen met het onderzoeken van waar de knelpunten zitten bij het navigeren rond de interface.
 
-#### Onderzoeksvragen
+##### Onderzoeksvragen
 
 •	Kunnen de respondenten zich gemakkelijk navigeren om een doelstelling te bereiken?
 
@@ -28,7 +28,7 @@ In dit eerste onderzoek hebben we ons verdiept in hoe onze interface eruit kan z
 
 •	Waar moeten de respondenten lang of kort nadenken vooraleer ze de volgende stappen kunnen uitvoeren en waarom?
 
-#### Werkwijze
+##### Werkwijze
 
 1. De respondenten worden gevraagd om luidop te zeggen wat ze zien en denken tijdens het uitvoeren van de test.
 
@@ -44,15 +44,15 @@ Hiervoor hebben we een simpel kartonnen prototype gemaakt, waarin we meerdere bl
 
 Voor de papieren interfaces hebben we een reeds gemaakte interface van tijdens de discovery fase samengesteld met drie andere interfaces, door elk van ons gemaakt, om zo een totaal van vier interfaces te onderzoeken.
 
-#### Meting
+##### Meting
 
 Dit onderzoek zal gemeten worden door middel van een observatie tijdens de usability test, door een video opname van het onderzoek met geluid en door een analyse te maken van de achteraf gestelde vragen.
 
-### 3. Functie onderzoek
+#### 3. Functie onderzoek
 
 In dit onderzoek wouden we het belang van een groot aantal functionaliteiten onderzoeken, zodat we de primaire, secundaire en onnodige functies kunnen vastleggen.
 
-#### Onderzoeksvragen
+##### Onderzoeksvragen
 
 - Welke functies zijn van belang om aan de volgende concept doelen te voldoen?
     -  Verloren energie zonnepanelen laten verbruiken
@@ -68,22 +68,22 @@ In dit onderzoek wouden we het belang van een groot aantal functionaliteiten ond
     - Lichtjes nudgen / tips geven
     - Uitsluitend informeren
 
-#### Plan van aanpak
-##### 1.	Deel I – Nodige functies per scenario bepalen
+##### Plan van aanpak
+###### 1.	Deel I – Nodige functies per scenario bepalen
 
 Hier zullen we zoeken naar de belangrijkste functies van het apparaat, zodat we de gebruiker in specifieke scenario’s waar we ons op richten in te helpen.
 
-##### 2.	Deel II – Algemene nood van functies bepalen
+###### 2.	Deel II – Algemene nood van functies bepalen
 
 Hier wordt er nog gepolst naar het algemene belang van de functies.
 
 Op deze manier kan er vergeleken worden welke functies altijd toegankelijk moeten zijn en welke functies eerder nuttig zijn voor specifieke scenario’s, en bijvoorbeeld in een verder submenu kunnen zitten.
 
-##### 3.	Nagesprek – Overleggen met de deelnemer over hun keuzes
+###### 3.	Nagesprek – Overleggen met de deelnemer over hun keuzes
 
 In het nagesprek zullen we de gemaakte keuzes overleggen en ondervragen om meer inzicht te krijgen in de redenering en achterliggende noden van de gebruikers.
 
-## Resultaten
+### Resultaten
 
 Beide onderzoeken tonen dat gebruikers vaak moeite hebben met navigatie, iconen en terminologie in onze opgestelde interfaces.
 
@@ -97,7 +97,7 @@ Automatische sturing wordt verschillend geïnterpreteerd, afhankelijk van vertro
 
 Energieverbruik moet in beide euro's en wattage gegeven worden, omdat mentale modellen verschillen in verband met energieverbruik.
 
-## Conclusies & implicaties
+### Conclusies & implicaties
 De belangrijkste conclusies die we uit dit onderzoek kunnen halen zijn als volgt:
 
 - De interface moet verbruik van vandaag kunnen tonen
