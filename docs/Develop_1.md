@@ -22,18 +22,6 @@ Vervolgens werd het product opgesplitst in zijn verschillende functies, aan de h
 </p>
 
 Voor elk van die functies, afzonderlijk, werden oplossingen bedacht.
-<p align="center">
-  <img src="../img/ideation1.jpg" width="100%">
-</p>
-<p align="center">
-  <img src="../img/ideation2.jpg" width="100%">
-</p>
-<p align="center">
-  <img src="../img/ideation3.jpg" width="100%">
-</p>
-<p align="center">
-  <img src="../img/ideation4.jpg" width="100%">
-</p>
 
 De HTA en gegenereerde ideeën werden samengegoten in één gedetailleerd schema, waarin human-product interacties, functies, mogelijke deeloplossingen en de interactie tussen die componenenten worden weergegeven.
 <p align="center">
@@ -71,7 +59,7 @@ Voor meer detail over dit onderzoek zie <a href="../reports and protocols/Protoc
   <img align="left" src="../img/HTA-Drukken.png" width="40%"><br>Om te onderzoeken welke electronische componenten het best zouden werken voor deze toepassing, werd eerste een eerste eliminatie uitgevoerd, op basis van voorkennis. Vervolgens werden voor de overblijvende actuatoren, prototypes gebouwd. Deze prototypes werden op een wasmachine aangebracht en geactiveerd. Op die mannier werd getest of de prototypes in staat waren om de knoppen van de wasmachine in te drukken. Voor meer detail of een blik op de gebruikte prototypes, zie <a href="../reports and protocols/1. Drukken van knoppen protocol.pdf">Drukken van knoppen protocol</a>.
 </p>
  
-<br>
+<br clear="left" />
 
 ### Resultaten
 De reultaten van beide onderzoeken worden kort besproken.
@@ -102,16 +90,19 @@ Hier worden de conclusies en implicaties voor het product, kort besproken.
 Voor een meer gedetailleerde bespreking van de resultaten zie <a href="../reports and protocols/1. Drukken van knoppen report.pdf">Drukken van knoppen report</a> en <a href="../reports and protocols/Report interview after pivot.pdf">Report interview after pivot</a>.
 
 #### Product requirements
-- De knoppendrukker moet specifieke programma’s kunnen uitvoeren
-- De knoppendrukker is betrouwbaar
-- De knoppendrukker is herbruikbaar
-- De knoppendrukker is makkelijk te integreren, zonder demontage
-- De knoppendrukker kan ingesteld worden in minder dan vijf minuten
-- De knoppendrukker kan zijn waarde terugverdienen binnen de 3 jaar
-- De knoppendrukker kan zelfstandig werken
+- De knoppencontroller kan specifieke programma’s uitvoeren
+- De knoppencontroller is betrouwbaar
+- De knoppencontroller is herbruikbaar
+- De knoppencontroller is makkelijk te integreren, zonder demontage
+- De knoppencontroller kan ingesteld worden in minder dan vijf minuten
+- De knoppencontroller kan zijn waarde terugverdienen binnen de 3 jaar
+- De knoppencontroller kan zelfstandig werken
 - De app geeft alarmmeldingen
 - De app heeft de mogelijkheid om meldingen in/uit te schakelen
 
 
 #### Key insights
+- Er is interesse in het product:
+De gebruikers zijn geïntresseerd in een product dat apparaten slim maakt, zodat er op die manier meer comfort is en geld bespaard word.
+<br>
 - De brushed DC motor gecombineerd met een schroefmechanisme (= lineaire actuator), is de best passende oplossing voor het indrukken van knoppen op een wasmachine.

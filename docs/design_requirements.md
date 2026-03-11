@@ -1,5 +1,5 @@
 
-### Groep 1 – De centrale hub
+<!--### Groep 1 – De centrale hub
 | :x: = Niet voldaan | :warning: = Niet volledig voldaan | :white_check_mark: = Voldaan |
 | ID | Design Requirement | Source | Date ||
 |----|--------------------|--------|------|--|
@@ -26,19 +26,10 @@
 | 1.17.2 | De centrale hub kan rechtopstaand op een tafel geplaatst worden. | User interview | 26/10/2025 |:x:|
 | 1.17.3 | De centrale hub kan comfortabel in de hand genomen worden door de gebruiker. | User interview | 26/10/2025 |:x:|
 | 1.18 | De centrale hub heeft een esthetisch en modern ontwerp. | User interview | 26/10/2025 |:x:|
-| 1.19 | De centrale hub kan door de gebruiker zelf gemonteerd worden. | User interview | 26/10/2025 |:x:|
+| 1.19 | De centrale hub kan door de gebruiker zelf gemonteerd worden. | User interview | 26/10/2025 |:x:|-->
+## Design requirements
 
-### Groep 2 – Slimme stekkers (plug & play)
-| :x: = Niet voldaan | :warning: = Niet volledig voldaan | :white_check_mark: = Voldaan |
-| ID | Design Requirement | Source | Date ||
-|----|--------------------|--------|------|--|
-| 2.1 | Slimme stekkers kunnen communiceren met de centrale hub. | Functie-analyse | 04/01/2026 |:x:|
-| 2.2 | Slimme stekkers kunnen de stroomtoevoer naar een toestel onderbreken of toelaten. | Functie-analyse | 04/01/2026 |:white_check_mark:|
-| 2.3 | Slimme stekkers kunnen het energieverbruik van een aangesloten toestel meten. | Functie-analyse | 04/01/2026 |:white_check_mark:|
-| 2.4 | Slimme stekkers zijn energie-efficiënt tijdens gebruik. | User interview | 26/10/2025 |:white_check_mark:|
-| 2.5 | Slimme stekkers kunnen door de gebruiker zelf geïnstalleerd worden. | User interview | 26/10/2025 |:white_check_mark:|
-
-### Groep 3 – Knoppencontroller
+### Groep 1 – Knoppencontroller
 | :x: = Niet voldaan | :warning: = Niet volledig voldaan | :white_check_mark: = Voldaan |
 | ID | Design Requirement | Source | Date ||
 |----|--------------------|--------|------|--|
@@ -49,7 +40,24 @@
 | 3.2 | De knoppencontroller is universeel monteerbaar. | User interview | 26/10/2025 |:x:|
 | 3.2.1 | De knoppencontroller kan op verschillende oppervlakken bevestigd worden. | User interview | 26/10/2025 |:x:|
 | 3.2.2 | De knoppencontroller kan op verschillende manieren bevestigd worden. | User interview | 26/10/2025 |:x:|
-| 3.3 | De knoppencontroller kan communiceren met de centrale hub. | Functie-analyse | 04/01/2026 |:x:|
-| 3.4 | De knoppencontroller heeft een esthetisch ontwerp. | User interview | 26/10/2025 |:x:|
-| 3.5 | De knoppencontroller is robuust en geschikt voor dagelijks gebruik. | User interview | 26/10/2025 |:x:|
-| 3.6 | De knoppencontroller kan door de gebruiker zelf gemonteerd worden. | User interview | 26/10/2025 |:x:|
+| 3.3 | De knoppencontroller heeft een esthetisch ontwerp. | User interview | 26/10/2025 |:x:|
+| 3.4 | De knoppencontroller is robuust en geschikt voor dagelijks gebruik. | User interview | 26/10/2025 |:x:|
+| 3.5 | De knoppencontroller kan door de gebruiker zelf gemonteerd worden. | User interview | 26/10/2025 |:x:|
+| 3.6 |De knoppencontroller kan specifieke programma’s uitvoeren | interview after pivot | 11/03/2026 |:x:|
+| 3.7 | De knoppencontroller is betrouwbaar | interview after pivot | 11/03/2026 |:x:|
+| 3.8 | De knoppencontroller is herbruikbaar | interview after pivot | 11/03/2026 |:x:|
+| 3.9 | De knoppencontroller is makkelijk te integreren, zonder demontage | interview after pivot | 11/03/2026 |:x:|
+| 3.10 | De knoppencontroller kan ingesteld worden in minder dan vijf minuten | interview after pivot | 11/03/2026 |:x:|
+| 3.11 | De knoppencontroller kan zijn waarde terugverdienen binnen de 3 jaar | interview after pivot | 11/03/2026 |:x:|
+| 3.12 | De knoppencontroller kan zelfstandig werken | interview after pivot | 11/03/2026 |:x:|
+
+
+### Groep 2 – Slimme stekkers (plug & play)
+| :x: = Niet voldaan | :warning: = Niet volledig voldaan | :white_check_mark: = Voldaan |
+| ID | Design Requirement | Source | Date ||
+|----|--------------------|--------|------|--|
+| 2.1 | Slimme stekkers kunnen communiceren met de centrale hub. | Functie-analyse | 04/01/2026 |:x:|
+| 2.2 | Slimme stekkers kunnen de stroomtoevoer naar een toestel onderbreken of toelaten. | Functie-analyse | 04/01/2026 |:white_check_mark:|
+| 2.3 | Slimme stekkers kunnen het energieverbruik van een aangesloten toestel meten. | Functie-analyse | 04/01/2026 |:white_check_mark:|
+| 2.4 | Slimme stekkers zijn energie-efficiënt tijdens gebruik. | User interview | 26/10/2025 |:white_check_mark:|
+| 2.5 | Slimme stekkers kunnen door de gebruiker zelf geïnstalleerd worden. | User interview | 26/10/2025 |:white_check_mark:|
