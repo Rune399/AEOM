@@ -13,7 +13,17 @@ AEOM, de slimme interface die gezinnen helpt zonne-energie optimaal te gebruiken
 
 ## Samenvatting
 
-Zonnepaneel-houders kunnen de goedkopere energie niet optimaal gebruiken, omdat ze overdag werken. Bestaande oplossingen zijn grote investeringen.
+Gebruikers hebben soms nood aan functionaliteit, die hun apparaten niet hebben. Nieuwe "slimme" apparaten bestaan, maar zijn vaak duur. Het is dan ook voor veel mensen niet de moeite om daarvoor een nieuwe machine te kopen. Om dat probleem op te lossen werd *AEOM* ontwikkeld.
+
+Dit project is begonnen als oplossing voor zonnepaneel-houders, die optimaal gebruik willen maken van hun zonne-energie. 
+Uiteindelijk is dat echter verandert, naar het automatiseren van "domme" apparaten. Met een focus op wasmachines en droogkasten.
+
+>Voorbeeld van een toepassing:
+>De was starten op het meest economische moment van de dag. Of op het juiste moment, zodat die klaar is wanneer de gebruiker thuis komt... 
+
+De oplossing is een slim systeem dat apparaten aan en uit schakelt op basis van parameters, die de gebruiker instelt.
+
+<!--Zonnepaneel-houders kunnen de goedkopere energie niet optimaal gebruiken, omdat ze overdag werken. Bestaande oplossingen zijn grote investeringen.
 
 Dit probleem werd onderzocht aan de hand van literatuuronderzoek, interviews met de gebruikers en gebruikerstests.
 
@@ -27,28 +37,31 @@ Het systeem regelt meerdere apparaten automatisch, waardoor de opgewekte zonne-e
 
 <p align="center">
   <img src="img/Hero1.png" width="100%">
-</p>
+</p>-->
 <p align="center">
   <img src="img/Hero2.png" width="100%">
 </p>
 
 ## Introductie
 
-Mensen met zonnepanelen hebben overdag, als de zon schijnt, goedkope energie. Ze kunnen daar echter vaak geen gebruik van maken, doordat ze overdag naar hun werk zijn. Ook hebben de meeste mensen geen batterij of een te kleine batterij. Deze systemen zijn trouwens een hele investering, waardoor men  dus niet zomaar beslist om even een batterij te kopen. Bovendien hebben zonnepaneel-eigenaars helemaal geen zin, om zich bezig te houden met het beste moment om hun energie te gebruiken.
-Bovendien zijn de digitale energiemeters minder voordelig voor mensen met zonnepanelen, in vergelijking met de terugkerende teller.[^1]
+:construction: *Under construction...*
 
-Het doel van dit project is om een product te ontwikkelen dat mensen met zonnepanelen helpt om te besparen. Daarbij is het ook belangrijk om de gebruiker zo duidelijk mogelijke inzichten te bezorgen, over hun energieverbruik. De focus ligt bij het moeiteloos integreren van dit product, in het dagelijkse leven van de gebruikers.
+<!--*Mensen met zonnepanelen hebben overdag, als de zon schijnt, goedkope energie. Ze kunnen daar echter vaak geen gebruik van maken, doordat ze overdag naar hun werk zijn. Ook hebben de meeste mensen geen batterij of een te kleine batterij. Deze systemen zijn trouwens een hele investering, waardoor men  dus niet zomaar beslist om even een batterij te kopen. Bovendien hebben zonnepaneel-eigenaars helemaal geen zin, om zich bezig te houden met het beste moment om hun energie te gebruiken.
+Bovendien zijn de digitale energiemeters minder voordelig voor mensen met zonnepanelen, in vergelijking met de terugkerende teller.[^1]*
+
+*Het doel van dit project is om een product te ontwikkelen dat mensen met zonnepanelen helpt om te besparen. Daarbij is het ook belangrijk om de gebruiker zo duidelijk mogelijke inzichten te bezorgen, over hun energieverbruik. De focus ligt bij het moeiteloos integreren van dit product, in het dagelijkse leven van de gebruikers.*-->
 
 ## Inhoudstafel
 
 1. [Methodologie](./docs/methodologie.md)
 2. [Discovery](./docs/discovery.md)
 3. [Defintion](./docs/definition.md)
-4. [Develop 1](./docs/develop_1.md)
-4. [Develop 2](./docs/develop_2.md)
-4. [Develop 3](./docs/develop_3.md)
-5. [Design Requirements](./docs/design_requirements.md)
-6. [Bill of materials](./docs/bom.md)
+4. [The pivot](./docs/The_Pivot.md)
+5. [Develop 1](./docs/develop_1.md)
+6. [Develop 2](./docs/develop_2.md)
+7. [Develop 3](./docs/develop_3.md)
+8. [Design Requirements](./docs/design_requirements.md)
+9. [Bill of materials](./docs/bom.md)
 
 ## Kritische reflectie
 
@@ -70,6 +83,7 @@ AI werd ook gebruikt om sommige onderzoeken te verwerken. Hierbij werd opgelet d
 
 
 ## Bijlagen
+
 ### Discovery
 * Literatuuronderzoek (N=10)
   * [Benchmark protocol](reports%20and%20protocols/S@H_Benchmark%20protocol.pdf)
@@ -85,6 +99,22 @@ AI werd ook gebruikt om sommige onderzoeken te verwerken. Hierbij werd opgelet d
 * User testing wave 2 (N=3)
   * [Functies protocol](reports%20and%20protocols/Functies%20protocol.pdf)
   * [Functies repport](reports%20and%20protocols/Functies%20report.pdf)
+
+### Develop 1
+* User interview (N=3)
+  * [Interview after pivot protocol](reports%20and%20protocols/Interface%20protocol.pdf)
+  * [Interview after pivot repport](reports%20and%20protocols/Inteface%20report.pdf)
+* Prototype testing (N=~5)
+  * [Drukken van knoppen protocol](reports%20and%20protocols/Functies%20protocol.pdf)
+  * [Drukken van knoppen repport](reports%20and%20protocols/Functies%20report.pdf)
+
+### Develop 2
+
+Coming soon...
+
+### Develop 3
+
+Coming soon...
 
 ## Licentie
 
