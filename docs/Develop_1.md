@@ -3,7 +3,7 @@
 ### Doelstellingen
 Aangezien er net [een pivot](The_Pivot.md) achter de rug is, was in de eerste plaats belangrijk om inzichten te verkrijgen in onze nieuwe doelgroep. 
 
-Ten tweede moest er onderzocht worden, welk actuator of motor het best zou werken voor het indrukken van knoppen, van een wasmachine of droogkast.
+Ten tweede moest er onderzocht worden welk actuator of motor het best zou werken voor het indrukken van de bedieningsknoppen van een wasmachine of droogkast.
 
 ### Methoden
 
@@ -11,7 +11,7 @@ Ten tweede moest er onderzocht worden, welk actuator of motor het best zou werke
 
 Om het vervolg van het ontwerpproces te ondersteunen werden enkele schemas opgesteld. Deze bieden steun doorheen de komende fasen van het ontwerpen.
 
-Eerst werde een Hierarchical Task Analysis (HTA) opgesteld:
+Eerst werd er een Hierarchical Task Analysis (HTA) opgesteld:
 <p align="center">
   <img src="../img/HTA.jpg" width="100%">
 </p>
@@ -38,8 +38,8 @@ De HTA en gegenereerde ideeën werden samengegoten in één gedetailleerd schema
 
 #### 2. User interview (N=3)
 
-Om meer inzichten te verkrijgen in de wensen en/of eisen van de gebruikers, werden opniew user interviews afgelegd. Daarbij worden vragen gesteld aan de gebruike, die gericht zijn op het beantwoorden van onzekerheden in deze fase:
-- Zien de gebruikers een meerwaarde in het product, dewelke?
+Om meer inzichten te verkrijgen in de wensen en/of eisen van de gebruikers, werden opnieuw user interviews afgelegd. Daarbij worden vragen gesteld aan de gebruiker, die gericht zijn op het beantwoorden van onzekerheden in deze fase:
+- Zien de gebruikers een meerwaarde in het product, welke?
 - Is er interesse in het product?
 - Meerwaarde tegenover enkel slimme stekkers kopen?
 - Wat maakt dit meer dan enkel een coole gadget?
