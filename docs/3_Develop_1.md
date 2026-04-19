@@ -1,7 +1,7 @@
 ## Develop 1
 
 ### Doelstellingen
-Aangezien er net [een pivot](The_Pivot.md) achter de rug is, was in de eerste plaats belangrijk om inzichten te verkrijgen in onze nieuwe doelgroep. 
+Aangezien er net [een pivot](3.1_The_pivot.md) achter de rug is, was in de eerste plaats belangrijk om inzichten te verkrijgen in onze nieuwe doelgroep. 
 
 Ten tweede moest er onderzocht worden welk actuator of motor het best zou werken voor het indrukken van de bedieningsknoppen van een wasmachine of droogkast.
 
