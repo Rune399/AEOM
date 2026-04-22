@@ -1,10 +1,5 @@
 ## Develop 2
 
-1. draaien van knoppen
-2. machine interface onderzoek
-3. bevestigingsmechanismen
-
-
 ### Doelstellingen
 In de vorige de develop 1 fase werd een schema met human-product-interactie's opgesteld. Daar werd ook voor elke subfunctie oplossingen bedacht.
 
@@ -24,7 +19,7 @@ Bij het besturen van een draaiknop komen er twee hoofdzaken naar boven:
 
 ##### Actuator
 <p align="left">
-  <img src="../img/ideation-draaien.png" width="62%">
+  <img src="../img/ideation-draaien.png" width="58%">
 </p>
 
 1.	Ideeën generatie actuatoren
@@ -41,7 +36,7 @@ Bij het besturen van een draaiknop komen er twee hoofdzaken naar boven:
 
 ##### Manipulatie draaiknop
 <p>
-  <img align="left" src="../img/ideation-draaiknop bedienen.png" width="28%" style="margin-right: 15px"><br>1.	Ideeën generatie om de knop te kunnen manipuleren<br>
+  <img align="left" src="../img/ideation-draaiknop bedienen.png" width="26%" style="margin-right: 15px"><br>1.	Ideeën generatie om de knop te kunnen manipuleren<br>
   2.	Er worden prototypes gemaakt voor de verschillende ideeën<br>
   3.	De prototypes worden uitgetest op de draaiknop van een wasmachine (beiden worden aangestuurd met hetzelfde handvat)<br>
   4.	De voordelen en nadelen van elk idee worden opgesomd<br>
@@ -54,9 +49,10 @@ Bij het besturen van een draaiknop komen er twee hoofdzaken naar boven:
 
 #### 2. machine interface onderzoek
 #TODO
+
 #### 3. bevestigingsmechanismen
 <p align="left">
-  <img src="../img/ideation-bevestigingsmechanismen.png" width="80%"></p>
+  <img src="../img/ideation-bevestigingsmechanismen.png" width="70%"></p>
   
 ##### Deel 1: eerste intuïtieve eliminatie.
 
@@ -93,7 +89,7 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 
 ##### b. Extra servo test
 
-><a href="../reports and protocols/4. Bevestigingsmechanismen protocol.pdf"><b>Servo_draaien knoppen.mp4</b></a>
+><a href="../reports and protocols/4. Bevestigingsmechanismen protocol.pdf"><b>Servo_draaien knoppen.mp4</b></a><br>
 >De servo had niet genoeg kracht om zelfstandig te knop te draaien, maar er was niet veel extra kracht vereist. Er werd niet getest met een sterkere servo-motor, maar er kan vanuit gegaan worden dat grotere servo-motoren wel de knop zouden kunnen draaien.
 
 <br>
@@ -102,28 +98,30 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 ###### Knijper rond draaiknop
 <p >
   <img align="left" src="../img/Knijper rond draaiknop.png" width="40%" style="margin-right: 60px">
+</p>
 
-✅ Er is veel grip door de instelbare klemkracht
-✅ Geen perfect ronde vorm nodig
-✅ Uitstekende vormen zijn geen probleem
-✅ Eenvoudige constructie
+✅ Er is veel grip door de instelbare klemkracht<br>
+✅ Geen perfect ronde vorm nodig<br>
+✅ Uitstekende vormen zijn geen probleem<br>
+✅ Eenvoudige constructie<br>
 
-❌ Er is meer kracht nodig dan de andere concepten omdat er geen overbrenging aanwezig is (as motor = as knijper, zonder overbrenging)</p>
+❌ Er is meer kracht nodig dan de andere concepten omdat er geen overbrenging aanwezig is (as motor = as knijper, zonder overbrenging)<br>
+
 <br clear="left" />
 <br>
 
 ###### Wieltje tegen draaiknop
 <p >
   <img align="right" src="../img/Wieltje tegen draaiknop.png" width="40%" style="margin-left: 60px">
-
-✅ Voordelige overbrenging, die de nodige kracht van de motor verminderd: door het verschil in diameter tussen het kleine wieltje en de grotere draaknop verminderd de aandrijfkracht.
-✅ Het is een zeer compacte oplossing
-✅ Eenvoudige constructie en montage
-
-❌ Weinig grip, waardoor er slip aanwezig is en de draaiknop **onbetrouwbaar of niet zal roteren**
-❌ **Werkt enkel** goed **met één vorm**: een perfect ronde cirkel, zonder uitstekende delen
-
 </p>
+
+✅ Voordelige overbrenging, die de nodige kracht van de motor verminderd: door het verschil in diameter tussen het kleine wieltje en de grotere draaknop verminderd de aandrijfkracht.<br>
+✅ Het is een zeer compacte oplossing<br>
+✅ Eenvoudige constructie en montage<br>
+
+❌ Weinig grip, waardoor er slip aanwezig is en de draaiknop **onbetrouwbaar of niet zal roteren**<br>
+❌ **Werkt enkel** goed **met één vorm**: een perfect ronde cirkel, zonder uitstekende delen<br>
+
 <br clear="right" />
 <br>
 
@@ -132,21 +130,110 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
   <img align="left" src="../img/Vertanding op draaiknop met tandwiel.png" width="40%" style="margin-right: 60px">
 </p>
 
-✅ Er is een overbrenging aanwezig wat de nodige kracht van de motor verminderd.
-✅ Het is een compacte oplossing
+✅ Er is een overbrenging aanwezig wat de nodige kracht van de motor verminderd.<br>
+✅ Het is een compacte oplossing<br>
 
-❌ Kans op slip tussen tandwielring en draaiknop
-❌	Niet zo universeel:
--→ ❌ Werkt enkel goed met één vorm: een perfect ronde cirkel
--→ ❌ Uitstekende delen van de draaiknop zorgen voor problemen
--→ ❌ Verschil in knopdiameter tussen toestellen zorgt voor compatibiliteitsproblemen
+❌ Kans op slip tussen tandwielring en draaiknop<br>
+❌	Niet zo universeel:<br>
+-→ ❌ Werkt enkel goed met één vorm: een perfect ronde cirkel<br>
+-→ ❌ Uitstekende delen van de draaiknop zorgen voor problemen<br>
+-→ ❌ Verschil in knopdiameter tussen toestellen zorgt voor compatibiliteitsproblemen<br>
 <br clear="left" />
 <br>
 
-#### 2. machine interface onderzoek
+#### 2. Machine interface onderzoek
+
+##### a. Eerste eliminatie
+
+|  | || **Peg board** | **Grid** | **Sliding + rotating arm** | **Rotating pivot arm** | **Lead screw carriage** | **Rail + slide carriage** | **Seperate units** | **Standing carriage** | **Spider arms** |
+|:---:|:---:|:--:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|**Criteria**<br>v v v|**Gewicht**<br>v v v || <a href="/img/Machine interface 1.png"><img align="left" src="../img/Machine interface 1.png" width="100%"></a> | <a href="/img/Machine interface 2.png"><img align="left" src="../img/Machine interface 2.png" width="100%"></a> | <a href="/img/Machine interface 3.png"><img align="left" src="../img/Machine interface 3.png" width="100%"></a> | <a href="/img/Machine interface 4.png"><img align="left" src="../img/Machine interface 4.png" width="100%"></a> | <a href="/img/Machine interface 5.png"><img align="left" src="../img/Machine interface 5.png" width="100%"></a> | <a href="/img/Machine interface 6.png"><img align="left" src="../img/Machine interface 6.png" width="100%"></a> | <a href="/img/Machine interface 7.png"><img align="left" src="../img/Machine interface 7.png" width="100%"></a> | <a href="/img/Machine interface 8.png"><img align="left" src="../img/Machine interface 8.png" width="100%"></a> | <a href="/img/Machine interface 9.png"><img align="left" src="../img/Machine interface 9.png" width="100%"></a> |
+| **Breedte** | 3 || -2 | -2 | -1 | 1 | -2 | -2 | 2 | -1 | -1 |
+| **Diepte** | 3 || 2 | 2 | 1 | 1 | 0 | 0 | 2 | -2 | -1 |
+| **Stabiliteit** | 3 || 2 | 2 | -1 | -2 | 2 | 1 | 2 | -2 | -1 |
+| **Nauwkeurigheid** | 3 || -1 | -2 | 2 | 2 | 2 | 2 | -1 | 2 | -1 |
+| **Complexiteit aansturing** | 1 || 2 | 2 | 0 | -2 | 0 | 0 | 2 | 0 | 2 |
+| **Setup** | 3 || 0 | 0 | 1 | 2 | -1 | 0 | 0 | -1 | -1 |
+| **Complexiteit ontwerp** | 1 || 2 | 2 | -1 | -1 | 0 | 1 | 2 | -1 | -2 |
+| **Universaliteit** | 3 || 1 | 1 | 2 | 2 | 1 | 1 | 1 | 0 | 1 |
+| **Transparantie** | 3 || -2 | -2 | 1 | 2 | 0 | 1 | 2 | 0 | 0 |
+| **Totaal** | || 4 | 1 | <mark><b>14</mark> | <mark><b>21</b></mark> | 6 | 10 | <mark><b>28</b></mark> | -13 | -12 |
+
+>[!Tip]
+>Klik op de afbeeldingen in de tabel, om ze te vergroten.
+
+<br>
+
+##### b. Tweede eliminatie
 #TODO
-#### 3. bevestigingsmechanismen
+
+#### 3. Bevestigingsmechanismen
+##### a. Beargumenteerde intuïtieve eliminatie
+|Idee	|Richt geen schade aan	|Praktisch monteren	|Praktisch voor ontwerp	|Resultaat|
+|--:|:--:|:--:|:--:|:--:|
+|Electro magneet	|✅	|✅	|❌	|❌
+|Permanente magneet	|✅	|✅	|✅	|✅|
+|Smeltlijm	|✅/❌	|✅	|✅	|❌|
+|Hot glue	|✅/❌	|❌	|✅	|❌|
+|Velcro	|✅	|✅	|✅	|✅|
+|Gekko-tape	|✅	|✅	|✅	|✅|
+|Dubbelzijdige tape	|✅	|✅	|✅	|✅|
+|Frame rond wasmachine	|✅	|❌	|❌	|❌|
+|Schroeven	|❌	|❌	|✅	|❌|
+|Ingesloten in sleuf	|✅	|✅	|❌	|❌|
+|Rekker	|✅	|❌	|✅	|❌|
+|Ratchet strap	|✅	|❌	|✅	|❌|
+|Inklemming (vb sergeant)	|✅	|❌	|❌	|❌|
+|Zuignap + vacuumpomp	|✅	|✅	|❌	|❌|
+|Zuignap	|✅	|✅	|✅	|✅|
+|Zuignap met hendel	|✅	|✅	|✅	|✅|
+
+<br>
+
+##### b. Prototyping + vergelijkend testen
+<!---
+||Magneten	|Dubbelzijdige tape	|Gekko tape	|Zuignappen	|Hendel zuignap|
+|--:|:--:|:--:|:--:|:--:|:--:|
+|**Moment 1**	|0,58	|~~2,17~~ => 4,67	|3,88	|0,33	|1,53|
+|**Moment 2**	|0,57	|4,64	|3,87	|0,46	|1,80|
+|**Trek 1**	|4,02	|~~4,65~~ => 16,90	|15,99	|2,82	|15,67|
+|**Trek 2**	|3,73	|11,11	|17,71	|3,99	|15,22|
+|**Moment gem**	|0,575	|3,405	|3,875	|0,395	|1,665|
+|**Trek gem**	|3,875	|7,88	|16,85	|3,405	|15,22|
+-->
+
+<p align="center">
+  <img src="../img/Tabel bevestigingsmechanismen.jpg" width="100%" style="margin-right: 60px">
+</p>
+
+>[!Warning]
+>Bij deze resultaten is het belangrijk om rekening te houden dat de hendel zuignap een kleinere diameter heeft dan andere prototypes (55mm i.p.v. 65mm). Dat zorgt voor een 1.375 keer kleinere oppervlakte dan bij de andere tests.
+
+
 
 ### Conclusies & implicaties
+#### 1. Draaien van knoppen
 
-#### Key insights
+- De knijper is de beste oplossing, om de draaiknop aan te sturen.
+
+- Voor het draaien van een wasmachine-knop, krijgtr de servomotor de voorkeur.
+
+<br>
+
+#### 2. Machine interface onderzoek
+#TODO
+<br>
+
+#### 3. Bevestigingsmechanismen
+Als finale conclusie wordt gesteld dat de gekko- of nanotape de beste optie is voor het monteren van een knoppendrukker, op een wasmachine.
+
+<br>
+
+---
+
+<p align="center">
+  <a href="/Develop 2">⬆️ Return to top</a><br>
+  <a href="">🏠 Return to main<a><br>
+  <a href="/LICENSE">📜 CC License</a> & <a href="/LICENSE">MIT License</a><br>
+
+</p>
