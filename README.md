@@ -53,15 +53,15 @@ Bovendien zijn de digitale energiemeters minder voordelig voor mensen met zonnep
 
 ## Inhoudstafel
 
-1. [Methodologie](./docs/methodologie.md)
-2. [Discovery](./docs/discovery.md)
-3. [Defintion](./docs/definition.md)
-4. [The pivot](./docs/The_Pivot.md)
-5. [Develop 1](./docs/develop_1.md)
-6. [Develop 2](./docs/develop_2.md)
-7. [Develop 3](./docs/develop_3.md)
-8. [Design Requirements](./docs/design_requirements.md)
-9. [Bill of materials](./docs/bom.md)
+1. [Methodologie](./docs/Methodologie.md)
+2. [Discovery](./docs/1_Discovery.md)
+3. [Defintion](./docs/2_Definition.md)
+4. [The pivot](./docs/3.1_The_Pivot.md)
+5. [Develop 1](./docs/3_Develop_1.md)
+6. [Develop 2](./docs/4_Develop_2.md)
+7. [Develop 3](./docs/5_Develop_3.md)
+8. [Design Requirements](./docs/Design_requirements.md)
+9. [Bill of materials](./docs/BOM.md)
 
 ## Kritische reflectie
 
@@ -111,10 +111,12 @@ AI werd ook gebruikt om sommige onderzoeken te verwerken. Hierbij werd opgelet d
 ### Develop 2
 
 Coming soon...
+#TODO
 
 ### Develop 3
 
 Coming soon...
+#TODO
 
 ## Licentie
 
@@ -127,4 +129,15 @@ You are free to reuse and build upon this work, both commercially and non-commer
 
 ## Bronnen
 
-[^1]: Retroactieve investeringspremie voor eigenaars van zonnepanelen na afschaffing van terugdraaiende teller. (z.d.). Vlaanderen.be. https://www.vlaanderen.be/retroactieve-investeringspremie-voor-eigenaars-van-zonnepanelen-na-afschaffing-van-terugdraaiende-teller
+<!---[^1] Retroactieve investeringspremie voor eigenaars van zonnepanelen na afschaffing van terugdraaiende teller. (z.d.). Vlaanderen.be. https://www.vlaanderen.be/retroactieve-investeringspremie-voor-eigenaars-van-zonnepanelen-na-afschaffing-van-terugdraaiende-teller-->
+
+
+<br>
+
+---
+
+<p align="center">
+  <a href="/README.md">⬆️ Return to top</a><br>
+  <a href="/LICENSE">📜 CC License</a> & <a href="/LICENSE">MIT License</a><br>
+
+</p>

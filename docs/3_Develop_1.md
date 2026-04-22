@@ -121,3 +121,14 @@ De gebruikers zijn geïntresseerd in een product dat apparaten slim maakt, zodat
 - De slimme stekkers (al bestaand) zijn nog steeds een nuttige toevoeging aan ons product. Aangezien gebruikers nog steeds wensen het energieverbruik af te lezen.
 <br>
 - De brushed DC motor gecombineerd met een schroefmechanisme (= lineaire actuator), is de best passende oplossing voor het indrukken van knoppen op een wasmachine.
+
+<br>
+
+---
+
+<p align="center">
+  <a href="/3_Develop_1.md">⬆️ Return to top</a><br>
+  <a href="/README.md">🏠 Return to main<a><br>
+  <a href="/LICENSE">📜 CC License</a> & <a href="/LICENSE">MIT License</a><br>
+
+</p>

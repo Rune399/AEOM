@@ -61,3 +61,14 @@
 | 2.3 | Slimme stekkers kunnen het energieverbruik van een aangesloten toestel meten. | Functie-analyse | 04/01/2026 |:white_check_mark:|
 | 2.4 | Slimme stekkers zijn energie-efficiënt tijdens gebruik. | User interview | 26/10/2025 |:white_check_mark:|
 | 2.5 | Slimme stekkers kunnen door de gebruiker zelf geïnstalleerd worden. | User interview | 26/10/2025 |:white_check_mark:|
+
+<br>
+
+---
+
+<p align="center">
+  <a href="/Design_requirements.md">⬆️ Return to top</a><br>
+  <a href="/README.md">🏠 Return to main<a><br>
+  <a href="/LICENSE">📜 CC License</a> & <a href="/LICENSE">MIT License</a><br>
+
+</p>

@@ -117,3 +117,14 @@ De belangrijkste conclusies die we uit dit onderzoek kunnen halen zijn als volgt
 - Het systeem moet modulair uitbreidbaar zijn volgends de noden van de gebruiker (basis + extra’s)
 
 - Het systeem moet meldingen doseren om informatie-overload te vermijden
+
+<br>
+
+---
+
+<p align="center">
+  <a href="/2_Definition.md">⬆️ Return to top</a><br>
+  <a href="/README.md">🏠 Return to main<a><br>
+  <a href="/LICENSE">📜 CC License</a> & <a href="/LICENSE">MIT License</a><br>
+
+</p>

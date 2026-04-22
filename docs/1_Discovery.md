@@ -123,3 +123,14 @@ Men vond het belangrijk om te kunnen zien dat het apparaat werkt en een impact h
 - Mensen met zonnepanelen hebben hetzelfde probleem als mensen met dynamische energiecontracten: Zij kunnen goedkope energie niet op het juiste moment benutten. De doelgroep zal dus aangepast worden, om ook mensen met zonnepanelen te bevatten.
 - Het lijkt dat energie niet enkel ongrijpbaar is voor kinderen, maar ook voor de doorsnee volwassen gebruiker... 
 - Er zal moeten gelet worden op het begrijpbaar maken van informatie omtrent energie (verbruik etc).
+
+<br>
+
+---
+
+<p align="center">
+  <a href="/1_Discovery.md">⬆️ Return to top</a><br>
+  <a href="/README.md">🏠 Return to main<a><br>
+  <a href="/LICENSE">📜 CC License</a> & <a href="/LICENSE">MIT License</a><br>
+
+</p>

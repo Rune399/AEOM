@@ -34,7 +34,20 @@ Na dit onderzoek werd beseft dat we niet eens wisten aan welke functies dat "int
 Deze fase wordt in meer detail besproken in [Definition](definition.md)
 
 ### Develop
-*#Coming soon* ;)
+*Coming soon* ;)
+#TODO
 
 ### Deliver
-*#Coming soon* ;)
+*Coming soon* ;)
+#TODO
+
+<br>
+
+---
+
+<p align="center">
+  <a href="/Methodologie.md">⬆️ Return to top</a><br>
+  <a href="/README.md">🏠 Return to main<a><br>
+  <a href="/LICENSE">📜 CC License</a> & <a href="/LICENSE">MIT License</a><br>
+
+</p>
