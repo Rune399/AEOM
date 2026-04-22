@@ -1,11 +1,11 @@
 ## Opstellen interfaces
 De theorie achter het opstellen van de interfaces, voor het interface onderzoek, wordt hier kort besproken. <a href="../reports and protocols/Interface protocol.pdf">Interface protocol</a> gaat dieper in op dit onderzoek. De resultaten worden besproken in <a href="../reports and protocols/Inteface report.pdf">Interface report</a>.
 
-Bij het opstellen van de interfaces werd gebruik gemaakt van de "Gestalt wetten". Hieronder wordt per interface toegelicht, hoe de "Gestalt wetten" gebruikt werden.
+Bij het opstellen van de interfaces werd gebruikgemaakt van de "Gestalt wetten". Hieronder wordt per interface toegelicht hoe de "Gestalt wetten" gebruikt werden.
 
 > [!WARNING]
->Van de besproken interfaces, worden enkel de pagina's besproken die hier relevant zijn.
-> Voor een overzicht van de volledige interfaces zie <a href="../reports and protocols/Interfaces merged.pdf">Interfaces merged</a>
+> Van de besproken interfaces, worden enkel de pagina's besproken die hier relevant zijn.
+> Voor een overzicht van de volledige interfaces, zie <a href="../reports and protocols/Interfaces merged.pdf">Interfaces merged</a>
 
 
 ### Interface 1
@@ -21,7 +21,7 @@ Op pagina 2 & 3 van dit interface werd **law of common region**(2) gebruikt, om 
 
 ### Interface 2
 
-Bij interface 2 is gebasseerd op **Fitt’s law** en **Hick's law**, om het interface zo simpel mogelijk te maken. 
+Bij interface 2 is gebaseerd op **Fitt’s law** en **Hick's law**, om de interface zo simpel mogelijk te maken. 
 
 > ***Fitt's law***
 "The time to acquire a target is a function of the distance to and size of the target."
@@ -32,15 +32,15 @@ Bij interface 2 is gebasseerd op **Fitt’s law** en **Hick's law**, om het inte
 "The time it takes to make a decision increases with the number and complexity of
 choices."
 
-=> Een klein aantal knoppen en mogelijke interacties, zorgt voor een snellere en intuïtievere navigatie.
+=> Een klein aantal knoppen en mogelijke interacties zorgt voor een snellere en intuïtievere navigatie.
 
-Verder werdt **law of common region**(2) gebruikt om alle instellingen te groeperen en af te zonderen van het verbruik.
+Verder werd **law of common region**(2) gebruikt om alle instellingen te groeperen en af te zonderen van het verbruik.
 Ook om deze instellingen te groeperen per apparaat werd law of common region gebruikt.
 
 Het principe van **similarity**(1) werd toegepast op de "1 year", "1 month" en "1 Week" -knoppen.
 
-**Continuation**(3) werd gebruikt om duidelijk te maken dat het interface verder loopt dan de gebruiker kan zien. Er kan dus nog naar beneden genavigeerd worden... Dit werdt al volgt toegepast:
--  De kader rond de instellingen wordtr afgesneden door de onderkant van het scherm
+**Continuation**(3) werd gebruikt om duidelijk te maken dat de interface verder loopt dan de gebruiker kan zien. Er kan dus nog naar beneden genavigeerd worden... Dit werd als volgt toegepast:
+- Het kader rond de instellingen wordt afgesneden door de onderkant van het scherm
 - het onderste apparaat wordt doormidden gesneden door de onderkant van het scherm.
 
 <p align="left"><img src="../img/Interface2.jpg" width="100%"></p>
@@ -49,6 +49,8 @@ Het principe van **similarity**(1) werd toegepast op de "1 year", "1 month" en "
 
 Opnieuw werdt het principe van **similarity** toegepast op de "day"", "week", "month" en "year" -knoppen.
 Om deze knoppen af te zonderen en duidelijk te maken welke knop geselecteerd is, werdt **law of common region** gebruikt.
+Opnieuw werd het principe van **similarity** toegepast op de "day", "week", "month" en "year" -knoppen.
+Om deze knoppen af te zonderen en duidelijk te maken welke knop geselecteerd is, werd **law of common** region gebruikt.
 
 
 <p align="center"><img src="../img/Interface3 pg2.jpg" width="100%"></p>
@@ -56,7 +58,7 @@ Om deze knoppen af te zonderen en duidelijk te maken welke knop geselecteerd is,
 
 ### Interface 4
 
-Knoppen die niet ingedrukt of "actief" zijn worden weergegeven met een 3D-effect, waardoor ze lijken uit te steken. Als een knop ingedrukt is, dan lijkt deze lager te liggen dan de andere knoppen. Dit is het gebruik van **common fate**(4).
+Knoppen die niet ingedrukt of "actief" zijn, worden weergegeven met een 3D-effect, waardoor ze lijken uit te steken. Als een knop ingedrukt is, dan lijkt deze lager te liggen dan de andere knoppen. Dit is het gebruik van **common fate**(4).
 
 **Proximity**(5) werd gebruikt om knoppen te groeperen. De "D", "W, "M" en "J" -knoppen liggen bijvoorbeeld dicht bijeen, waardoor ze intuitief gegroepeerd worden.
 
