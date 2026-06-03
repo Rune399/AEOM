@@ -2,7 +2,7 @@
 
 Als methodologie wordt een aangepaste versie van het "dubble diamont" model gebruikt, namelijk het "tripple diamont model":
 
-<p align="center"><img src="../img/Methodologie_sem1.jpg"></p>
+<p align="center"><img src="../img/Methodologie.jpg"></p>
 
 Beide ontwerpmodellen zijn gebaseerd op twee terugkerende principes: divergentie en convergentie. 
 
