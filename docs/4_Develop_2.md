@@ -183,8 +183,8 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 
 ##### b. Tweede eliminatie
 <p>
-  <img src="img/Sliding+rotating_arm_doorbuigen.jpg" width="20%" align="left">
-  <img src="img/Sliding+rotating_arm_wasmachine.jpg" width="20%" align="left">
+  <img src="../img/Sliding+rotating_arm_doorbuigen.jpg" width="20%" align="left">
+  <img src="../img/Sliding+rotating_arm_wasmachine.jpg" width="20%" align="left">
 </p>
 
 - **Sliding + rotating arm**  
@@ -196,8 +196,8 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 <br clear="all">
 
 <p>
-  <img align="right" src="img/Double_Rotating_Arm_wasmachine.jpg" width="20%">
-  <img align="right" src="img/Double_Rotating_Arm_doorbuigen.jpg" width="20%">
+  <img align="right" src="../img/Double_Rotating_Arm_wasmachine.jpg" width="20%">
+  <img align="right" src="../img/Double_Rotating_Arm_doorbuigen.jpg" width="20%">
 </p>
 
 - **Rotating pivot arm (double rotating arm)**  
@@ -209,7 +209,7 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 <br clear="all">
 
 <p>
-  <img src="img/Seperate_Units_Wasmachine.jpg" align="left" width="25%">
+  <img src="../img/Seperate_Units_Wasmachine.jpg" align="left" width="25%">
 </p>
 
 - **Separate units**  
