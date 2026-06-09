@@ -198,8 +198,8 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 <br><br>
 
 <p>
-  <img align="right" src="../img/Double_Rotating_Arm_wasmachine.jpg" height="100">
-  <img align="right" src="../img/Double_Rotating_Arm_doorbuigen.jpg" height="100">
+  <img align="right" src="../img/Double_Rotating_Arm_wasmachine.jpg" height="150">
+  <img align="right" src="../img/Double_Rotating_Arm_doorbuigen.jpg" height="150">
 </p>
 
 - **Rotating pivot arm (double rotating arm)**  
