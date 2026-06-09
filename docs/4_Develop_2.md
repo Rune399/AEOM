@@ -192,7 +192,7 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 
 <br clear="all">
 
-<br><br>
+<br>
 
 <p>
   <img align="right" src="../img/Double_Rotating_Arm_wasmachine.jpg" height="150">
@@ -207,7 +207,7 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 
 <br clear="all">
 
-<br><br>
+<br>
 <p>
   <img src="../img/Seperate_Units_Wasmachine.jpg" align="left" width="25%">
 </p>
@@ -248,6 +248,7 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
    ❌ Complexe berekeningen nodig (inverse kinematics) 
 
 <br clear="all">
+<br>
 
 #### 3. Bevestigingsmechanismen
 ##### a. Beargumenteerde intuïtieve eliminatie
