@@ -49,7 +49,7 @@ Bij het besturen van een draaiknop komen er twee hoofdzaken naar boven:
 
 #### 2. machine interface onderzoek
 <p align="left">
-  <img src="../img/interface-positionering.png" widt="70%"></p>
+  <img src="img/ideation-machine interface.png" widt="70%"></p>
   
 #### Deel 1: eerste eliminatie.
 De ideeën worden vergeleken via een keuzematrix
@@ -63,7 +63,7 @@ De ideeën worden vergeleken via een keuzematrix
 2.  De prototypes worden ingezet in een Wizard of Oz testing met gebruikers (N = 5)
 3.  De oplossingen worden vergeleken en er wordt één mechanisme geselecteerd
 
-Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie <a href="reports and protocols/4. Machine interface protocol.pdf">Machine interface protocol</a> en <a href="reports and protocols/5. Gebruikersonderzoek Protocol.pdf">Gebruikersonderzoek protocol</a>.
+Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie <a href="../reports%20and%20protocols/4.%20Machine%20interface%20protocol.pdf">Machine interface protocol</a> en <a href="reports and protocols/5. Gebruikersonderzoek Protocol.pdf">Gebruikersonderzoek protocol</a>.
 
   
 #### 3. bevestigingsmechanismen
