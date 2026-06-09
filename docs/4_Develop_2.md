@@ -223,21 +223,31 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 <br><br>
 
 #### c. Derde eliminatie
+<p>
+  <img align="left" src="img/Sliding+rotating_arm_wasmachine2.jpg" width="25%">
+</p>
+
 - **Sliding + rotating arm**  
-   ✅ Intuïtieve en voorspelbare beweging  
-   ✅ Gemakkelijker te begrijpen voor gebruikers  
-   ✅ Minder complexe aansturing  
-   ❌ Sliding beweging relatief traag  
-   ❌ Vereist homing sequentie  
+  ✅ Intuïtieve en voorspelbare beweging  
+  ✅ Gemakkelijker te begrijpen voor gebruikers  
+  ✅ Minder complexe aansturing  
+  ❌ Sliding beweging relatief traag  
+  ❌ Vereist homing sequentie  
+
+<br clear="all">
+
+
+<p>
+  <img align="left" src="img/Double_Rotating_Arm_wasmachine2.jpg" width="25%">
+</p>
 
 - **Rotating pivot arm (double pivot arm)**  
    ✅ Kan compacter bewegen tussen knoppen  
    ❌ Minder intuïtief in gebruik  
    ❌ Onvoorspelbare bewegingen  
-   ❌ Moeilijk in te stellen met sliders en joystick  
    ❌ Complexe berekeningen nodig (inverse kinematics) 
 
-<br>
+<br clear="all">
 
 #### 3. Bevestigingsmechanismen
 ##### a. Beargumenteerde intuïtieve eliminatie
