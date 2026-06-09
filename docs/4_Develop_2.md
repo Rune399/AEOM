@@ -55,17 +55,15 @@ Bij het besturen van een draaiknop komen er twee hoofdzaken naar boven:
 #### Deel 1: eerste eliminatie.
 De ideeën worden vergeleken via een keuzematrix
 <br>
-
 #### Deel 2: prototype + vergelijkend testen.
 1.  Er worden prototypes gemaakt voor de overblijvende ideeën
 2.  De prototypes worden op een wasmachine geplaatst om te testen of het systeem aan alle nodige knoppen kan
-<br>
-
+  
 #### Deel 3: technisch uitwerking + gebruikerstesten.
 1.  De prototypes worden verder uitgewerkt tot meer afgewerkte versies
 2.  De prototypes worden ingezet in een Wizard of Oz testing met gebruikers (N = 5)
 3.  De oplossingen worden vergeleken en er wordt één mechanisme geselecteerd
-
+<br>
 Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie <a href="../reports%20and%20protocols/4.%20Machine%20interface%20protocol.pdf">Machine interface protocol</a> en <a href="../reports%20and%20protocols/5.%20Gebruikersonderzoek%20Protocol.pdf">Gebruikersonderzoek protocol</a>.
 
 <br><br><br>
@@ -91,6 +89,7 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
  
 <br clear="left" />
 <br><br><br>
+
 ### Resultaten
 #### 1. Draaien van knoppen
 
