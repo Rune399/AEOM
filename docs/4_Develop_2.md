@@ -48,8 +48,23 @@ Bij het besturen van een draaiknop komen er twee hoofdzaken naar boven:
 
 
 #### 2. machine interface onderzoek
-#TODO
+<p align="left">
+  <img src="../img/interface-positionering.png" widt="100%"></p>
+  
+#### Deel 1: eerste eliminatie.
+De ideeën worden vergeleken via een keuzematrix
+#### Deel 2: prototype + vergelijkend testen.
+1.  Er worden prototypes gemaakt voor de overblijvende ideeën
+2.  De prototypes worden op een wasmachine geplaatst om te testen of het systeem aan alle nodige knoppen kan
+  
+#### Deel 3: technisch uitwerking + gebruikerstesten.
+1.  De prototypes worden verder uitgewerkt tot meer afgewerkte versies
+2.  De prototypes worden ingezet in een Wizard of Oz testing met gebruikers (N = 5)
+3.  De oplossingen worden vergeleken en er wordt één mechanisme geselecteerd
 
+Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie <a href="../reports and protocols/4.Machine interface protocol.pdf">Machine interface protocol</a> en <a href="../reports and protocols/5. Gebruikersonderzoek protocol.pdf">Gebruikersonderzoek protocol</a>.
+
+  
 #### 3. bevestigingsmechanismen
 <p align="left">
   <img src="../img/ideation-bevestigingsmechanismen.png" width="70%"></p>
@@ -165,7 +180,38 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 <br>
 
 ##### b. Tweede eliminatie
-#TODO
+- **Sliding + rotating arm**  
+  - ✅ Compacte plaatsing rond de interface mogelijk  
+  - ❌ Instabiel door lange armen en gewicht van componenten  
+  - ❌ Groot systeem dat knoppen deels afdekt  
+  - ❌ Beperkte compatibiliteit door afmetingen  
+
+- **Rotating pivot arm (double rotating arm)**  
+  - ✅ Inklapbaar, dus betere transparantie  
+  - ✅ Flexibele positionering  
+  - ❌ Instabiliteit door meerdere scharnierpunten  
+  - ❌ Nog relatief groot systeem  
+
+- **Separate units**  
+  - ✅ Goede stabiliteit per unit  
+  - ❌ Veel units nodig → hoge kost  
+  - ❌ Moeilijk te plaatsen bij dicht opeenstaande knoppen  
+  - ❌ Verminderde overzichtelijkheid en universaliteit
+
+#### c. Derde eliminatie
+- **Sliding + rotating arm**  
+  - ✅ Intuïtieve en voorspelbare beweging  
+  - ✅ Gemakkelijker te begrijpen voor gebruikers  
+  - ✅ Minder complexe aansturing  
+  - ❌ Sliding beweging relatief traag  
+  - ❌ Vereist homing sequentie  
+
+- **Rotating pivot arm (double pivot arm)**  
+  - ✅ Kan compacter bewegen tussen knoppen  
+  - ❌ Minder intuïtief in gebruik  
+  - ❌ Onvoorspelbare bewegingen  
+  - ❌ Moeilijk in te stellen met sliders en joystick  
+  - ❌ Complexe berekeningen nodig (inverse kinematics) 
 
 #### 3. Bevestigingsmechanismen
 ##### a. Beargumenteerde intuïtieve eliminatie
