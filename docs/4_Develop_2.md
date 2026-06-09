@@ -224,7 +224,7 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 
 #### c. Derde eliminatie
 <p>
-  <img align="left" src="img/Sliding+rotating_arm_wasmachine2.jpg" width="25%">
+  <img align="left" src="../img/Sliding+rotating_arm_wasmachine2.jpg" width="25%">
 </p>
 
 - **Sliding + rotating arm**  
@@ -238,7 +238,7 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 
 
 <p>
-  <img align="left" src="img/Double_Rotating_Arm_wasmachine2.jpg" width="25%">
+  <img align="left" src="../img/Double_Rotating_Arm_wasmachine2.jpg" width="25%">
 </p>
 
 - **Rotating pivot arm (double pivot arm)**  
@@ -299,7 +299,7 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 - Voor het draaien van een wasmachine-knop, krijgtr de servomotor de voorkeur.
 
 #### 2. Machine interface onderzoek
-#TODO
+De sliding + rotating arm is de beste oplossing om de juiste knop op de interface te positioneren
 <br>
 
 #### 3. Bevestigingsmechanismen
