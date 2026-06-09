@@ -224,7 +224,7 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 
 #### c. Derde eliminatie
 <p>
-  <img align="left" src="../img/Sliding+rotating_arm_wasmachine2.jpg" width="25%">
+  <img align="left" src="../img/Sliding+rotating_arm_wasmachine2.jpg" width="20%">
 </p>
 
 - **Sliding + rotating arm**  
@@ -236,9 +236,9 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 
 <br clear="all">
 
-
+<br><br>
 <p>
-  <img align="left" src="../img/Double_Rotating_Arm_wasmachine2.jpg" width="25%">
+  <img align="left" src="../img/Double_Rotating_Arm_wasmachine2.jpg" width="20%">
 </p>
 
 - **Rotating pivot arm (double pivot arm)**  
