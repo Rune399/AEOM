@@ -49,7 +49,8 @@ Bij het besturen van een draaiknop komen er twee hoofdzaken naar boven:
 
 #### 2. machine interface onderzoek
 <p align="left">
-  <img src="../img/ideation-machine%20interface.png" width="70%"></p>
+  <img src="../img/ideation-machine%20interface.png" width="70%">
+</p>
   
 #### Deel 1: eerste eliminatie.
 De ideeën worden vergeleken via een keuzematrix
