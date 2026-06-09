@@ -45,7 +45,7 @@ Bij het besturen van een draaiknop komen er twee hoofdzaken naar boven:
   Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie <a href="../reports and protocols/2. Draaien van knoppen protocol.pdf">Draaien van knoppen protocol</a>.
 </p>
 <br clear="left" />
-<br><br><br>
+<br><br>
 
 #### 2. machine interface onderzoek
 <p align="left">
@@ -66,13 +66,12 @@ De ideeën worden vergeleken via een keuzematrix
 <br>
 Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie <a href="../reports%20and%20protocols/4.%20Machine%20interface%20protocol.pdf">Machine interface protocol</a> en <a href="../reports%20and%20protocols/5.%20Gebruikersonderzoek%20Protocol.pdf">Gebruikersonderzoek protocol</a>.
 
-<br><br><br>
+<br><br>
 #### 3. bevestigingsmechanismen
 <p align="left">
   <img src="../img/ideation-bevestigingsmechanismen.png" width="70%"></p>
   
 ##### Deel 1: eerste intuïtieve eliminatie.
-<br>
 
 ##### Deel 2: prototyping + vergelijkend testen.
 1.	Modulair prototypen
@@ -88,7 +87,7 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 
  
 <br clear="left" />
-<br><br><br>
+<br><br>
 
 ### Resultaten
 #### 1. Draaien van knoppen
@@ -104,14 +103,12 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 > [!NOTE] 
 >stepper niet uitgetest op machine #TODO
 
-<br>
 
 ##### b. Extra servo test
 
 ><a href="../reports and protocols/4. Bevestigingsmechanismen protocol.pdf"><b>Servo_draaien knoppen.mp4</b></a><br>
 >De servo had niet genoeg kracht om zelfstandig te knop te draaien, maar er was niet veel extra kracht vereist. Er werd niet getest met een sterkere servo-motor, maar er kan vanuit gegaan worden dat grotere servo-motoren wel de knop zouden kunnen draaien.
 
-<br>
 
 ##### c. Pros & Cons manipulatie draaiknop
 ###### Knijper rond draaiknop
@@ -127,7 +124,6 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 ❌ Er is meer kracht nodig dan de andere concepten omdat er geen overbrenging aanwezig is (as motor = as knijper, zonder overbrenging)<br>
 
 <br clear="left" />
-<br>
 
 ###### Wieltje tegen draaiknop
 <p >
@@ -142,7 +138,6 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 ❌ **Werkt enkel** goed **met één vorm**: een perfect ronde cirkel, zonder uitstekende delen<br>
 
 <br clear="right" />
-<br>
 
 ###### Vertanding op draaiknop met een tandwiel
 <p>
@@ -158,7 +153,7 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 -→ ❌ Uitstekende delen van de draaiknop zorgen voor problemen<br>
 -→ ❌ Verschil in knopdiameter tussen toestellen zorgt voor compatibiliteitsproblemen<br>
 <br clear="left" />
-<br>
+<br><br>
 
 #### 2. Machine interface onderzoek
 
@@ -242,7 +237,7 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
    ❌ Moeilijk in te stellen met sliders en joystick  
    ❌ Complexe berekeningen nodig (inverse kinematics) 
 
-<br><br><br>
+<br><br>
 
 #### 3. Bevestigingsmechanismen
 ##### a. Beargumenteerde intuïtieve eliminatie
@@ -264,8 +259,6 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 |Zuignap + vacuumpomp	|✅	|✅	|❌	|❌|
 |Zuignap	|✅	|✅	|✅	|✅|
 |Zuignap met hendel	|✅	|✅	|✅	|✅|
-
-<br>
 
 ##### b. Prototyping + vergelijkend testen
 <!---
@@ -294,8 +287,6 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 - De knijper is de beste oplossing, om de draaiknop aan te sturen.
 
 - Voor het draaien van een wasmachine-knop, krijgtr de servomotor de voorkeur.
-
-<br>
 
 #### 2. Machine interface onderzoek
 #TODO
