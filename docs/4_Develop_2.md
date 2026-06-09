@@ -9,13 +9,13 @@ Er wordt ingegaan op volgende deelfuncties:
 - Draaien van knoppen
 - Machine interface =  instellen van de interactie-locatie
 - Bevestigingsmechanismen
-
+<br><br><br>
 ### Methoden
 #### 1. Draaien van knoppen
 Bij het besturen van een draaiknop komen er twee hoofdzaken naar boven:
 •	Welke actuator zullen we gebruiken?
 •	Hoe gaan we de draaiknop manipuleren?
-<br>
+<br><br>
 
 ##### Actuator
 <p align="left">
@@ -45,7 +45,7 @@ Bij het besturen van een draaiknop komen er twee hoofdzaken naar boven:
   Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie <a href="../reports and protocols/2. Draaien van knoppen protocol.pdf">Draaien van knoppen protocol</a>.
 </p>
 <br clear="left" />
-
+<br><br><br>
 
 #### 2. machine interface onderzoek
 <p align="left">
@@ -54,11 +54,13 @@ Bij het besturen van een draaiknop komen er twee hoofdzaken naar boven:
   
 #### Deel 1: eerste eliminatie.
 De ideeën worden vergeleken via een keuzematrix
+<br>
 
 #### Deel 2: prototype + vergelijkend testen.
 1.  Er worden prototypes gemaakt voor de overblijvende ideeën
 2.  De prototypes worden op een wasmachine geplaatst om te testen of het systeem aan alle nodige knoppen kan
-  
+<br>
+
 #### Deel 3: technisch uitwerking + gebruikerstesten.
 1.  De prototypes worden verder uitgewerkt tot meer afgewerkte versies
 2.  De prototypes worden ingezet in een Wizard of Oz testing met gebruikers (N = 5)
@@ -66,12 +68,13 @@ De ideeën worden vergeleken via een keuzematrix
 
 Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie <a href="../reports%20and%20protocols/4.%20Machine%20interface%20protocol.pdf">Machine interface protocol</a> en <a href="../reports%20and%20protocols/5.%20Gebruikersonderzoek%20Protocol.pdf">Gebruikersonderzoek protocol</a>.
 
-  
+<br><br><br>
 #### 3. bevestigingsmechanismen
 <p align="left">
   <img src="../img/ideation-bevestigingsmechanismen.png" width="70%"></p>
   
 ##### Deel 1: eerste intuïtieve eliminatie.
+<br>
 
 ##### Deel 2: prototyping + vergelijkend testen.
 1.	Modulair prototypen
@@ -87,7 +90,7 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 
  
 <br clear="left" />
-
+<br><br><br>
 ### Resultaten
 #### 1. Draaien van knoppen
 
@@ -240,6 +243,8 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
    ❌ Moeilijk in te stellen met sliders en joystick  
    ❌ Complexe berekeningen nodig (inverse kinematics) 
 
+<br><br><br>
+
 #### 3. Bevestigingsmechanismen
 ##### a. Beargumenteerde intuïtieve eliminatie
 |Idee	|Richt geen schade aan	|Praktisch monteren	|Praktisch voor ontwerp	|Resultaat|
@@ -282,7 +287,7 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 >[!Warning]
 >Bij deze resultaten is het belangrijk om rekening te houden dat de hendel zuignap een kleinere diameter heeft dan andere prototypes (55mm i.p.v. 65mm). Dat zorgt voor een 1.375 keer kleinere oppervlakte dan bij de andere tests.
 
-
+<br><br>
 
 ### Conclusies & implicaties
 #### 1. Draaien van knoppen
