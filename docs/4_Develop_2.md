@@ -87,7 +87,7 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 
  
 <br clear="left" />
-<br><br>
+<br>
 
 ### Resultaten
 #### 1. Draaien van knoppen
@@ -237,7 +237,7 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
    ❌ Moeilijk in te stellen met sliders en joystick  
    ❌ Complexe berekeningen nodig (inverse kinematics) 
 
-<br><br>
+<br>
 
 #### 3. Bevestigingsmechanismen
 ##### a. Beargumenteerde intuïtieve eliminatie
@@ -279,7 +279,7 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 >[!Warning]
 >Bij deze resultaten is het belangrijk om rekening te houden dat de hendel zuignap een kleinere diameter heeft dan andere prototypes (55mm i.p.v. 65mm). Dat zorgt voor een 1.375 keer kleinere oppervlakte dan bij de andere tests.
 
-<br><br>
+<br>
 
 ### Conclusies & implicaties
 #### 1. Draaien van knoppen
