@@ -44,12 +44,13 @@ Het systeem regelt meerdere apparaten automatisch, waardoor de opgewekte zonne-e
 
 ## Introductie
 
-:construction: *Under construction...*
+De opkomst van hernieuwbare energie, zoals zonnepanelen, zorgt voor nieuwe uitdagingen in huishoudelijk energiegebruik. Hoewel energie lokaal wordt geproduceerd, slagen gebruikers er vaak niet in om hun verbruik af te stemmen op deze productie, wat leidt tot inefficiëntie en verlies van potentieel voordeel.
 
-<!--*Mensen met zonnepanelen hebben overdag, als de zon schijnt, goedkope energie. Ze kunnen daar echter vaak geen gebruik van maken, doordat ze overdag naar hun werk zijn. Ook hebben de meeste mensen geen batterij of een te kleine batterij. Deze systemen zijn trouwens een hele investering, waardoor men  dus niet zomaar beslist om even een batterij te kopen. Bovendien hebben zonnepaneel-eigenaars helemaal geen zin, om zich bezig te houden met het beste moment om hun energie te gebruiken.
-Bovendien zijn de digitale energiemeters minder voordelig voor mensen met zonnepanelen, in vergelijking met de terugkerende teller.[^1]*
+Bestaande oplossingen, zoals slimme toestellen, vereisen doorgaans een aanzienlijke investering en vervangen bestaande apparaten. Dit maakt ze voor veel gebruikers minder toegankelijk.
 
-*Het doel van dit project is om een product te ontwikkelen dat mensen met zonnepanelen helpt om te besparen. Daarbij is het ook belangrijk om de gebruiker zo duidelijk mogelijke inzichten te bezorgen, over hun energieverbruik. De focus ligt bij het moeiteloos integreren van dit product, in het dagelijkse leven van de gebruikers.*-->
+AEOM vertrekt vanuit een alternatieve benadering: het slim maken van bestaande, “domme” toestellen via een externe interface. Door apparaten automatisch aan te sturen op basis van parameters zoals energieproductie, kost en gebruikscontext, maakt AEOM efficiënter en bewuster energiegebruik mogelijk zonder ingrijpende veranderingen in de bestaande huishoudcontext.
+
+Dit dossier beschrijft hoe dit concept tot stand kwam, met nadruk op de onderbouwing van ontwerpkeuzes via gebruikersonderzoek, iteratie en technische validatie.
 
 ## Inhoudstafel
 
