@@ -268,11 +268,13 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 <p align="center">
   <img src="../img/Instel_tijden.png">
 </p>
+
 >[!Warning]
->*Note 1:* Bij de foto methode werd enkel de input tot bevestiging gemeten. Tijd is minder relevant omdat de focus op de arm ligt.  
->*Note 2:* De sliding beweging van de sliding + rotating arm is traag, waardoor de tijden hoger liggen dan in realiteit.  
->*Note 3:* Startpositie beïnvloedt de tijd sterk; bij een gunstige positie kan een knop zeer snel bereikt worden.  
-<br><br>
+> *Note 1:* Bij de foto methode werd enkel de input tot bevestiging gemeten. Tijd is minder relevant omdat de focus op de arm ligt.  
+> *Note 2:* De sliding beweging van de sliding + rotating arm is traag, waardoor de tijden hoger liggen dan in realiteit.  
+> *Note 3:* Startpositie beïnvloedt de tijd sterk; bij een gunstige positie kan een knop zeer snel bereikt worden.  
+
+<br>
 
 #### 3. Bevestigingsmechanismen
 ##### a. Beargumenteerde intuïtieve eliminatie
@@ -327,7 +329,6 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 - De sliding + rotating arm is de beste oplossing om de juiste knop op de interface te positioneren
 
 - De foto methode is de beste oplossing, om de gewenste knop op een intuïtieve manier in te stellen.
-<br>
 
 #### 3. Bevestigingsmechanismen
 Als finale conclusie wordt gesteld dat de gekko- of nanotape de beste optie is voor het monteren van een knoppendrukker, op een wasmachine.
