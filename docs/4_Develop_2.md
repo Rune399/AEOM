@@ -262,11 +262,11 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 **RR:** double pivot arm  
 
 <p align="center">
-  <img src="img/SUS-Scores.png">
+  <img src="../img/SUS-Scores.png">
 </p>
 
 <p align="center">
-  <img src="img/Instel_tijden.png">
+  <img src="../img/Instel_tijden.png">
 </p>
 
 <br><br>
