@@ -64,6 +64,18 @@ De ideeën worden vergeleken via een keuzematrix
 2.  De prototypes worden ingezet in een Wizard of Oz testing met gebruikers (N = 5)
 3.  De oplossingen worden vergeleken en er wordt één mechanisme geselecteerd
 <br>
+Tijdens de Wizard of Oz testing wordt ook geëvalueerd hoe gebruikers de arm kunnen instellen, waarbij per ontwerp en per methodiek wordt nagegaan hoe intuïtief en efficiënt de sturing verloopt.  
+Elke gebruiker voert volgende taken uit:  
+- Instellen van de arm met sliders  
+- Instellen van de arm met joystick  
+- Aanduiden van een knop via een foto  
+
+De interface waarop deze methodes getest worden is hier terug te vinden:  
+https://peppy-sprinkles-e374be.netlify.app/  
+
+Na elke test wordt een SUS (System Usability Scale) ingevuld per methodiek en per ontwerp.  
+Op het einde volgt een kort interview (QAP) om aanvullende inzichten en opmerkingen te verzamelen.
+
 Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie <a href="../reports%20and%20protocols/4.%20Machine%20interface%20protocol.pdf">Machine interface protocol</a> en <a href="../reports%20and%20protocols/5.%20Gebruikersonderzoek%20Protocol.pdf">Gebruikersonderzoek protocol</a>.
 
 <br><br>
@@ -87,7 +99,6 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 
  
 <br clear="left" />
-<br>
 
 ### Resultaten
 #### 1. Draaien van knoppen
