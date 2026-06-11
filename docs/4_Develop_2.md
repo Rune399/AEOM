@@ -270,7 +270,6 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 </p>
 
 *Note 1:* Bij de foto methode werd enkel de input tot bevestiging gemeten. Tijd is minder relevant omdat de focus op de arm ligt.
-
 *Note 2:* De sliding beweging van de sliding + rotating arm is traag, waardoor de tijden hoger liggen dan in realiteit.  
 *Note 3:* Startpositie beïnvloedt de tijd sterk; bij een gunstige positie kan een knop zeer snel bereikt worden.  
 <br><br>
