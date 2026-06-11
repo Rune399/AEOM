@@ -63,7 +63,7 @@ De ideeën worden vergeleken via een keuzematrix
 1.  De prototypes worden verder uitgewerkt tot meer afgewerkte versies
 2.  De prototypes worden ingezet in een Wizard of Oz testing met gebruikers (N = 5)
 3.  De oplossingen worden vergeleken en er wordt één mechanisme geselecteerd
-<br>
+
 Tijdens de Wizard of Oz testing wordt ook geëvalueerd hoe gebruikers de arm kunnen instellen, waarbij per ontwerp en per methodiek wordt nagegaan hoe intuïtief en efficiënt de sturing verloopt.  
 Elke gebruiker voert volgende taken uit:  
 - Instellen van de arm met sliders  
@@ -256,6 +256,19 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
    ❌ Complexe berekeningen nodig (inverse kinematics) 
 
 <br clear="all">
+
+#### Sturing van het product  
+**SR:** sliding + rotating arm  
+**RR:** double pivot arm  
+
+<p align="center">
+  <img src="img/SUS-Scores.png">
+</p>
+
+<p align="center">
+  <img src="img/Instel_tijden.png">
+</p>
+
 <br><br>
 
 #### 3. Bevestigingsmechanismen
