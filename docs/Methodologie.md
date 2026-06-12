@@ -19,7 +19,7 @@ Deze fase speelt zich af in de probleemruimte. De bedoeling is volop op zoek te 
 
 In deze fase werd eerst onderzoek gedaan naar een probleem; vervolgens werd onderzocht of dit een goede opportuniteit was.
 
-Deze fase wordt ook in detail besproken in [Discovery](discovery.md)
+Deze fase wordt ook in detail besproken in [Discovery](1_Discovery.md)
 
 
 ### Define
@@ -31,22 +31,22 @@ Er werd eerst onderzoek gedaan naar de meest intuïtieve layout van een schermin
 
 Na dit onderzoek werd beseft dat we niet eens wisten aan welke functies dat "intuïtieve interface" moest voldoen. Het volgende onderzoek was dus in verband met de functies van het apparaat.
 
-Deze fase wordt in meer detail besproken in [Definition](definition.md)
+Deze fase wordt in meer detail besproken in [Definition](2_Definition.md)
 
 ### Develop
 De develop-fase bouwt verder op de inzichten uit de define-fase en focust op het concreet uitwerken en testen van oplossingen. Deze fase wordt opgedeeld in drie stappen: Develop 1, Develop 2 en Develop 3.
 
 In **Develop 1** werd inzicht verworven in de gebruikers en de technische werking. Via user interviews en fysieke tests werd bepaald welke actuatoren geschikt zijn en welke eisen gebruikers stellen aan het product, zoals betrouwbaarheid, gebruiksgemak en snelle setup.
 
-Deze fase wordt in meer detail besproken in [Develop 1](Develop_1.md)
+Deze fase wordt in meer detail besproken in [Develop 1](3_Develop_1.md)
 
 In **Develop 2** werden verschillende deeloplossingen verder uitgewerkt en vergeleken. Door middel van prototyping, keuzematrices en gebruikerstesten werd er een selectie gemaakt voor de beste mechanismen, zoals de sliding + rotating arm, geschikte actuatoren en bevestigingsmethodes. 
 
-Deze fase wordt in meer detail besproken in [Develop 2](Develop_2.md)
+Deze fase wordt in meer detail besproken in [Develop 2](4_Develop_2.md)
 
 In **Develop 3** lag de focus op vormgeving, materiaalkeuze en gebruikerservaring (CMF + UX). Verschillende varianten werden ontwikkeld en getest om te bepalen welke het meeste vertrouwen, duurzaamheid en gebruiksvriendelijkheid uitstralen. 
 
-Deze fase wordt in meer detail besproken in [Develop 3](Develop_3.md)
+Deze fase wordt in meer detail besproken in [Develop 3](5_Develop_3.md)
 
 Doorheen deze fase werd continu gedivergeerd en geconvergeerd, waarbij ideeën werden gegenereerd, getest en vervolgens gefilterd tot een onderbouwde ontwerpkeuze.
 
