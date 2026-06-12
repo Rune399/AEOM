@@ -1,0 +1,3 @@
+schroefdraad M4 vanaf 16 mm van de gearbox, totaal lengte 48 mm
+moer breedte 7 mm dikte 3 mm
+servo: sm-s2309s

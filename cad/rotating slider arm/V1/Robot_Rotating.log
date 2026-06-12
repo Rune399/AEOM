@@ -1,0 +1,52 @@
+﻿
+Unigraphics NX2506.4001 / 2D Exchange
+
+Reading part: C:\Users\runec\AppData\Local\Temp\Robot_Rotating_objects.prt
+
+
+Writing part: C:\Users\runec\AppData\Local\Temp\runegmbsu51lbb7mp.prt
+
+Elapsed time   :    0 minutes,  1 seconds
+Actual CPU Time:    0 minutes,  0 seconds
+
+INFO-
+INFO-		Unigraphics Version NX2506.4001 to AutoCAD 2004
+INFO-		
+INFO-
+INFO-		Running UGTODXF Translator .....
+INFO-
+INFO-		Start of Translation: Fri Apr  3 09:44:42 2026
+INFO-
+STATUS-		Converting C:\Users\runec\AppData\Local\Temp\runegmbsu51lbb7mp.prt
+STATUS-
+SUMMARY-
+SUMMARY-	Summary of Unigraphics Input Entities
+SUMMARY-	For Unigraphics File: C:\Users\runec\AppData\Local\Temp\runegmbsu51lbb7mp.prt
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Line .....................................:	176
+SUMMARY-	Point ....................................:	1
+SUMMARY-	Arc ......................................:	7
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	184
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+STATUS-
+INFO-
+INFO-		Writing File: C:\Users\runec\OneDrive - UGent\Bestanden van Kylian Maelstaf - Sustainability @ Home - Groepswerk\03-05 Develop\Uit te voeren onderzoeken\prototypes\Interface prototypes\rotating slider arm\Robot_Rotating.dxf
+SUMMARY-	Summary of AutoCAD Output Entities
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Arc ......................................:	7
+SUMMARY-	Point ....................................:	1
+SUMMARY-	Line .....................................:	176
+SUMMARY-	Layout ...................................:	6
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	190
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+INFO-
+INFO-		End of Translation: Fri Apr  3 09:44:43 2026
+INFO-		Translation CPU time: 0 m, 0 sINFO-
