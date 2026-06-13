@@ -88,15 +88,15 @@ AI werd ook gebruikt om sommige onderzoeken te verwerken. Hierbij werd opgelet d
 ### Discovery
 * Literatuuronderzoek (N=10)
   * [Benchmark protocol](reports%20and%20protocols/S@H_Benchmark%20protocol.pdf)
-  * [Benchmark repport](reports%20and%20protocols/S@H_Benchmark%20report.pdf)
+  * [Benchmark report](reports%20and%20protocols/S@H_Benchmark%20report.pdf)
 * Interviews (N=3)
   * [User interview protocol](reports%20and%20protocols/S@H_User%20Interview%20Protocol.pdf)
-  * [User interview repport](reports%20and%20protocols/S@H_User%20interview%20report.pdf)
+  * [User interview report](reports%20and%20protocols/S@H_User%20interview%20report.pdf)
     
 ### Definition
 * User testing wave 1 (N=3)
   * [Interface protocol](reports%20and%20protocols/Interface%20protocol.pdf)
-  * [Interface repport](reports%20and%20protocols/Inteface%20report.pdf)
+  * [Interface repport](reorts%20and%20protocols/Inteface%20report.pdf)
 * User testing wave 2 (N=3)
   * [Functies protocol](reports%20and%20protocols/Functies%20protocol.pdf)
   * [Functies repport](reports%20and%20protocols/Functies%20report.pdf)
@@ -107,17 +107,26 @@ AI werd ook gebruikt om sommige onderzoeken te verwerken. Hierbij werd opgelet d
   * [Interview after pivot repport](reports%20and%20protocols/Inteface%20report.pdf)
 * Prototype testing (N=~5)
   * [Drukken van knoppen protocol](reports%20and%20protocols/Functies%20protocol.pdf)
-  * [Drukken van knoppen repport](reports%20and%20protocols/Functies%20report.pdf)
+  * [Drukken van knoppen report](reports%20and%20protocols/Functies%20report.pdf)
 
 ### Develop 2
-
-Coming soon...
-#TODO
-
+* Draaien van knoppen (N=3)
+  * [Draaien van knoppen protocol](reports%20and%20protocols/2.%20Draaien%20van%20knoppen%20protocol.pdf)
+  * [Draaien van knoppen report](reports%20and%20protocols/2.%20Draaien%20van%20knoppen%20report.pdf)
+* Machine interface (N=10)
+  * [Machine interface protocol](reports%20and%20protocols//4.%20Machine%20interface%20protocol.pdf)
+  * [Machine interface report](reports%20and%20protocols//4.%20Machine%20interface%20report.pdf)
+* Gebruikersonderzoek (N=5)
+  * [Gebruikersonderzoek protocol](reports%20and%20protocols/5.%20Gebruikersonderzoek%20protocol.pdf)
+  * [Gebruikersonderzoek report](reports%20and%20protocols/5.%20Gebruikersonderzoek%20report.pdf)
+* Bevestigingsmechanismen (N=3)
+  * [Bevestigingsmechanismen protocol](reports%20and%20protocols/2.%20Bevestigingsmechanismen%20protocol.pdf)
+  * [Bevestigingsmechanismen report](reports%20and%20protocols/2.%20Bevestigingsmechanismen%20report.pdf)
+    
 ### Develop 3
-
-Coming soon...
-#TODO
+* CMF (N=5)
+  * [CMF protocol](reports%20and%20protocols/6.CMF_protocol.pdf)
+  * [CMFn report](reports%20and%20protocols/6.CMF_report.pdf)
 
 ## Licentie
 
