@@ -95,7 +95,7 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 7.	Tabel opstellen en gemiddeldes van trek en moment per oplossing berekenen
 8.	Grafiek opstellen
 
-Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie <a href="../reports and protocols/4. Bevestigingsmechanismen protocol.pdf">Bevestigignsmechanismen protocol</a>.
+Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie <a href="../reports and protocols/3. Bevestigingsmechanismen protocol.pdf">Bevestigignsmechanismen protocol</a>.
 
  
 <br clear="left" />
@@ -117,7 +117,7 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 
 ##### b. Extra servo test
 
-><a href="../reports and protocols/4. Bevestigingsmechanismen protocol.pdf"><b>Servo_draaien knoppen.mp4</b></a><br>
+><a href="../reports and protocols/3. Bevestigingsmechanismen protocol.pdf"><b>Servo_draaien knoppen.mp4</b></a><br>
 >De servo had niet genoeg kracht om zelfstandig te knop te draaien, maar er was niet veel extra kracht vereist. Er werd niet getest met een sterkere servo-motor, maar er kan vanuit gegaan worden dat grotere servo-motoren wel de knop zouden kunnen draaien.
 
 
