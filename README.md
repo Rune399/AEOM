@@ -181,7 +181,7 @@ AI werd ook gebruikt om sommige onderzoeken te verwerken. Hierbij werd opgelet d
 ### Develop 3
 * CMF (N=5)
   * [CMF protocol](reports%20and%20protocols/6.CMF_protocol.pdf)
-  * [CMFn report](reports%20and%20protocols/6.CMF_report.pdf)
+  * [CMF report](reports%20and%20protocols/6.CMF_report.pdf)
 
 ## Licentie
 
