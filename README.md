@@ -67,7 +67,7 @@ Het systeem regelt meerdere apparaten automatisch, waardoor de opgewekte zonne-e
   <img src="img/Hero1.png" width="100%">
 </p>-->
 <p align="center">
-  <img src="img/Hero2.png" width="100%">
+  <img src="img/CMF_variant1.png" width="100%">
 </p>
 
 ## Introductie
