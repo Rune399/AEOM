@@ -1,2 +1,1 @@
-Use this folder to share code on small tests: making a led burn, detecting a signal, ... this allows you to find this back easily later and share it with others.
-Use this readme file to describe these tests.
+Dit is een code voor het testen van de servo's
