@@ -92,6 +92,32 @@ Dit dossier beschrijft hoe dit concept tot stand kwam, met nadruk op de onderbou
 8. [Design Requirements](./docs/Design_requirements.md)
 9. [Bill of materials](./docs/BOM.md)
 
+# Conclusie
+
+Tijdens dit project werd onderzocht hoe bestaande huishoudtoestellen slimmer gemaakt kunnen worden zonder deze te vervangen. Uit gebruikersinterviews, benchmarkonderzoek, technische experimenten en meerdere iteraties van prototyping bleek dat veel gebruikers nood hebben aan extra functionaliteiten, zoals automatisering en slim energiebeheer, maar niet bereid zijn om hiervoor nieuwe toestellen aan te kopen.
+
+Het finale concept, **AEOM**, is een universeel automatiseringsplatform dat fysieke knoppen en draaiknoppen van bestaande apparaten automatisch kan bedienen. Hierdoor kunnen toestellen zoals wasmachines en droogkasten geïntegreerd worden in slimme automatiseringsscenario's zonder enige aanpassing aan het toestel zelf.
+
+Het concept bestaat uit een positioneerbare arm die zich naar de gewenste knop beweegt en deze fysiek bedient. Via een mobiele applicatie kan de gebruiker toestellen configureren, automatiseringen instellen en meldingen ontvangen. Hierdoor wordt functionaliteit toegevoegd aan bestaande apparaten, terwijl hun oorspronkelijke werking volledig behouden blijft.
+
+Wij geloven dat **AEOM** de best mogelijke oplossing is voor het gestelde probleem omdat het verschillende voordelen combineert die tijdens het onderzoek consequent als belangrijk naar voren kwamen:
+
+- Geen vervanging van bestaande toestellen nodig.
+- Compatibel met een brede waaier aan huishoudtoestellen.
+- Eenvoudig te installeren zonder demontage of technische kennis.
+- Herbruikbaar op verschillende apparaten.
+- Lagere kost dan de aankoop van nieuwe slimme toestellen.
+- Behoud van volledige controle door de gebruiker.
+- Mogelijkheid om toekomstige functionaliteiten via software uit te breiden.
+
+Bovendien werden gedurende het ontwikkelproces verschillende alternatieve oplossingen onderzocht, waaronder slimme stekkers, vaste interfaces, meerdere actuatorconfiguraties, verschillende bevestigingsmethoden en uiteenlopende positioneringsmechanismen. De uiteindelijke combinatie van een **sliding & rotating arm**, een **servogestuurde knopbediening** en een **modulaire mobiele interface** behaalde consequent de beste resultaten op vlak van gebruiksgemak, betrouwbaarheid, universaliteit en gebruikersacceptatie.
+
+De ontwerpkeuzes zijn gebaseerd op de verzamelde onderzoeksresultaten en voldoen aan de vooropgestelde [Design Requirements](./Design_Requirements.md). Hierdoor vormt **AEOM** een technisch haalbare, gebruiksvriendelijke en toekomstgerichte oplossing voor het automatiseren van bestaande huishoudtoestellen.
+
+<p align="center">
+  <img src="./img/CMF_variant1.png" width="75%">
+</p>
+
 ## Kritische reflectie
 
 Bij de define fase bleek het een uitdaging te zijn, om ons op het juiste pad te houden en niet de mist in te wandelen. We vergaten soms dat de in de define fase zaten, waar het de bedoeling is om oplossingen voor het probleem te zoeken.
