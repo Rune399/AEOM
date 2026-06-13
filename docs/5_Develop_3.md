@@ -171,7 +171,17 @@ De resultaten tonen duidelijke trends in hoe de varianten worden ervaren:
 
 ### Conclusies & implicaties  
 
+- Variant 1 is de beste oplossing, omwille van zijn sterke perceptie van kwaliteit, robuustheid en betrouwbaarheid bij gebruikers.  
 
+- Aluminium wordt gezien als het meest geschikte materiaal, met ABS als valabel alternatief door zijn goede balans tussen duurzaamheid en maakbaarheid.  
+
+### Finaal ontwerp
+<p align="left">
+  <img src="../img/CMF_variant1.png" width="70%">
+</p>
+
+ Voor meer detail over dit onderzoek, zie <a href="..reports and protocols/6.CMF_protocol.pdf">CMF protocol</a>, <a href="..reports and protocols/6.CMF_report.pdf">CMF report</a>.
+</p>
 <br>
 <p align="center">
   <a href="/5_Develop_3.md">⬆️ Return to top</a><br>
