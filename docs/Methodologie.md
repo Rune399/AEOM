@@ -51,8 +51,20 @@ Deze fase wordt in meer detail besproken in [Develop 3](5_Develop_3.md)
 Doorheen deze fase werd continu gedivergeerd en geconvergeerd, waarbij ideeën werden gegenereerd, getest en vervolgens gefilterd tot een onderbouwde ontwerpkeuze.
 
 ### Deliver
-*Coming soon* ;)
-#TODO
+
+Het doel van het Minimum Viable Product (MVP) was om de meest essentiële interacties van het concept te demonstreren en te valideren.
+
+Voor het [MVP](../docs/MVP.md) werden volgende vereisten opgesteld:
+
+- Meerdere knoppen moeten kunnen worden ingedrukt.
+- Minstens één draaiknop moet kunnen worden bediend.
+- Het apparaat moet stevig bevestigd kunnen worden op een wasmachine.
+
+Tijdens de ontwikkeling zijn de eerste en derde vereiste succesvol gerealiseerd. Het prototype kan meerdere knoppen bedienen en kan op een wasmachine worden bevestigd zoals voorzien.
+
+De bediening van een draaiknop kon echter niet volledig worden geïmplementeerd binnen de beschikbare projecttijd. Hoewel hiervoor concepten en technische oplossingen werden onderzocht, werd deze functionaliteit niet opgenomen in het finale prototype. Dit vormt een belangrijk aandachtspunt voor toekomstige iteraties van het ontwerp.
+
+Ondanks deze beperking slaagt het MVP erin de kern van het concept aan te tonen en de belangrijkste interacties te valideren. Het prototype levert waardevolle inzichten op voor een verdere ontwikkeling richting een volledig functioneel product.
 
 <br>
 
