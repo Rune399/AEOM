@@ -95,7 +95,7 @@ Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie 
 7.	Tabel opstellen en gemiddeldes van trek en moment per oplossing berekenen
 8.	Grafiek opstellen
 
-Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie <a href="../reports and protocols/3. Bevestigingsmechanismen protocol.pdf">Bevestigignsmechanismen protocol</a>.
+Voor meer detail over dit onderzoek of een blik op de gebruikte prototypes, zie <a href="../reports and protocols/2. Bevestigingsmechanismen protocol.pdf">Bevestigignsmechanismen protocol</a>.
 
  
 <br clear="left" />
