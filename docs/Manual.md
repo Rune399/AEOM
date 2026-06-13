@@ -52,7 +52,7 @@ AEOM maakt gebruik van een eenvoudige maar modulaire elektronica-opbouw rond een
 #### Elektrisch schema
 
 <p align="center">
-  <img src="img/Servo_and_Stepper_schema.png" width="80%">
+  <img src="../img/Servo_and_Stepper_schema.png" width="80%">
 </p>
 
 #### Gebruikte componenten
@@ -136,6 +136,9 @@ AEOM is ontworpen als een volledig 3D-geprint prototype. Alle structurele onderd
 - Om speling te voorkomen wordt het tandwiel permanent bevestigd met secondelijm.
 - De servomotor wordt gemonteerd in de armconstructie voor het bedienen van draaiknoppen.
 - Na montage worden alle kabels aangesloten via een breadboard met jumper wires.
+<p align="center">
+  <img src="../img/Onderdelen.png" width="80%">
+</p>
 
 ### Montagevolgorde
 
