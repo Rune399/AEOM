@@ -67,7 +67,7 @@ Het systeem regelt meerdere apparaten automatisch, waardoor de opgewekte zonne-e
   <img src="img/Hero1.png" width="100%">
 </p>-->
 <p align="center">
-  <img src="img/CMF_variant1.png" width="100%">
+  <img src="img/Render_op_wasmachine.png" width="100%">
 </p>
 
 ## Introductie
@@ -116,7 +116,7 @@ Bovendien werden gedurende het ontwikkelproces verschillende alternatieve oploss
 De ontwerpkeuzes zijn gebaseerd op de verzamelde onderzoeksresultaten en voldoen aan de vooropgestelde [Design Requirements](./Design_Requirements.md). Hierdoor vormt **AEOM** een technisch haalbare, gebruiksvriendelijke en toekomstgerichte oplossing voor het automatiseren van bestaande huishoudtoestellen.
 
 <p align="center">
-  <img src="./img/CMF_variant1.png" width="75%">
+  <img src="./img/Render_finale_product.jpg" width="75%">
 </p>
 
 ## Kritische reflectie
