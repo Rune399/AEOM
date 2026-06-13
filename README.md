@@ -13,7 +13,35 @@ AEOM, de slimme interface die gezinnen helpt zonne-energie optimaal te gebruiken
 
 ## Samenvatting
 
-Gebruikers hebben soms nood aan functionaliteit, die hun apparaten niet hebben. Nieuwe "slimme" apparaten bestaan, maar zijn vaak duur. Het is dan ook voor veel mensen niet de moeite om daarvoor een nieuwe machine te kopen. Om dat probleem op te lossen werd *AEOM* ontwikkeld.
+Gebruikers hebben soms nood aan functionaliteiten die hun huishoudtoestellen niet hebben. Hoewel er steeds meer slimme apparaten op de markt komen, zijn deze vaak duur en is het vervangen van een perfect werkend toestel voor veel mensen niet de moeite waard.
+
+Om dit probleem op te lossen werd **AEOM** ontwikkeld.
+
+Dit project begon oorspronkelijk als een oplossing voor eigenaars van zonnepanelen die hun opgewekte energie optimaal wilden benutten. Tijdens het ontwerpproces bleek echter dat de onderliggende behoefte breder was: gebruikers willen bestaande apparaten automatiseren zonder deze te vervangen. Daarom verschoof de focus naar het slim maken van zogenaamde **"domme" apparaten**, met een specifieke focus op wasmachines en droogkasten.
+
+### Voorbeelden van toepassingen
+
+- Een wasmachine automatisch starten wanneer de energieprijs het laagst is.
+- Een droogkast laten draaien wanneer er voldoende zonne-energie beschikbaar is.
+- Een wasprogramma starten zodat het klaar is wanneer de gebruiker thuiskomt.
+- Bestaande toestellen integreren in een slimme woning zonder nieuwe apparaten aan te kopen.
+
+### De oplossing
+
+AEOM is een modulair systeem dat fysieke knoppen en draaiknoppen van bestaande apparaten automatisch kan bedienen. Hierdoor kunnen huishoudtoestellen geautomatiseerd worden zonder aanpassingen aan het toestel zelf.
+
+✨ Automatiseert bestaande apparaten zonder demontage.
+
+⚙️ Bedient fysieke knoppen en draaiknoppen automatisch.
+
+📱 Configureerbaar via een gebruiksvriendelijke applicatie.
+
+🔔 Ondersteunt meldingen en statusupdates.
+
+🔄 Herbruikbaar op verschillende toestellen.
+
+Door bestaande apparaten slimmer te maken in plaats van ze te vervangen, biedt Orion een toegankelijke en duurzame manier om meer comfort, automatisering en controle in huis te brengen.
+<!--Gebruikers hebben soms nood aan functionaliteit, die hun apparaten niet hebben. Nieuwe "slimme" apparaten bestaan, maar zijn vaak duur. Het is dan ook voor veel mensen niet de moeite om daarvoor een nieuwe machine te kopen. Om dat probleem op te lossen werd *AEOM* ontwikkeld.
 
 Dit project is begonnen als oplossing voor zonnepaneel-houders, die optimaal gebruik willen maken van hun zonne-energie. 
 Uiteindelijk is dat echter verandert, naar het automatiseren van "domme" apparaten. Met een focus op wasmachines en droogkasten.
