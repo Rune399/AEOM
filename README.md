@@ -91,7 +91,7 @@ Dit dossier beschrijft hoe dit concept tot stand kwam, met nadruk op de onderbou
 7. [Develop 3](./docs/5_Develop_3.md)
 8. [Design Requirements](./docs/Design_requirements.md)
 9. [Bill of materials](./docs/BOM.md)
-10. [Handleiding voor laatste prototype](./docs/Manuel.md)
+10. [Handleiding voor laatste prototype](./docs/Manual.md)
 
 # Conclusie
 
