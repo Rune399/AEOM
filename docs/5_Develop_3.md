@@ -179,7 +179,7 @@ De resultaten tonen duidelijke trends in hoe de varianten worden ervaren:
 <p align="left">
   <img src="../img/CMF_variant1.png" width="70%">
 </p>
-
+<br><br>
  Voor meer detail over dit onderzoek, zie <a href="../reports and protocols/6.CMF_protocol.pdf">CMF protocol</a>, <a href="../reports and protocols/6.CMF_report.pdf">CMF report</a>.
 </p>
 <br>
