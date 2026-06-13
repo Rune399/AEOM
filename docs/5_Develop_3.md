@@ -135,6 +135,40 @@ Onderzoeksvragen:
 
 <br>
 
+#### 2. Gebruikersonderzoek CMF  
+
+De verschillende CMF varianten werden geëvalueerd via interviews (N = 5), waarbij voorkeur, perceptie van kwaliteit en geschiktheid binnen de context van een wasmachine werden onderzocht.  
+
+De resultaten tonen duidelijke trends in hoe de varianten worden ervaren:  
+
+- **Voorkeur & perceptie**  
+  - Variant 1 wordt het meest gekozen als voorkeursoptie  
+  - Aluminium wordt sterk geassocieerd met kwaliteit, stevigheid en betrouwbaarheid  
+  - Varianten 3 en 4 worden gewaardeerd om hun neutrale en sobere uitstraling  
+
+- **Negatieve perceptie**  
+  - Variant 5 wordt consistent negatief beoordeeld door het gebruik van meerdere kleuren en een chaotische uitstraling  
+  - Variant 2 wordt gezien als goedkoop en fragiel, wat het vertrouwen in het product verlaagt  
+
+- **Materiaalperceptie**  
+  - Aluminium wordt door de meeste gebruikers gezien als het meest duurzame en kwalitatieve materiaal  
+  - ABS wordt ook positief beoordeeld als alternatief materiaal  
+  - Plastiek in transparante of lichte varianten wordt sneller als minder stevig ervaren  
+
+- **Kleur & esthetiek**  
+  - Neutrale kleuren worden als rustgevend en passend ervaren binnen de context van huishoudtoestellen  
+  - Felle of contrasterende combinaties worden als storend en minder professioneel ervaren  
+  - Monochrome grijstinten worden geassocieerd met duurzaamheid en tijdloosheid  
+
+- **Onderhoud & duurzaamheid**  
+  - Aluminium en matte afwerkingen worden als onderhoudsvriendelijk en duurzaam ervaren  
+  - Vingerafdrukken en verkleuring worden als mogelijke nadelen gezien bij bepaalde plastieken  
+
+- **Professionele uitstraling**  
+  - Variant 1 scoort het hoogst op professionele uitstraling  
+  - Varianten 3 en 4 volgen als neutrale en veilige keuzes  
+  - Varianten 2 en 5 worden als minst professioneel ervaren  
+
 ### Conclusies & implicaties  
 
 
