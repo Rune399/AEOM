@@ -130,8 +130,6 @@ Bovendien hebben we veel tijd verloren, door in de les te bespreken wat de volge
 Op een bepaald moment twijfelden we over de richting waarin we gingen, we stonden op het punt om een pivot te ondergaan, maar hebben dat uiteindelijk niet gedaan. De oorzaak van deze twijfel was waarschijnlijk dat we juist het interface-onderzoek hadden uitgevoert, dat eigenlijk voor het volgende semester was bedoeld. Door deze pseudo-pivot zijn opniew veel tijd verloren.
 Hierdoor hadden we het gevoel dat we heel de tijd achter zaten (wat ook wel zo was) en hebben we ook geen tijd meer gehad om een een tweede onderzoek te doen dat wel goed in de define fase hoort... 
 
-voor het komende semester zou het waarschijnlijk efficienter zijn, om ieder voor zich al eens na te denken wat de volgende stappen zijn en de anderen daarvan al op de hoogte te brengen. Zo heeft iedereen zijn eigen idee al gevormd en eens nagedacht over de puntjes van de anderen. Zo kan dit nog even besproken worden in het begin van de les, waarna nog tijd is om aan het project te werken.
-
 ## Noot inzake het gebruik van AI
 Om schetsen om te zetten in renders werd "[Vizcom](https://vizcom.com)" gebruikt (o.a. [Hero-shot](img/Hero1.png)).
 AI werd ook gebruikt om sommige onderzoeken te verwerken. Hierbij werd opgelet dat **alle info geanonimiseerd** werd **alvorens** AI in te zetten.
